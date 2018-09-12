@@ -19,6 +19,7 @@ include_once WC_ABSPATH.'/includes/wc-order-functions.php';
 
 use MelhorEnvio\OrdersController;
 use MelhorEnvio\ConfigurationController;
+use MelhorEnvio\UsersController;
 
 class woocommercemelhorenviointegration 
 {
@@ -52,19 +53,16 @@ class woocommercemelhorenviointegration
                 'success' => true,
                 'data' => $order->getAll()
             ]); 
-            die();
         });
 
         // Send to cart
         add_action( 'wp_ajax_wpmelhorenvio_send_order', function() {
             $order = new ordersController();
             echo $order->send();
-            die();
         });
 
         //Save token
         add_action( 'wp_ajax_wpmelhorenvio_save_token', function() {
-
             if (!$_GET['token']) {
                 echo wp_send_json([
                     'error' => true,
@@ -79,6 +77,21 @@ class woocommercemelhorenviointegration
                 'success' => true,
                 'token' => $token
             ]);
+        });
+
+        // Get info user
+        add_action( 'wp_ajax_wpmelhorenvio_get_user', function() {
+            $user = new UsersController();
+            $data = $user->getInfo();
+
+            if ($data['error']) {
+                echo wp_send_json($data);
+                die();
+            }
+
+            echo wp_send_json($data);
+            die();
+            
         });
     }
 }

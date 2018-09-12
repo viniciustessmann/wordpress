@@ -17,9 +17,8 @@ CONST VERSION_PLUGIN_MELHOR_ENVIO = '2.0.0';
 require __DIR__ . '/vendor/autoload.php';
 include_once WC_ABSPATH.'/includes/wc-order-functions.php';
 
-use MelhorEnvio\OrdersController;
-use MelhorEnvio\ConfigurationController;
-use MelhorEnvio\UsersController;
+use Controllers\OrdersController;
+use Controllers\ConfigurationController;
 
 class woocommercemelhorenviointegration 
 {

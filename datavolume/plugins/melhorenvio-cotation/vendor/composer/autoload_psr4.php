@@ -6,5 +6,6 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'MelhorEnvio\\' => array($baseDir . '/controllers'),
+    'Models\\' => array($baseDir . '/models'),
+    'Controllers\\' => array($baseDir . '/controllers'),
 );

@@ -14,6 +14,9 @@
     "require": {
     },
     "autoload": {
-        "psr-4": {"MelhorEnvio\\": "controllers/"}
+        "psr-4": {
+            "Controllers\\": "controllers/",
+            "Models\\": "models/"
+        }
     }
 }

@@ -13,12 +13,6 @@ class UsersController {
         $dataUser = get_option('melhorenvio_user_info');
         if (!$dataUser) {
             $token = get_option('melhorenvio_token');
-            if (!$token) {
-                return [
-                    'error' => true,
-                    'message' => 'Token inválido'
-                ];  
-            }
 
             $params = array('headers'=>[
                 'Content-Type' => 'application/json',
@@ -43,9 +37,9 @@ class UsersController {
             ];
         } 
 
-        return [
+        return  (object) [
             'success' => true,
-            'data' => $dataUser
+            'data' => (object) $dataUser
         ];
 
     }

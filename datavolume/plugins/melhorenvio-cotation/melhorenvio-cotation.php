@@ -18,10 +18,10 @@ require __DIR__ . '/vendor/autoload.php';
 include_once WC_ABSPATH.'/includes/wc-order-functions.php';
 
 use MelhorEnvio\OrdersController;
+use MelhorEnvio\ConfigurationController;
 
 class woocommercemelhorenviointegration 
 {
-
     public function __construct() {
         add_action('plugins_loaded',array($this,'init'));
     }
@@ -46,11 +46,30 @@ class woocommercemelhorenviointegration
         });
 
         // Get orders
-        // http://localhost:8080/wp-admin/admin-ajax.php/?action=wpmelhorenvio_get_orders
         add_action( 'wp_ajax_wpmelhorenvio_get_orders', function() {
             $order = new ordersController();
             echo $order->getAll();
             die();
+        });
+
+        //Save token
+        add_action( 'wp_ajax_wpmelhorenvio_save_token', function() {
+
+            if (!$_GET['token']) {
+                echo wp_send_json([
+                    'error' => true,
+                    'message' => 'Campo "token" é obrigatorio'
+                ]); 
+            }
+
+            $configuration = new ConfigurationController();
+            $token = $configuration->saveToken($_GET['token']);
+
+            echo wp_send_json([
+                'success' => true,
+                'token' => $token
+            ]);
+            
         });
     }
 }

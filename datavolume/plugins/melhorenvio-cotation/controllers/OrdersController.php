@@ -9,8 +9,18 @@ class OrdersController {
     }
 
     public function getAll() {
-        include_once WC_ABSPATH.'/includes/wc-order-functions.php';
-        return wc_get_orders([]);
+
+        $orders =  wc_get_orders([]);
+
+        $response = [];
+        foreach ($orders as $item) {
+
+            $response[] = (object) [
+                'id'   => $item->get_id()
+            ];
+        }
+
+        return json_encode($response);
     }
 }
 

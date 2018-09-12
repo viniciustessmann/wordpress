@@ -1,0 +1,349 @@
+2018-04-25T13:18:46+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Variable::is_product() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/packageQuotation.php:29
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/services/Jamef.php(57): wpmelhorenviopackage_getPackageInternal(Array, '7', false, false)
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(207): WC_Jamef_Shipping_Method->calculate_shipping(Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(333): WC_Shipping_Method->get_rates_for_package(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#4 /var/www/html/wp-content/plugins/woo-calculate-shipping-in-product-page/view/shipping-calculator.php(73): WC_Shipping->calculate_shipping(Array)
+#5 /var/www/html/wp-content/plugins/woo-calculate-shipping-in-product-page/lib/main.php(209): include_once('/va
+
+2018-04-26T12:08:49+00:00 CRITICAL Uncaught Error: Call to undefined function make_absolute_url() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/config.php:27
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/views/apikey.php(11): wpmelhorenvio_updateUserData('eyJ0eXAiOiJKV1Q...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(73): include_once('/var/www/html/w...')
+#2 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_cadastro('')
+#3 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /var/www/html/wp-admin/admin.php(224): do_action('melhor-envio_pa...')
+#6 {main}
+  thrown
+
+2018-04-26T12:09:32+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WP_Http::make_absolute_url(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/config.php on line 27 and exactly 2 expected in /var/www/html/wp-includes/class-http.php:887
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/config.php(27): WP_Http::make_absolute_url('https://www.mel...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/views/apikey.php(11): wpmelhorenvio_updateUserData('eyJ0eXAiOiJKV1Q...')
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(73): include_once('/var/www/html/w...')
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_cadastro('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin.php(224): do_action('melhor-envio_pa...')
+#7 {main}
+  thrown
+
+2018-04-26T12:09:37+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WP_Http::make_absolute_url(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/config.php on line 27 and exactly 2 expected in /var/www/html/wp-includes/class-http.php:887
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/config.php(27): WP_Http::make_absolute_url('https://www.mel...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/views/apikey.php(11): wpmelhorenvio_updateUserData('eyJ0eXAiOiJKV1Q...')
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(73): include_once('/var/www/html/w...')
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_cadastro('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin.php(224): do_action('melhor-envio_pa...')
+#7 {main}
+  thrown
+
+2018-04-26T14:57:14+00:00 CRITICAL Uncaught Error: Call to undefined function wpmelhorenvio_getApiCompanies() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/docs.php:11
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/orders.php(112): wpmelhorenvio_getDocsOrder(606)
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(118): wpmelhorenvio_getJsonOrders()
+#2 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#3 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#6 {main}
+  thrown
+
+2018-04-26T16:53:19+00:00 CRITICAL Uncaught Error: Call to undefined function json_ewpmelhorenvio_updateInfoOrder() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php:258
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_update_info_order('')
+#1 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#4 {main}
+  thrown
+
+2018-04-26T16:53:21+00:00 CRITICAL Uncaught Error: Call to undefined function json_ewpmelhorenvio_updateInfoOrder() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php:258
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_update_info_order('')
+#1 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#4 {main}
+  thrown
+
+2018-04-27T16:47:30+00:00 CRITICAL Uncaught Error: Cannot use object of type stdClass as array in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/orders.php:203
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(126): wpmelhorenvio_ticketAcquirementAPI()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_ticketAcquirementAPI('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-04-27T16:49:56+00:00 CRITICAL Uncaught Error: Cannot use object of type stdClass as array in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/orders.php:203
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(126): wpmelhorenvio_ticketAcquirementAPI()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_ticketAcquirementAPI('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-04-27T16:52:40+00:00 CRITICAL Uncaught Error: Cannot use object of type stdClass as array in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/orders.php:205
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(126): wpmelhorenvio_ticketAcquirementAPI()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_ticketAcquirementAPI('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-04-27T17:45:19+00:00 CRITICAL Uncaught Error: Call to a member function get() on null in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/orders.php:220
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/orders.php(421): wpmelhorenvio_getTrackingByorder('6f5290d9-59aa-4...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(133): wpmelhorenvio_ticketPrintingAPI()
+#2 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_ticketPrintingAPI('')
+#3 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#6 {main}
+  thrown
+
+2018-04-27T17:46:21+00:00 CRITICAL Uncaught Error: Call to a member function get() on null in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/orders.php:220
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/orders.php(421): wpmelhorenvio_getTrackingByorder('6f5290d9-59aa-4...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(133): wpmelhorenvio_ticketPrintingAPI()
+#2 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_ticketPrintingAPI('')
+#3 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#6 {main}
+  thrown
+
+2018-04-27T17:48:45+00:00 CRITICAL Uncaught Error: Call to a member function get() on null in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/orders.php:222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/orders.php(442): wpmelhorenvio_getTrackingByorder('6f5290d9-59aa-4...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(133): wpmelhorenvio_ticketPrintingAPI()
+#2 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_ticketPrintingAPI('')
+#3 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#6 {main}
+  thrown
+
+2018-04-27T17:49:38+00:00 CRITICAL Uncaught Error: Call to a member function get() on null in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/orders.php:224
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/orders.php(444): wpmelhorenvio_getTrackingByorder('6f5290d9-59aa-4...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(133): wpmelhorenvio_ticketPrintingAPI()
+#2 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_ticketPrintingAPI('')
+#3 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#6 {main}
+  thrown
+
+2018-04-27T17:50:15+00:00 CRITICAL Uncaught Error: Call to a member function get() on null in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/orders.php:225
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/orders.php(445): wpmelhorenvio_getTrackingByorder('6f5290d9-59aa-4...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(133): wpmelhorenvio_ticketPrintingAPI()
+#2 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_ticketPrintingAPI('')
+#3 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#6 {main}
+  thrown
+
+2018-04-27T18:48:06+00:00 CRITICAL Uncaught Error: Cannot use object of type stdClass as array in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/orders.php:469
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(175): wpmelhorenvio_getTrackingApiMR()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getTrackingApiMR('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-04-27T18:53:41+00:00 CRITICAL Uncaught Error: Cannot use object of type stdClass as array in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/orders.php:469
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(175): wpmelhorenvio_getTrackingApiMR()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getTrackingApiMR('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-04-30T12:11:17+00:00 CRITICAL Uncaught Error: Cannot use object of type WC_Product_Variation as array in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/packageQuotation.php:17
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/services/Jamef.php(57): wpmelhorenviopackage_getPackageInternal(Array, '7', false, false)
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(207): WC_Jamef_Shipping_Method->calculate_shipping(Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(333): WC_Shipping_Method->get_rates_for_package(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1251): WC_Shipping->calculate_shipping(Array)
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(345): WC_Cart->calculate_shipping()
+#6 /var/www/html/wp-con
+
+2018-04-30T12:12:00+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Variation::get_quantity() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/packageQuotation.php:17
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/services/Jamef.php(57): wpmelhorenviopackage_getPackageInternal(Array, '7', false, false)
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(207): WC_Jamef_Shipping_Method->calculate_shipping(Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(333): WC_Shipping_Method->get_rates_for_package(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1251): WC_Shipping->calculate_shipping(Array)
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(345): WC_Cart->calculate_shipping()
+#6 /var/www/html/
+
+2018-04-30T12:13:15+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Variation::get_quantity() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/packageQuotation.php:24
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/services/Jamef.php(57): wpmelhorenviopackage_getPackageInternal(Array, '7', false, false)
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(207): WC_Jamef_Shipping_Method->calculate_shipping(Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(333): WC_Shipping_Method->get_rates_for_package(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1251): WC_Shipping->calculate_shipping(Array)
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(345): WC_Cart->calculate_shipping()
+#6 /var/www/html/
+
+2018-04-30T12:13:28+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Variation::get_quantity() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/packageQuotation.php:24
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/services/Jamef.php(57): wpmelhorenviopackage_getPackageInternal(Array, '7', false, false)
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(207): WC_Jamef_Shipping_Method->calculate_shipping(Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(333): WC_Shipping_Method->get_rates_for_package(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1251): WC_Shipping->calculate_shipping(Array)
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(345): WC_Cart->calculate_shipping()
+#6 /var/www/html/
+
+2018-04-30T12:14:26+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Variation::get_quantity() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/packageQuotation.php:24
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/services/Jamef.php(57): wpmelhorenviopackage_getPackageInternal(Array, '7', false, false)
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(207): WC_Jamef_Shipping_Method->calculate_shipping(Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(333): WC_Shipping_Method->get_rates_for_package(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1251): WC_Shipping->calculate_shipping(Array)
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(345): WC_Cart->calculate_shipping()
+#6 /var/www/html/
+
+2018-04-30T12:16:37+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Variation::get_quantity() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/packageQuotation.php:24
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/services/Jamef.php(57): wpmelhorenviopackage_getPackageInternal(Array, '7', false, false)
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(207): WC_Jamef_Shipping_Method->calculate_shipping(Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(333): WC_Shipping_Method->get_rates_for_package(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1251): WC_Shipping->calculate_shipping(Array)
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(345): WC_Cart->calculate_shipping()
+#6 /var/www/html/
+
+2018-04-30T12:24:38+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Variation::get_quantity() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/packageQuotation.php:25
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/services/Jamef.php(57): wpmelhorenviopackage_getPackageInternal(Array, '7', false, false)
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(207): WC_Jamef_Shipping_Method->calculate_shipping(Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(333): WC_Shipping_Method->get_rates_for_package(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1251): WC_Shipping->calculate_shipping(Array)
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(345): WC_Cart->calculate_shipping()
+#6 /var/www/html/
+
+2018-04-30T14:07:50+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/packageQuotation.php:19
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/services/Jamef.php(57): wpmelhorenviopackage_getPackageInternal(Array, '7', false, false)
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(207): WC_Jamef_Shipping_Method->calculate_shipping(Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(333): WC_Shipping_Method->get_rates_for_package(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1251): WC_Shipping->calculate_shipping(Array)
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(345): WC_Cart->calculate_shipping()
+#6 /var/www/html/wp-content/plugins/
+
+2018-04-30T14:15:15+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Variation::get_variant_id() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/packageQuotation.php:19
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/services/Jamef.php(57): wpmelhorenviopackage_getPackageInternal(Array, '7', false, false)
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(207): WC_Jamef_Shipping_Method->calculate_shipping(Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(333): WC_Shipping_Method->get_rates_for_package(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1251): WC_Shipping->calculate_shipping(Array)
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(345): WC_Cart->calculate_shipping()
+#6 /var/www/htm
+
+2018-04-30T15:15:10+00:00 CRITICAL Uncaught Error: Call to undefined function son_decode() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/packageQuotation.php:70
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/services/Jamef.php(57): wpmelhorenviopackage_getPackageInternal(Array, '7', false, false)
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(207): WC_Jamef_Shipping_Method->calculate_shipping(Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(333): WC_Shipping_Method->get_rates_for_package(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1251): WC_Shipping->calculate_shipping(Array)
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(345): WC_Cart->calculate_shipping()
+#6 /var/www/html/wp-content/plugins/woo
+
+2018-04-30T15:15:18+00:00 CRITICAL Uncaught Error: Cannot use object of type stdClass as array in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/packageQuotation.php:70
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/services/Jamef.php(57): wpmelhorenviopackage_getPackageInternal(Array, '7', false, false)
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(207): WC_Jamef_Shipping_Method->calculate_shipping(Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(333): WC_Shipping_Method->get_rates_for_package(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1251): WC_Shipping->calculate_shipping(Array)
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(345): WC_Cart->calculate_shipping()
+#6 /var/www/html/wp-content/plugins
+
+2018-04-30T16:59:30+00:00 CRITICAL Uncaught Error: Call to undefined function wpmelhorenvio_getJsonOrders2() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php:128
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders2('')
+#1 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#4 {main}
+  thrown
+
+2018-04-30T16:59:59+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wc_get_orders(), 0 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/orders2.php on line 6 and exactly 1 expected in /var/www/html/wp-content/plugins/woocommerce/includes/wc-order-functions.php:28
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/orders2.php(6): wc_get_orders()
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(127): wpmelhorenvio_getJsonOrders2()
+#2 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders2('')
+#3 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#6 {main}
+  thrown
+
+2018-04-30T17:07:19+00:00 CRITICAL Uncaught Error: Call to undefined method WooCommerce::wc_get_orders() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/orders2.php:8
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(127): wpmelhorenvio_getJsonOrders2()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders2('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-04-30T17:09:50+00:00 CRITICAL Uncaught Error: Class 'WC_API_Orders' not found in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/orders2.php:8
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(127): wpmelhorenvio_getJsonOrders2()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders2('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-04-30T17:11:54+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wc_get_orders(), 0 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/orders2.php on line 8 and exactly 1 expected in /var/www/html/wp-content/plugins/woocommerce/includes/wc-order-functions.php:28
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/orders2.php(8): wc_get_orders()
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(127): wpmelhorenvio_getJsonOrders2()
+#2 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders2('')
+#3 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#6 {main}
+  thrown
+
+2018-04-30T17:24:28+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order::get_price() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/orders2.php:15
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(127): wpmelhorenvio_getJsonOrders2()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders2('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+

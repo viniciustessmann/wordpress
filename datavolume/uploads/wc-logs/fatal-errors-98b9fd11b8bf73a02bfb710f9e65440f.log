@@ -1,0 +1,20 @@
+2018-06-15T14:44:21+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php:214
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/services/JadlogCom.php(122): WC_Shipping::get_shipping_classes()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(207): WC_Jadlog_com_Shipping_Method->calculate_shipping(Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(333): WC_Shipping_Method->get_rates_for_package(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1251): WC_Shipping->calculate_shipping(Array)
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(345): WC_Cart->calculate_shipping()
+#6 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-car
+
+2018-06-15T14:52:42+00:00 CRITICAL Uncaught Error: Call to undefined function get_shipping_method_class_names() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/packageQuotation.php:28
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/services/JadlogCom.php(124): wpmelhorenviopackage_getPackageInternal(Array, '4', false, false)
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(207): WC_Jadlog_com_Shipping_Method->calculate_shipping(Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(333): WC_Shipping_Method->get_rates_for_package(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1251): WC_Shipping->calculate_shipping(Array)
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(345): WC_Cart->calculate_shipping()
+#6 /var/
+

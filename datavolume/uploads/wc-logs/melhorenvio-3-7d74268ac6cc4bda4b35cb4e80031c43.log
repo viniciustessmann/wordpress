@@ -1,0 +1,2856 @@
+07-04-2018 @ 11:30:02 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] => 
+            [address] => 
+            [number] => 
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 
+            [receipt] => 
+        )
+
+)
+
+07-04-2018 @ 11:30:02 - {"status":"Error","code":406,"message":"Not Acceptable"}
+07-04-2018 @ 11:30:02 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] => 
+            [address] => 
+            [number] => 
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 
+            [receipt] => 
+        )
+
+)
+
+07-04-2018 @ 11:30:02 - {"status":"Error","code":406,"message":"Not Acceptable"}
+07-04-2018 @ 11:30:06 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] => 
+            [address] => 
+            [number] => 
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 
+            [receipt] => 
+        )
+
+)
+
+07-04-2018 @ 11:30:06 - {"status":"Error","code":406,"message":"Not Acceptable"}
+07-04-2018 @ 11:30:10 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] => 
+            [address] => 
+            [number] => 
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 
+            [receipt] => 
+        )
+
+)
+
+07-04-2018 @ 11:30:10 - {"status":"Error","code":406,"message":"Not Acceptable"}
+07-04-2018 @ 11:31:10 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] => 
+            [address] => 
+            [number] => 
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 
+            [receipt] => 
+        )
+
+)
+
+07-04-2018 @ 11:31:10 - {"status":"Error","code":406,"message":"Not Acceptable"}
+07-04-2018 @ 11:32:10 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] => 
+            [address] => 
+            [number] => 
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 
+            [receipt] => 
+        )
+
+)
+
+07-04-2018 @ 11:32:10 - {"status":"Error","code":406,"message":"Not Acceptable"}
+07-04-2018 @ 11:34:10 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] => 
+            [address] => 
+            [number] => 
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 
+            [receipt] => 
+        )
+
+)
+
+07-04-2018 @ 11:34:10 - {"status":"Error","code":406,"message":"Not Acceptable"}
+07-04-2018 @ 11:36:11 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] => 
+            [address] => 
+            [number] => 
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 
+            [receipt] => 
+        )
+
+)
+
+07-04-2018 @ 11:36:11 - {"status":"Error","code":406,"message":"Not Acceptable"}
+07-04-2018 @ 11:36:29 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] => 
+            [address] => 
+            [number] => 
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 
+            [receipt] => 
+        )
+
+)
+
+07-04-2018 @ 11:36:29 - {"status":"Error","code":406,"message":"Not Acceptable"}
+07-04-2018 @ 11:37:03 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] => 
+            [address] => 
+            [number] => 
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 
+            [receipt] => 
+        )
+
+)
+
+07-04-2018 @ 11:37:03 - {"status":"Error","code":406,"message":"Not Acceptable"}
+07-04-2018 @ 11:37:11 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] => 
+            [address] => 
+            [number] => 
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 
+            [receipt] => 
+        )
+
+)
+
+07-04-2018 @ 11:37:11 - {"status":"Error","code":406,"message":"Not Acceptable"}
+07-04-2018 @ 11:37:16 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] => 
+            [address] => 
+            [number] => 
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 
+            [receipt] => 
+        )
+
+)
+
+07-04-2018 @ 11:37:16 - {"status":"Error","code":406,"message":"Not Acceptable"}
+07-04-2018 @ 11:37:46 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] => 
+            [address] => 
+            [number] => 
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 
+            [receipt] => 
+        )
+
+)
+
+07-04-2018 @ 11:37:46 - {"status":"Error","code":406,"message":"Not Acceptable"}
+07-04-2018 @ 11:38:02 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] => 
+            [address] => 
+            [number] => 
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 11:38:02 - {"status":"Error","code":406,"message":"Not Acceptable"}
+07-04-2018 @ 11:38:04 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] => 
+            [address] => 
+            [number] => 
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 11:38:04 - {"status":"Error","code":406,"message":"Not Acceptable"}
+07-04-2018 @ 11:38:06 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] => 
+            [address] => 
+            [number] => 
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 11:38:06 - {"status":"Error","code":406,"message":"Not Acceptable"}
+07-04-2018 @ 11:38:36 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] => 
+            [address] => 
+            [number] => 
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 11:38:36 - {"status":"Error","code":406,"message":"Not Acceptable"}
+07-04-2018 @ 11:39:34 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] => 
+            [address] => 
+            [number] => 
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 11:39:34 - {"status":"Error","code":406,"message":"Not Acceptable"}
+07-04-2018 @ 11:40:33 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] => 
+            [address] => 
+            [number] => 
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 11:40:33 - {"status":"Error","code":406,"message":"Not Acceptable"}
+07-04-2018 @ 11:40:52 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] => 
+            [address] => 
+            [number] => 
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 11:40:52 - {"status":"Error","code":406,"message":"Not Acceptable"}
+07-04-2018 @ 11:43:07 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] => 
+            [address] => 
+            [number] => 
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 11:43:07 - {"status":"Error","code":406,"message":"Not Acceptable"}
+07-04-2018 @ 11:44:12 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] => 
+            [address] => 
+            [number] => 
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 11:44:12 - {"status":"Error","code":406,"message":"Not Acceptable"}
+07-04-2018 @ 11:44:16 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] => 
+            [address] => 
+            [number] => 
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 11:44:16 - {"status":"Error","code":406,"message":"Not Acceptable"}
+07-04-2018 @ 11:44:44 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 11:44:44 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":0},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]
+07-04-2018 @ 11:44:47 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 11:44:47 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":0},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]
+07-04-2018 @ 11:44:51 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 11:44:51 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":0},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]
+07-04-2018 @ 11:47:29 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 11:47:29 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":0},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]
+07-04-2018 @ 11:49:30 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 11:49:30 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":0},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]
+07-04-2018 @ 11:49:49 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 11:49:49 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":0},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]
+07-04-2018 @ 11:50:23 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 11:50:23 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":0},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]
+07-04-2018 @ 11:51:23 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 11:51:23 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":0},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]
+07-04-2018 @ 11:51:38 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 11:51:38 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":0},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]
+07-04-2018 @ 11:52:03 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 11:52:03 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":0},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]
+07-04-2018 @ 11:52:41 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 11:52:41 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":0},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]
+07-04-2018 @ 11:53:17 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 11:53:17 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":0},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]
+07-04-2018 @ 11:54:19 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 11:54:19 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":0},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]
+07-04-2018 @ 11:55:19 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 11:55:19 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":0},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]
+07-04-2018 @ 11:55:20 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 11:55:20 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":0},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]
+07-04-2018 @ 11:56:20 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 11:56:20 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":0},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]
+07-04-2018 @ 11:57:20 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 11:57:20 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":0},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]
+07-04-2018 @ 11:58:20 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 11:58:20 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":0},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]
+07-04-2018 @ 11:59:20 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 11:59:20 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":0},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]
+07-04-2018 @ 12:00:20 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 12:00:20 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":0},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]
+07-04-2018 @ 12:01:20 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 12:01:20 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":0},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]
+07-04-2018 @ 12:02:20 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 12:02:20 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":0},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]
+07-04-2018 @ 12:02:26 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 12:02:26 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":0},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]
+07-04-2018 @ 12:02:49 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 12:02:49 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":0},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]
+07-04-2018 @ 12:02:57 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 12:02:57 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":0},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]
+07-04-2018 @ 12:03:58 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 12:03:58 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":0},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]
+07-04-2018 @ 12:05:59 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 12:05:59 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":0},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]
+07-04-2018 @ 12:07:59 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 12:07:59 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":0},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]
+07-04-2018 @ 13:02:13 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 13:02:13 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":0},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]
+07-04-2018 @ 13:03:13 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 13:03:13 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":0},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]
+07-04-2018 @ 13:05:14 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 13:05:14 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":0},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]
+07-04-2018 @ 13:07:15 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 13:07:15 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":0},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]
+07-04-2018 @ 13:09:16 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 13:09:16 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":0},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]
+07-04-2018 @ 13:11:17 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 13:11:17 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":0},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]
+07-04-2018 @ 13:15:50 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 13:15:50 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":0},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]
+07-04-2018 @ 13:17:47 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 13:17:47 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":0},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]
+07-04-2018 @ 13:19:48 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 13:19:48 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":0},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]
+07-04-2018 @ 13:21:49 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 13:21:49 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":0},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]
+07-04-2018 @ 13:23:50 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 13:23:50 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":0},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]
+07-04-2018 @ 13:25:51 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 13:25:51 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":0},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]
+07-04-2018 @ 15:03:21 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 15:03:21 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":109.33},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]
+07-04-2018 @ 15:04:21 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 15:04:21 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":109.33},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]
+07-04-2018 @ 15:05:21 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 15:05:21 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":109.33},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]
+07-04-2018 @ 15:06:22 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 15:06:22 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":109.33},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]
+07-04-2018 @ 15:08:23 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 15:08:23 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":109.33},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]
+07-04-2018 @ 15:10:24 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 15:10:24 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":109.33},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]
+07-04-2018 @ 15:12:25 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 15:12:25 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":109.33},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]
+07-04-2018 @ 15:14:12 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 15:14:12 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":109.33},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]
+07-04-2018 @ 15:15:11 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 15:15:11 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":109.33},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]
+07-04-2018 @ 15:16:11 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 15:16:11 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":109.33},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]
+07-04-2018 @ 15:17:12 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 15:17:12 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":109.33},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]
+07-04-2018 @ 15:18:26 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 15:18:26 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":109.33},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]
+07-04-2018 @ 15:19:25 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 15:19:25 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":109.33},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]
+07-04-2018 @ 15:20:26 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 15:20:26 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":109.33},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]
+07-04-2018 @ 15:21:25 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 15:21:25 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":109.33},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]
+07-04-2018 @ 15:22:25 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 15:22:25 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":109.33},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]
+07-04-2018 @ 15:23:25 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 15:23:25 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":109.33},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]
+07-04-2018 @ 15:24:26 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 15:24:26 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":109.33},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]
+07-04-2018 @ 15:25:26 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 15:25:26 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":109.33},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]
+07-04-2018 @ 15:26:27 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 15:26:27 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":109.33},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]
+07-04-2018 @ 15:27:56 - stdClass Object
+(
+    [to] => stdClass Object
+        (
+            [postal_code] => 69540-970
+            [address] => Avenida Sete de Setembro
+            [number] => 
+        )
+
+    [from] => stdClass Object
+        (
+            [postal_code] =>  96065710
+            [address] => Plácido de Castro
+            [number] => 351
+        )
+
+    [package] => stdClass Object
+        (
+            [width] => 20
+            [height] => 30
+            [length] => 16
+            [weight] => 0.3
+        )
+
+    [options] => stdClass Object
+        (
+            [declared_value] => 0
+            [own_hand] => 0
+            [receipt] => 0
+        )
+
+)
+
+07-04-2018 @ 15:27:56 - [{"name":"Correios","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Correios.png","services":[{"id":2,"name":"Econ\u00f4mico","type":1,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":96.67,"delivery_time":45,"discount":4.03},{"id":1,"name":"Expresso","type":2,"level":3,"non-commercial":1,"requirements":[],"optionals":["invoice","declared_value","own_hand","receipt"],"status":1,"price":121.54,"delivery_time":20,"discount":5.06}]},{"name":"Jadlog","icon":"https:\/\/www.melhorenvio.com.br\/shipping-companies\/images\/Jadlog.png","services":[{"id":3,"name":"Package","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":142.86,"delivery_time":35,"discount":109.33},{"id":4,"name":"Pontocom","type":2,"level":3,"non-commercial":0,"requirements":["declared_value","invoice"],"optionals":[],"status":1,"price":166.82,"delivery_time":20,"discount":0}]}]

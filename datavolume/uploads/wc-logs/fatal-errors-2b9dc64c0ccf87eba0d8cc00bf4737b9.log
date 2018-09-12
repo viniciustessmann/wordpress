@@ -1,0 +1,50 @@
+2018-02-21T14:51:53+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/woocommerce-melhor-envio-integration/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce-melhor-envio-integration/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/woocommerce-melhor-envio-integration/classes/orders.php(502): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/woocommerce-melhor-envio-integration/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelh
+
+2018-02-21T14:58:36+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/woocommerce-melhor-envio-integration/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce-melhor-envio-integration/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/woocommerce-melhor-envio-integration/classes/orders.php(502): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/woocommerce-melhor-envio-integration/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelh
+
+2018-02-21T15:01:20+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/woocommerce-melhor-envio-integration/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce-melhor-envio-integration/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/woocommerce-melhor-envio-integration/classes/orders.php(502): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/woocommerce-melhor-envio-integration/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelh
+
+2018-02-21T15:04:43+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/woocommerce-melhor-envio-integration/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce-melhor-envio-integration/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/woocommerce-melhor-envio-integration/classes/orders.php(502): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/woocommerce-melhor-envio-integration/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelh
+
+2018-02-21T15:04:53+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/woocommerce-melhor-envio-integration/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce-melhor-envio-integration/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/woocommerce-melhor-envio-integration/classes/orders.php(502): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/woocommerce-melhor-envio-integration/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelh
+

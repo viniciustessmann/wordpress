@@ -1,0 +1,79 @@
+2018-08-14T10:16:11+00:00 CRITICAL Uncaught Error: Call to undefined function get_plugin_data() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/packageQuotation.php:131
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/packageQuotation.php(83): plugin_name_get_version()
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/services/pac.php(54): wpmelhorenviopackage_getPackageInternal(Array, '1', true, true)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(207): WC_Pac_Shipping_Method->calculate_shipping(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(333): WC_Shipping_Method->get_rates_for_package(Array)
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1251): WC_Shipping->calculate_shipping(Array)
+#6 /var/www/html/wp-content/plugins/w
+
+2018-08-14T10:16:47+00:00 CRITICAL Uncaught Error: Call to undefined function get_plugin_data() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/packageQuotation.php:131
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/packageQuotation.php(83): plugin_name_get_version()
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/services/pac.php(54): wpmelhorenviopackage_getPackageInternal(Array, '1', true, true)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(207): WC_Pac_Shipping_Method->calculate_shipping(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(333): WC_Shipping_Method->get_rates_for_package(Array)
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1251): WC_Shipping->calculate_shipping(Array)
+#6 /var/www/html/wp-content/plugins/w
+
+2018-08-14T11:23:10+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function plugin_dir_path(), 0 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/packageQuotation.php on line 91 and exactly 1 expected in /var/www/html/wp-includes/plugin.php:720
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/packageQuotation.php(91): plugin_dir_path()
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/services/pac.php(54): wpmelhorenviopackage_getPackageInternal(Array, '1', true, true)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(207): WC_Pac_Shipping_Method->calculate_shipping(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(333): WC_Shipping_Method->get_rates_for_package(Array)
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-
+
+2018-08-14T11:33:56+00:00 CRITICAL Uncaught Error: Call to undefined function get_plugin_data() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/packageQuotation.php:91
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/services/pac.php(54): wpmelhorenviopackage_getPackageInternal(Array, '1', true, true)
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(207): WC_Pac_Shipping_Method->calculate_shipping(Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(333): WC_Shipping_Method->get_rates_for_package(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1251): WC_Shipping->calculate_shipping(Array)
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(345): WC_Cart->calculate_shipping()
+#6 /var/www/html/wp-content/plugins/wooc
+
+2018-08-14T11:34:57+00:00 CRITICAL Uncaught Error: Call to undefined function get_plugin_data() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/packageQuotation.php:91
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/services/pac.php(54): wpmelhorenviopackage_getPackageInternal(Array, '1', true, true)
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(207): WC_Pac_Shipping_Method->calculate_shipping(Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(333): WC_Shipping_Method->get_rates_for_package(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1251): WC_Shipping->calculate_shipping(Array)
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(345): WC_Cart->calculate_shipping()
+#6 /var/www/html/wp-content/plugins/wooc
+
+2018-08-14T13:01:40+00:00 CRITICAL Uncaught Error: Call to undefined function get_plugin_data() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/packageQuotation.php:91
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/services/pac.php(54): wpmelhorenviopackage_getPackageInternal(Array, '1', true, true)
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(207): WC_Pac_Shipping_Method->calculate_shipping(Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(333): WC_Shipping_Method->get_rates_for_package(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1251): WC_Shipping->calculate_shipping(Array)
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(345): WC_Cart->calculate_shipping()
+#6 /var/www/html/wp-content/plugins/wooc
+
+2018-08-14T13:26:48+00:00 CRITICAL Uncaught Error: Call to undefined function get_plugin_data() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/packageQuotation.php:91
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/services/pac.php(54): wpmelhorenviopackage_getPackageInternal(Array, '1', true, true)
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(207): WC_Pac_Shipping_Method->calculate_shipping(Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(333): WC_Shipping_Method->get_rates_for_package(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1251): WC_Shipping->calculate_shipping(Array)
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(345): WC_Cart->calculate_shipping()
+#6 /var/www/html/wp-content/plugins/wooc
+
+2018-08-14T13:51:33+00:00 CRITICAL Uncaught Error: Call to undefined function get_plugin_data() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/packageQuotation.php:93
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/services/pac.php(54): wpmelhorenviopackage_getPackageInternal(Array, '1', true, true)
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(207): WC_Pac_Shipping_Method->calculate_shipping(Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(333): WC_Shipping_Method->get_rates_for_package(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1251): WC_Shipping->calculate_shipping(Array)
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(345): WC_Cart->calculate_shipping()
+#6 /var/www/html/wp-content/plugins/wooc
+

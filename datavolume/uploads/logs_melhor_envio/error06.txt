@@ -1,0 +1,840 @@
+2018-06-15 05:04:23 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:04:23 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:04:23 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:04:23 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:05:55 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:05:55 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:06:55 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:06:56 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:09:20 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:09:21 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:11:21 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:11:21 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:13:21 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:13:21 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:14:20 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:14:21 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:16:59 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:16:59 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:18:21 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:18:21 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:18:43 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:18:44 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:19:12 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:19:12 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:19:47 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:19:47 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:19:53 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:19:53 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:20:19 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:20:19 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:20:25 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:20:25 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:21:17 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:21:18 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:21:25 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:21:26 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:22:23 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:22:24 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:23:23 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:23:24 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:23:26 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:23:26 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:24:24 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:24:24 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:25:28 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:25:28 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:26:20 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:26:20 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:26:21 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:26:21 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:26:55 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:26:55 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:26:56 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:26:56 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:27:29 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:27:29 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:28:14 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:28:14 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:28:41 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:28:41 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:28:52 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:28:53 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:28:54 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:28:54 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:28:55 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:28:56 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:28:57 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:28:58 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:28:58 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:28:58 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:28:58 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:28:58 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:28:58 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:28:58 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:28:59 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:28:59 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:28:59 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:28:59 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:28:59 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:28:59 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:29:00 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:29:00 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:29:00 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:29:00 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:29:01 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:29:01 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:29:01 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:29:01 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:29:01 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:29:02 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:29:02 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:29:02 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:29:03 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:29:03 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:29:03 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:29:03 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:29:04 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:29:04 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:29:04 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:29:04 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:29:05 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:29:05 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:29:05 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:29:05 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:29:05 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:29:06 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:29:06 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:29:06 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:29:07 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:29:07 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:29:07 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:29:15 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:29:15 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:29:21 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:29:22 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:29:24 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:29:25 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:29:26 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:29:26 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:29:27 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:29:27 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:29:27 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:29:27 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:29:27 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:29:27 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:29:28 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:29:28 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:29:28 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:29:29 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:29:29 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:29:29 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:29:30 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:29:30 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:29:30 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:29:30 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:29:31 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:29:31 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:29:31 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:29:31 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:29:31 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:29:31 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:29:32 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:29:32 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:29:34 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:29:34 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:29:34 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:29:34 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:29:34 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:29:34 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:29:35 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:29:35 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:29:35 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:29:35 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:29:35 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:29:35 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:29:36 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:29:36 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:29:39 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:29:39 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:29:40 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:29:40 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:29:42 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:29:42 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:29:42 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:29:42 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:29:42 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:29:42 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:29:43 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:29:43 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:29:43 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:29:43 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:29:44 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:29:44 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:30:03 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:30:03 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:30:05 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:30:05 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:30:06 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:30:06 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:30:08 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:30:08 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:30:08 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:30:08 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:30:08 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:30:08 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:30:08 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:30:08 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:30:08 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:30:09 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:30:09 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:30:09 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:30:09 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:30:09 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:30:09 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:30:10 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:30:12 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:30:13 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:30:13 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:30:14 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:30:15 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:30:15 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:30:15 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:30:15 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:30:15 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:30:15 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:30:16 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:30:16 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:30:16 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:30:16 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:30:16 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:30:16 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:30:23 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:30:24 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:30:25 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:30:25 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:30:26 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:30:26 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:30:27 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:30:27 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:30:27 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:30:27 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:30:27 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:30:28 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:30:28 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:30:28 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:30:33 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:30:33 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:30:34 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:30:34 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:30:34 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:30:34 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:30:36 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:30:36 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:30:37 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:30:38 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:30:39 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:30:39 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:30:40 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:30:41 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:30:42 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:30:42 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:30:43 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:30:43 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:30:44 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:30:44 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:30:45 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:30:46 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:30:56 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:30:57 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:30:58 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:30:58 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:30:59 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:30:59 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:31:00 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:31:00 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:31:15 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:31:16 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:32:44 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:32:47 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:33:10 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:33:11 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:33:20 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:33:21 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:33:25 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:33:26 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:33:35 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:33:37 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:33:41 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:33:42 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:33:43 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:33:45 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:33:49 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:33:51 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:33:55 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:33:56 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:33:58 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:33:59 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:34:01 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:34:02 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:35:03 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:35:03 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:37:04 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:37:04 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:39:05 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:39:05 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 05:41:05 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 05:41:05 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:16:44 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:16:45 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:16:46 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:16:46 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:16:48 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:16:48 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:16:49 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:16:49 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:17:17 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:17:18 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:18:05 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:18:05 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:20:22 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:20:22 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:20:23 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:20:23 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:20:25 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:20:25 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:20:26 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:20:26 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:53:09 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:53:09 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:55:07 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:55:07 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:55:28 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:55:28 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:55:30 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:55:30 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:55:35 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:55:35 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:55:36 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:55:37 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:55:39 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:55:39 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:55:39 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:55:40 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:55:40 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:55:40 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:55:41 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:55:41 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:55:41 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:55:41 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:55:41 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:55:41 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:55:41 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:55:41 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:55:42 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:55:42 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:55:43 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:55:43 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:55:43 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:55:43 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:55:44 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:55:44 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:55:44 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:55:44 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:55:45 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:55:45 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:55:46 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:55:46 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:55:46 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:55:47 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:55:47 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:55:47 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:55:47 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:55:47 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:55:47 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:55:47 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:55:47 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:55:48 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:55:48 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:55:48 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:55:48 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:55:48 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:55:48 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:55:49 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:55:49 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:55:49 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:55:49 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:55:49 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:55:49 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:55:49 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:55:50 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:55:50 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:55:51 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:55:51 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:55:51 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:55:51 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:55:51 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:55:51 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:55:52 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:55:52 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:55:54 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:55:54 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:56:02 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:56:03 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:56:06 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:56:07 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:56:14 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:56:14 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:56:28 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:56:29 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:56:36 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:56:36 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:56:49 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:56:51 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:56:51 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:56:52 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:57:49 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:57:49 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:58:15 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:58:15 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:58:17 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:58:17 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:58:18 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:58:18 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:58:19 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:58:19 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:58:20 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:58:20 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 06:59:55 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 06:59:55 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 07:01:51 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 07:01:51 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 07:03:52 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 07:03:52 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-15 07:05:53 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-15 07:05:53 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-18 08:48:30 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-18 08:48:30 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-18 08:48:30 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-18 08:48:34 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-18 08:48:34 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-18 08:48:36 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-18 08:48:36 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-18 08:48:41 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-18 08:48:41 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-18 08:48:43 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-18 08:48:44 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-18 08:48:48 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-18 08:48:48 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-18 08:48:50 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-18 08:48:50 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-18 08:48:52 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-18 08:48:52 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-18 08:48:52 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-18 08:48:52 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-18 08:48:53 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-18 08:48:53 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-18 08:48:53 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-18 08:48:53 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-18 08:48:54 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-18 08:48:55 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-18 08:48:55 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-18 08:48:55 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-18 08:48:56 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-18 08:48:56 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-18 08:48:58 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-18 08:48:58 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-18 08:48:58 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-18 08:48:58 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-18 08:49:00 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-18 08:49:00 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-18 08:49:00 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-18 08:49:00 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-18 08:49:01 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-18 08:49:01 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-18 08:49:01 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-18 08:49:02 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-18 08:49:02 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-18 08:49:06 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-18 08:49:06 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-18 08:49:07 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-18 08:49:07 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-18 08:49:07 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-18 08:49:07 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-18 08:49:07 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-18 08:49:09 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-18 08:49:10 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-18 08:49:12 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-18 08:49:12 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-18 08:49:12 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-18 08:49:12 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-18 08:49:12 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-18 08:49:13 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-18 08:49:13 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-18 08:49:13 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-18 08:49:14 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-18 08:49:15 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-18 08:49:15 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-18 08:49:15 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-18 08:49:25 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-18 08:49:26 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-18 08:49:28 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-18 08:49:28 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-18 08:49:30 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-18 08:49:30 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-18 08:49:32 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-18 08:49:32 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-18 08:49:33 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-18 08:49:34 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-18 08:49:35 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-18 08:49:35 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-18 08:53:18 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-18 08:53:19 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-18 08:55:54 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-18 08:55:54 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-18 08:56:07 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-18 08:56:07 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-18 08:57:27 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-18 08:57:28 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-18 08:57:40 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-18 08:57:41 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-18 08:57:42 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-18 08:57:43 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-18 08:57:44 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-18 08:57:44 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-18 08:57:49 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-18 08:57:49 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-18 08:57:59 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-18 08:58:00 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-18 08:58:04 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-18 08:58:04 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-18 08:58:06 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-18 08:58:10 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-18 08:58:12 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-18 08:58:13 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-19 12:22:47 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-19 12:22:48 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-19 12:22:49 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-19 12:22:49 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-19 12:22:50 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-19 12:22:50 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-19 12:22:51 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-19 12:22:52 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-19 12:39:51 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-19 12:39:51 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-19 12:39:52 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-19 12:39:52 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-19 12:39:54 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-19 12:39:54 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-19 12:39:57 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-19 12:39:57 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-19 12:40:56 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-19 12:40:56 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-19 12:40:57 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-19 12:40:57 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-19 12:40:59 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-19 12:40:59 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-19 12:41:00 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-19 12:41:00 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-19 12:41:22 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-19 12:41:23 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-19 12:41:24 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-19 12:41:24 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-19 12:41:25 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-19 12:41:25 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-19 12:41:26 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-19 12:41:26 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-19 12:42:04 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-19 12:42:04 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-19 12:42:05 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-19 12:42:06 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-19 12:42:07 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-19 12:43:48 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-19 12:43:49 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-19 12:43:51 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-19 12:43:52 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-19 12:43:55 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-19 12:43:56 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-19 12:43:56 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-19 12:43:57 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-19 12:43:57 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-19 12:43:58 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-19 12:45:44 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-19 12:45:45 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-21 04:43:47 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-21 04:43:48 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-21 04:43:49 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-21 04:43:49 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-06-21 04:44:09 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-21 04:44:09 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-21 04:44:34 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-21 04:44:50 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-21 04:45:10 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-21 04:45:20 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-21 04:45:35 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-21 04:45:50 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-21 04:46:08 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-21 04:46:22 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-21 04:46:45 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-21 04:46:54 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-21 04:47:08 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-21 04:47:34 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-21 04:48:57 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-21 04:51:34 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-21 04:51:38 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-21 04:51:44 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-21 04:51:57 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-21 04:52:19 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-21 04:54:29 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-21 04:56:27 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-21 04:58:27 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-21 05:03:51 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-21 05:05:46 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-21 05:07:48 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-21 05:09:48 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-21 05:10:48 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-21 05:11:50 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-21 05:13:51 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-21 05:15:51 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-21 05:16:52 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-21 05:18:47 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-21 05:19:46 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-21 05:20:47 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-21 05:21:47 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 02:17:51 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 02:17:53 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 02:18:02 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 02:18:05 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 02:23:44 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 02:23:46 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 02:23:47 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 02:23:48 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 02:23:48 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 02:23:49 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 02:23:49 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 02:23:49 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 02:23:50 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 02:23:50 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 02:23:50 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 02:23:53 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 02:23:54 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 02:23:54 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 02:23:54 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 02:24:02 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 02:24:05 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 02:24:05 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 02:24:07 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 02:24:10 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 02:24:14 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 02:24:17 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 02:24:21 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 02:24:23 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 02:24:58 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 02:24:58 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 02:27:01 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 02:28:01 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 02:29:00 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 02:31:00 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 02:33:01 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 02:34:15 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 02:35:19 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 02:37:20 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 02:38:38 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 02:39:37 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 03:01:40 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 03:02:41 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 03:59:41 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 04:23:50 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 04:41:47 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 04:43:02 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 05:56:07 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 05:58:52 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 05:59:47 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 06:01:00 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 06:02:16 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 06:02:18 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 06:02:22 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 06:02:23 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 06:02:24 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 06:02:26 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 06:04:10 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 06:04:17 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 06:04:21 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 06:04:22 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 06:04:23 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 06:06:22 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 06:08:24 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 06:12:25 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 06:12:40 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 06:12:41 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 06:12:43 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 06:12:44 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 06:14:26 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 06:15:48 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 06:15:55 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 06:15:58 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 06:15:59 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 06:16:29 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 06:18:27 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 06:20:29 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 06:22:30 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 06:26:31 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 06:28:48 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 06:30:33 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 06:34:36 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 06:36:35 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 06:38:39 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 06:50:33 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 06:52:42 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 06:53:33 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 06:54:28 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 06:56:33 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 06:57:28 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 06:58:28 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:00:03 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:00:18 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:00:31 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:01:21 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:02:09 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:03:53 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:05:49 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:07:50 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:09:10 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:10:12 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:11:09 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:12:08 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:15:33 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:16:33 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:18:10 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:19:14 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:25:26 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:26:25 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:27:17 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:28:31 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:29:32 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:30:32 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:32:19 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:33:09 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:33:37 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:33:39 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:34:58 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:34:58 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:35:04 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:35:51 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:36:43 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:36:50 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:36:50 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:36:54 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:37:50 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:38:42 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:38:50 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:38:51 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:38:54 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:39:50 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:40:42 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:40:51 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:40:51 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:40:56 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:41:50 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:42:43 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:42:50 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:42:54 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:42:56 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:43:50 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:43:52 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:44:05 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:45:00 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:45:06 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:45:08 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:45:09 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:47:00 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:47:07 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:47:11 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:47:13 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:49:17 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:49:20 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:49:20 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:49:21 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:50:31 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:50:46 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:51:08 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:51:08 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:51:32 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:51:47 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:52:07 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:53:21 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:53:25 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:53:36 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:54:20 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:55:08 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:55:21 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:55:33 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:56:20 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:57:10 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:57:20 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:57:35 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:58:12 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:58:20 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:59:11 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:59:20 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 07:59:34 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 08:00:21 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 08:02:16 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 08:03:09 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 08:04:11 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 08:04:15 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 08:05:12 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 08:06:09 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 08:06:25 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 08:07:10 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 08:08:16 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 08:08:17 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 08:10:19 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 08:10:50 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 08:10:50 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 08:10:57 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 08:11:00 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 08:11:03 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 08:11:04 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 08:11:05 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 08:11:06 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 08:11:09 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 08:11:14 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 08:11:16 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 08:11:51 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 08:12:51 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 08:13:17 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 08:13:50 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 08:14:52 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 08:15:19 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 08:16:54 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 08:17:19 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 08:17:51 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 08:18:26 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 08:18:28 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 08:18:30 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 08:18:32 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 08:18:54 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 08:19:21 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 08:19:21 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 08:19:51 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 08:20:22 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 08:20:23 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 08:20:29 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 08:20:41 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 08:20:49 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 08:20:51 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 08:20:55 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 08:21:27 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 08:22:26 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 08:23:28 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 08:24:28 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 08:25:29 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 08:26:24 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 08:27:30 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 08:28:25 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 08:29:32 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 08:30:25 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 08:31:32 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-22 08:33:32 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-06-25 12:08:44 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.

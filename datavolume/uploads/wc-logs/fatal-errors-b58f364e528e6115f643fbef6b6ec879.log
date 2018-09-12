@@ -1,0 +1,42 @@
+2018-03-19T09:30:30+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(510): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-19T10:00:47+00:00 CRITICAL Uncaught Error: Call to undefined function dd() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/quotation.php:61
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/quotation.php(42): wpmelhorenvio_logsError(Array, Array)
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/shipping.php(26): wpmelhorenvio_getCotacao(Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(207): Wpmelhorenvio_Shipping_Method->calculate_shipping(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(333): WC_Shipping_Method->get_rates_for_package(Array)
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1249): WC_Shipping->calculate_shipping(Array)
+#6 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(345): 
+
+2018-03-19T10:10:40+00:00 CRITICAL Uncaught Error: Call to undefined function var_dumkp() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/quotation.php:67
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/quotation.php(42): wpmelhorenvio_logsError(Array, Array)
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/shipping.php(26): wpmelhorenvio_getCotacao(Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(207): Wpmelhorenvio_Shipping_Method->calculate_shipping(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(333): WC_Shipping_Method->get_rates_for_package(Array)
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1249): WC_Shipping->calculate_shipping(Array)
+#6 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php
+
+2018-03-19T11:38:34+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/quotation.php:50
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/quotation.php(42): wpmelhorenvio_logsError(Object(WP_Error), Array)
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/shipping.php(26): wpmelhorenvio_getCotacao(Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(207): Wpmelhorenvio_Shipping_Method->calculate_shipping(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(333): WC_Shipping_Method->get_rates_for_package(Array)
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1249): WC_Shipping->calculate_shipping(Array)
+#6 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc
+

@@ -1,0 +1,21 @@
+2018-05-08T15:25:53+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpmelhorenvio_data_getAllTrackingsStatusId(), 0 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/views/dados2.php on line 14 and exactly 1 expected in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/tracking.php:18
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/views/dados2.php(14): wpmelhorenvio_data_getAllTrackingsStatusId()
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): include_once('/var/www/html/w...')
+#2 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_dados('')
+#3 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /var/www/html/wp-admin/admin.php(224): do_action('melhor-envio_pa...')
+#6 {main}
+  thrown
+
+2018-05-11T09:52:20+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/orders.php:283
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(134): wpmelhorenvio_ticketAcquirementAPI()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_ticketAcquirementAPI('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+

@@ -1,0 +1,2072 @@
+2018-03-06T16:47:00+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(502): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-06T16:47:52+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(502): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-06T16:47:52+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on boolean in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:170
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(133): wpmelhorenvio_getPackageInternal(Array)
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(100): wpmelhorenvio_getCustomerCotacaoAPI(Array)
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-06T16:48:51+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on boolean in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:170
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(133): wpmelhorenvio_getPackageInternal(Array)
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(100): wpmelhorenvio_getCustomerCotacaoAPI(Array)
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-06T16:53:18+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on boolean in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:171
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(134): wpmelhorenvio_getPackageInternal(Array)
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(101): wpmelhorenvio_getCustomerCotacaoAPI(Array)
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-06T16:55:34+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order_Refund::get_order_number() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:25
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-03-06T16:58:49+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order_Refund::get_order_number() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:25
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-03-06T16:59:24+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order_Refund::get_order_number() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:25
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-03-06T16:59:39+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order_Refund::get_order_number() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:25
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-03-06T17:00:05+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(512): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-06T17:00:42+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(508): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-06T17:00:43+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order_Refund::get_order_number() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:25
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-03-06T17:00:52+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(508): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-06T17:02:25+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(508): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-06T17:02:25+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order_Refund::get_order_number() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:25
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-03-06T17:03:52+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order_Refund::get_order_number() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:26
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-03-06T17:09:54+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(509): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-06T20:59:42+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(509): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-06T20:59:43+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order_Refund::get_order_number() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:25
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-03-06T21:01:05+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(513): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-06T21:01:43+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order_Refund::get_order_number() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:25
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-03-06T21:01:46+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(511): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-06T21:01:49+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order_Refund::get_order_number() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:25
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-03-06T21:02:31+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(511): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-06T21:02:51+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(511): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-06T21:03:02+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(511): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-06T21:06:44+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(511): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-06T21:11:35+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(511): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-06T21:12:03+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(511): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-06T21:12:06+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order_Refund::get_order_number() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:25
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-03-06T21:12:28+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(511): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-06T21:16:26+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(511): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-06T21:16:28+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order_Refund::get_order_number() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:25
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-03-06T21:16:39+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(511): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-06T21:22:38+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(511): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-06T21:23:31+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(511): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-06T21:23:47+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(511): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-06T21:23:47+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order_Refund::get_order_number() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:25
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-03-06T21:24:12+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(511): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-06T21:24:13+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order_Refund::get_order_number() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:25
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-03-06T21:27:02+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(511): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-06T21:28:05+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(518): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-06T21:29:08+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(518): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-06T21:34:23+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(517): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-06T21:39:06+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(517): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-06T21:39:10+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order_Refund::get_order_number() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:31
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-03-06T21:39:59+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(517): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-06T21:40:02+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order_Refund::get_order_number() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:31
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-03-06T21:40:47+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(517): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-06T21:40:50+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order_Refund::get_order_number() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:31
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-03-06T21:40:56+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(517): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-06T21:40:59+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order_Refund::get_order_number() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:31
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-03-06T21:41:14+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order_Refund::get_order_number() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:31
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-03-06T21:41:32+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(517): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-06T21:41:47+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(517): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-06T21:43:19+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(517): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-06T21:44:22+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(517): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-06T21:44:39+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(517): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-06T21:46:10+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(520): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-06T21:46:14+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order_Refund::get_order_number() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:34
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-03-06T21:46:19+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(520): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-06T21:46:24+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order_Refund::get_order_number() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:34
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-03-06T21:47:12+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order_Refund::get_order_number() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:37
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-03-06T21:49:11+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(522): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-06T21:49:17+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order_Refund::get_order_number() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:36
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-03-06T21:49:21+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(522): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-06T21:49:26+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order_Refund::get_order_number() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:36
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-03-06T21:49:59+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(523): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-06T21:50:04+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order_Refund::get_order_number() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:37
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-03-06T21:50:38+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(527): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-06T21:51:21+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(528): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-06T21:53:12+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(528): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-06T21:54:12+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(531): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-06T21:54:36+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(517): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-06T21:54:47+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(517): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T08:59:26+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(542): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T08:59:36+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(542): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T09:14:01+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(523): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T09:14:17+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(519): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T09:14:17+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order_Refund::get_order_number() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:31
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-03-07T09:16:38+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(519): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T09:32:31+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(519): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T09:42:44+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(519): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T10:09:01+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(530): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T10:09:03+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(530): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T10:16:55+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order_Refund::get_order_number() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:37
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-03-07T10:19:28+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order_Refund::get_order_number() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:37
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-03-07T10:24:16+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order_Refund::get_order_number() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:37
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-03-07T10:26:59+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order_Refund::get_order_number() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:37
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-03-07T10:27:26+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order_Refund::get_order_number() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:37
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-03-07T10:28:40+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order_Refund::get_order_number() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:37
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-03-07T10:30:12+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order_Refund::get_customer_id() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:41
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-03-07T10:30:26+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order_Refund::get_customer_id() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:41
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-03-07T10:31:12+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order_Refund::get_cart_hash() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:52
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-03-07T10:31:25+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order_Refund::get_date_paid() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:51
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-03-07T10:32:11+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order_Refund::get_customer_note() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:49
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-03-07T10:34:30+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order_Refund::get_order_number() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:30
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-03-07T10:37:47+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order_Refund::get_order_number() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:31
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-03-07T10:39:27+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order_Refund::get_order_number() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:33
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-03-07T10:39:42+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order_Refund::get_order_number() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:33
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-03-07T10:43:35+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order_Refund::get_order_number() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:33
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-03-07T10:43:45+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order_Refund::get_order_number() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:33
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-03-07T10:49:01+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order_Refund::get_order_number() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:35
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-03-07T10:49:17+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order_Refund::get_order_number() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:35
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-03-07T10:54:40+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(537): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T10:54:45+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order_Refund::get_address() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:69
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-03-07T10:55:35+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(537): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T10:55:41+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order_Refund::get_address() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:69
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-03-07T10:56:04+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order_Refund::get_address() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:69
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-03-07T10:56:32+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(537): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T10:56:50+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(537): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T10:57:38+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(537): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T10:57:38+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order_Refund::get_order_number() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:43
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-03-07T10:57:45+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(537): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T10:57:45+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order_Refund::get_order_number() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:43
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-03-07T10:57:58+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(537): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T10:57:59+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order_Refund::get_order_number() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:43
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-03-07T10:58:15+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(537): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T10:58:16+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order_Refund::get_order_number() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:43
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-03-07T10:58:39+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(537): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T11:00:23+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(537): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T11:00:23+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order_Refund::get_address() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:69
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-03-07T11:00:43+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(537): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T11:02:31+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(537): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T11:02:31+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order_Refund::get_order_number() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:35
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-03-07T11:06:02+00:00 CRITICAL Uncaught Error: Cannot use object of type WC_Order as array in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:38
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-03-07T11:07:52+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(543): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T11:08:58+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(545): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T11:09:20+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(545): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T11:10:03+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(545): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T11:10:08+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order_Refund::get_address() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#5 {main}
+  thrown
+
+2018-03-07T11:11:57+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(549): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T11:16:08+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(544): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T11:18:28+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(540): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T11:19:40+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(540): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T11:20:43+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(540): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T11:22:39+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(540): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T11:24:33+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(540): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T11:32:20+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(540): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T11:35:57+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(537): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T13:08:27+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(517): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T13:14:39+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(517): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T13:14:54+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(517): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T13:16:28+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(517): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T13:20:00+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(517): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T13:20:12+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(517): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T13:21:37+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(517): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T13:23:27+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(517): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T13:23:37+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(517): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T13:57:14+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(507): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T13:57:14+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on boolean in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:175
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(138): wpmelhorenvio_getPackageInternal(Array)
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(105): wpmelhorenvio_getCustomerCotacaoAPI(Array)
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T13:57:28+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(507): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T13:57:29+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on boolean in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:175
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(138): wpmelhorenvio_getPackageInternal(Array)
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(105): wpmelhorenvio_getCustomerCotacaoAPI(Array)
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T14:00:34+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(507): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T14:00:34+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on boolean in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:175
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(138): wpmelhorenvio_getPackageInternal(Array)
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(105): wpmelhorenvio_getCustomerCotacaoAPI(Array)
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T14:01:43+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(511): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T14:07:26+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(508): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T14:07:26+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on boolean in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:176
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(139): wpmelhorenvio_getPackageInternal(Array)
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(106): wpmelhorenvio_getCustomerCotacaoAPI(Array)
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T14:10:19+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(510): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T14:10:19+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on boolean in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:178
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(141): wpmelhorenvio_getPackageInternal(Array)
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(108): wpmelhorenvio_getCustomerCotacaoAPI(Array)
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T14:10:53+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on boolean in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:180
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(143): wpmelhorenvio_getPackageInternal(Array)
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(110): wpmelhorenvio_getCustomerCotacaoAPI(Array)
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T14:11:39+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(512): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T14:12:24+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(510): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T14:13:04+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(508): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T14:14:39+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(508): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T14:14:39+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on boolean in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:176
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(139): wpmelhorenvio_getPackageInternal(Array)
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(106): wpmelhorenvio_getCustomerCotacaoAPI(Array)
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T14:15:17+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(508): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T14:15:17+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on boolean in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:176
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(139): wpmelhorenvio_getPackageInternal(Array)
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(106): wpmelhorenvio_getCustomerCotacaoAPI(Array)
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T14:16:31+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(508): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T14:16:31+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on boolean in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:176
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(139): wpmelhorenvio_getPackageInternal(Array)
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(106): wpmelhorenvio_getCustomerCotacaoAPI(Array)
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T14:17:00+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(508): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T14:19:55+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(508): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T14:19:56+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on boolean in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php:176
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(139): wpmelhorenvio_getPackageInternal(Array)
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(106): wpmelhorenvio_getCustomerCotacaoAPI(Array)
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(103): wpmelhorenvio_getJsonOrders()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_getJsonOrders('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T14:20:20+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(508): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T14:23:24+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(513): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T14:25:02+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(515): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T14:25:14+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(510): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T14:39:49+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(510): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T16:09:57+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(510): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T16:10:05+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(510): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T16:22:16+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(510): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-07T16:22:26+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(510): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+

@@ -1,0 +1,60 @@
+2018-04-23T15:45:12+00:00 CRITICAL Uncaught Error: Cannot use object of type stdClass as array in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/packageQuotation.php:54
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/services/Jamef.php(57): wpmelhorenviopackage_getPackageInternal(Array, '7', false, false)
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(207): WC_Jamef_Shipping_Method->calculate_shipping(Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(333): WC_Shipping_Method->get_rates_for_package(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1251): WC_Shipping->calculate_shipping(Array)
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(345): WC_Cart->calculate_shipping()
+#6 /var/www/html/wp-content/plugins
+
+2018-04-23T15:45:33+00:00 CRITICAL Uncaught Error: Cannot use object of type stdClass as array in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/packageQuotation.php:52
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/services/Jamef.php(57): wpmelhorenviopackage_getPackageInternal(Array, '7', false, false)
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(207): WC_Jamef_Shipping_Method->calculate_shipping(Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(333): WC_Shipping_Method->get_rates_for_package(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1251): WC_Shipping->calculate_shipping(Array)
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(345): WC_Cart->calculate_shipping()
+#6 /var/www/html/wp-content/plugins
+
+2018-04-23T15:53:56+00:00 CRITICAL Uncaught Error: Call to undefined function is_folder() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/error.php:5
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/error.php(10): createFolderLogsMelhorEnvio()
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/packageQuotation.php(53): insertLogErrorMelhorEnvio(Object(stdClass))
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/services/Jamef.php(57): wpmelhorenviopackage_getPackageInternal(Array, '7', false, false)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(207): WC_Jamef_Shipping_Method->calculate_shipping(Array)
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(333): WC_Shipping_Method->get_rates_for_package(Array)
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#6 /var/www/html/wp-content/plugins/wooc
+
+2018-04-23T16:19:36+00:00 CRITICAL Uncaught Error: Cannot use object of type stdClass as array in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/error.php:29
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/packageQuotation.php(53): insertLogErrorMelhorEnvio(Object(stdClass))
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/services/Jamef.php(57): wpmelhorenviopackage_getPackageInternal(Array, '7', false, false)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(207): WC_Jamef_Shipping_Method->calculate_shipping(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(333): WC_Shipping_Method->get_rates_for_package(Array)
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1251): WC_Shipping->calculate_shipping(Array)
+#6 /var/www/html/wp-conten
+
+2018-04-23T16:20:26+00:00 CRITICAL Uncaught Error: Cannot use object of type stdClass as array in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/error.php:29
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/packageQuotation.php(53): insertLogErrorMelhorEnvio(Object(stdClass))
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/services/Jamef.php(57): wpmelhorenviopackage_getPackageInternal(Array, '7', false, false)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(207): WC_Jamef_Shipping_Method->calculate_shipping(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(333): WC_Shipping_Method->get_rates_for_package(Array)
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1251): WC_Shipping->calculate_shipping(Array)
+#6 /var/www/html/wp-conten
+
+2018-04-23T16:32:19+00:00 CRITICAL Uncaught Error: Class 'String' not found in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/error.php:36
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/packageQuotation.php(53): insertLogErrorMelhorEnvio(Object(stdClass))
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/services/Jamef.php(57): wpmelhorenviopackage_getPackageInternal(Array, '7', false, false)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(207): WC_Jamef_Shipping_Method->calculate_shipping(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(333): WC_Shipping_Method->get_rates_for_package(Array)
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1251): WC_Shipping->calculate_shipping(Array)
+#6 /var/www/html/wp-content/plugins/woocommer
+

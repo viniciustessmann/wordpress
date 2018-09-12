@@ -1,0 +1,10 @@
+2018-05-23T13:16:55+00:00 CRITICAL Uncaught Error: Call to undefined function get_class_option_jadlog_package() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/services/JadlogPackage.php:106
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/services/JadlogPackage.php(30): WC_Jadlog_Package_Shipping_Method->init_form_fields()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(179): WC_Jadlog_Package_Shipping_Method->__construct()
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(157): WC_Shipping->register_shipping_method('WC_Jadlog_Packa...')
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(202): WC_Shipping->load_shipping_methods()
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(1452): WC_Shipping->get_shipping_methods()
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1355): wc_get_shipping_method_count(true)
+#6 /var/www/html/wp-content/plugins/woocommerce
+

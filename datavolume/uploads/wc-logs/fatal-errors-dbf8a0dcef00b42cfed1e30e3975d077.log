@@ -1,0 +1,156 @@
+2018-03-20T17:43:21+00:00 CRITICAL Uncaught Error: Cannot use object of type stdClass as array in /var/www/html/wp-content/plugins/woocommerce-shipping-methods-melhor-envio/class-jadlog-shipping-method.php:72
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(207): WC_Jadlog_Shipping_Method->calculate_shipping(Array)
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(333): WC_Shipping_Method->get_rates_for_package(Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1249): WC_Shipping->calculate_shipping(Array)
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(345): WC_Cart->calculate_shipping()
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(794): WC_Cart_Totals->get_shipping_from_cart()
+#6 /var/www/html/wp-content/plugins/wo
+
+2018-03-20T17:43:59+00:00 CRITICAL Uncaught Error: Cannot use object of type stdClass as array in /var/www/html/wp-content/plugins/woocommerce-shipping-methods-melhor-envio/class-jadlog-shipping-method.php:72
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(207): WC_Jadlog_Shipping_Method->calculate_shipping(Array)
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(333): WC_Shipping_Method->get_rates_for_package(Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1249): WC_Shipping->calculate_shipping(Array)
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(345): WC_Cart->calculate_shipping()
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(794): WC_Cart_Totals->get_shipping_from_cart()
+#6 /var/www/html/wp-content/plugins/wo
+
+2018-03-20T17:44:43+00:00 CRITICAL Uncaught Error: Call to undefined function dd() in /var/www/html/wp-content/plugins/woocommerce-shipping-methods-melhor-envio/class-jadlog-shipping-method.php:73
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(207): WC_Jadlog_Shipping_Method->calculate_shipping(Array)
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(333): WC_Shipping_Method->get_rates_for_package(Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1249): WC_Shipping->calculate_shipping(Array)
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(345): WC_Cart->calculate_shipping()
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(794): WC_Cart_Totals->get_shipping_from_cart()
+#6 /var/www/html/wp-content/plugins/woocommerce/in
+
+2018-03-20T17:44:45+00:00 CRITICAL Uncaught Error: Call to undefined function dd() in /var/www/html/wp-content/plugins/woocommerce-shipping-methods-melhor-envio/class-jadlog-shipping-method.php:73
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(207): WC_Jadlog_Shipping_Method->calculate_shipping(Array)
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(333): WC_Shipping_Method->get_rates_for_package(Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1249): WC_Shipping->calculate_shipping(Array)
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(345): WC_Cart->calculate_shipping()
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(794): WC_Cart_Totals->get_shipping_from_cart()
+#6 /var/www/html/wp-content/plugins/woocommerce/in
+
+2018-03-20T17:45:22+00:00 CRITICAL Uncaught Error: Call to undefined function dd() in /var/www/html/wp-content/plugins/woocommerce-shipping-methods-melhor-envio/class-jadlog-shipping-method.php:74
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(207): WC_Jadlog_Shipping_Method->calculate_shipping(Array)
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(333): WC_Shipping_Method->get_rates_for_package(Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1249): WC_Shipping->calculate_shipping(Array)
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(345): WC_Cart->calculate_shipping()
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(794): WC_Cart_Totals->get_shipping_from_cart()
+#6 /var/www/html/wp-content/plugins/woocommerce/in
+
+2018-03-20T17:46:46+00:00 CRITICAL Uncaught Error: Call to undefined function dd() in /var/www/html/wp-content/plugins/woocommerce-shipping-methods-melhor-envio/class-jadlog-shipping-method.php:74
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(207): WC_Jadlog_Shipping_Method->calculate_shipping(Array)
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(333): WC_Shipping_Method->get_rates_for_package(Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1249): WC_Shipping->calculate_shipping(Array)
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(345): WC_Cart->calculate_shipping()
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(794): WC_Cart_Totals->get_shipping_from_cart()
+#6 /var/www/html/wp-content/plugins/woocommerce/in
+
+2018-03-20T17:48:47+00:00 CRITICAL Uncaught Error: Call to undefined function dd() in /var/www/html/wp-content/plugins/woocommerce-shipping-methods-melhor-envio/class-jadlog-shipping-method.php:74
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(207): WC_Jadlog_Shipping_Method->calculate_shipping(Array)
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(333): WC_Shipping_Method->get_rates_for_package(Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1249): WC_Shipping->calculate_shipping(Array)
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(345): WC_Cart->calculate_shipping()
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(794): WC_Cart_Totals->get_shipping_from_cart()
+#6 /var/www/html/wp-content/plugins/woocommerce/in
+
+2018-03-20T17:49:23+00:00 CRITICAL Uncaught Error: Call to undefined function dd() in /var/www/html/wp-content/plugins/woocommerce-shipping-methods-melhor-envio/class-jadlog-shipping-method.php:74
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(207): WC_Jadlog_Shipping_Method->calculate_shipping(Array)
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(333): WC_Shipping_Method->get_rates_for_package(Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1249): WC_Shipping->calculate_shipping(Array)
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(345): WC_Cart->calculate_shipping()
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(794): WC_Cart_Totals->get_shipping_from_cart()
+#6 /var/www/html/wp-content/plugins/woocommerce/in
+
+2018-03-20T17:49:43+00:00 CRITICAL Uncaught Error: Call to undefined function dd() in /var/www/html/wp-content/plugins/woocommerce-shipping-methods-melhor-envio/class-jadlog-shipping-method.php:74
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(207): WC_Jadlog_Shipping_Method->calculate_shipping(Array)
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(333): WC_Shipping_Method->get_rates_for_package(Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1249): WC_Shipping->calculate_shipping(Array)
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(345): WC_Cart->calculate_shipping()
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(794): WC_Cart_Totals->get_shipping_from_cart()
+#6 /var/www/html/wp-content/plugins/woocommerce/in
+
+2018-03-20T17:50:29+00:00 CRITICAL Uncaught Error: Cannot use object of type stdClass as array in /var/www/html/wp-content/plugins/woocommerce-shipping-methods-melhor-envio/class-jadlog-shipping-method.php:76
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(207): WC_Jadlog_Shipping_Method->calculate_shipping(Array)
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(333): WC_Shipping_Method->get_rates_for_package(Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1249): WC_Shipping->calculate_shipping(Array)
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(345): WC_Cart->calculate_shipping()
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(794): WC_Cart_Totals->get_shipping_from_cart()
+#6 /var/www/html/wp-content/plugins/wo
+
+2018-03-20T17:50:43+00:00 CRITICAL Uncaught Error: Cannot use object of type stdClass as array in /var/www/html/wp-content/plugins/woocommerce-shipping-methods-melhor-envio/class-jadlog-shipping-method.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(207): WC_Jadlog_Shipping_Method->calculate_shipping(Array)
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(333): WC_Shipping_Method->get_rates_for_package(Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1249): WC_Shipping->calculate_shipping(Array)
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(345): WC_Cart->calculate_shipping()
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(794): WC_Cart_Totals->get_shipping_from_cart()
+#6 /var/www/html/wp-content/plugins/wo
+
+2018-03-20T17:51:22+00:00 CRITICAL Uncaught Error: Cannot use object of type stdClass as array in /var/www/html/wp-content/plugins/woocommerce-shipping-methods-melhor-envio/class-jadlog-shipping-method.php:77
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(207): WC_Jadlog_Shipping_Method->calculate_shipping(Array)
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(333): WC_Shipping_Method->get_rates_for_package(Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1249): WC_Shipping->calculate_shipping(Array)
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(345): WC_Cart->calculate_shipping()
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(794): WC_Cart_Totals->get_shipping_from_cart()
+#6 /var/www/html/wp-content/plugins/wo
+
+2018-03-21T09:57:41+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(510): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-21T12:04:23+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(510): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+
+2018-03-21T15:58:24+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php on line 22 and exactly 2 expected in /var/www/html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/tracking.php(22): wpdb->prepare('SELECT * FROM w...')
+#1 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/orders.php(510): wpmelhorenvio_data_getAllTrackings()
+#2 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(230): wpmelhorenvio_updateStatusTracking()
+#3 /var/www/html/wp-includes/class-wp-hook.php(286): wpmelhorenvio_ajax_updateStatusTracking('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_wpmelho...')
+#7 {main}
+  thrown
+

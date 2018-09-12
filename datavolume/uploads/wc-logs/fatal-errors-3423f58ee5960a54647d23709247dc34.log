@@ -1,0 +1,34 @@
+2018-06-18T17:57:28+00:00 CRITICAL Uncaught Error: Cannot use object of type stdClass as array in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/services/sedex.php:222
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/services/sedex.php(60): calculte_sedex_delivery_time(Object(stdClass))
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(207): WC_Sedex_Shipping_Method->calculate_shipping(Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(333): WC_Shipping_Method->get_rates_for_package(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1251): WC_Shipping->calculate_shipping(Array)
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(345): WC_Cart->calculate_shipping()
+#6 /var/www/html/wp-content/plugins/woocommerce/includes/c
+
+2018-06-22T15:10:20+00:00 CRITICAL Uncaught Error: Call to undefined function dump() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/services/JadlogCom.php:109
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(207): WC_Jadlog_com_Shipping_Method->calculate_shipping(Array)
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(333): WC_Shipping_Method->get_rates_for_package(Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1251): WC_Shipping->calculate_shipping(Array)
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(345): WC_Cart->calculate_shipping()
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(794): WC_Cart_Totals->get_shipping_from_cart()
+#6 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-
+
+2018-06-22T15:10:24+00:00 CRITICAL Uncaught Error: Call to undefined function dump() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/services/JadlogCom.php:109
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(207): WC_Jadlog_com_Shipping_Method->calculate_shipping(Array)
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(333): WC_Shipping_Method->get_rates_for_package(Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1251): WC_Shipping->calculate_shipping(Array)
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(345): WC_Cart->calculate_shipping()
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(794): WC_Cart_Totals->get_shipping_from_cart()
+#6 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-
+
+2018-06-22T16:19:34+00:00 CRITICAL Class 'Wc_Melhor_Envio_Shipping' not found
+
+2018-06-22T16:22:07+00:00 CRITICAL Class 'Wc_Melhor_Envio_Shipping' not found
+

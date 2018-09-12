@@ -1,0 +1,1536 @@
+﻿ID,Tipo,REF,Nome,Publicado,"Em destaque?","Visibilidade no catálogo","Descrição curta",Descrição,"Data de preço promocional começa em","Data de preço promocional termina em","Status da taxa","Classe de taxa","Em estoque?",Estoque,"São permitidas encomendas?","Vender individualmente?","Peso (g)","Comprimento (cm)","Largura (cm)","Altura (cm)","Permitir avaliações de clientes?","Nota da compra","Preço promocional",Preço,Categorias,Tags,"Classe de entrega",Imagens,"Limite de download","Dias para expirar o download",Pai,"Produtos agrupados","Aumenta vendas","Venda cruzada","URL externa","Texto do botão",Posição,"Nome do atributo 1","Valores do atributo 1","Visibilidade do atributo 1","Atributo global 1","Atributo padrão 1","Nome do atributo 2","Valores do atributo 2","Visibilidade do atributo 2","Atributo global 2","Atributo padrão 2"
+23,variation,,,1,0,visible,,,,,taxable,,1,,0,0,,,,,1,,,20,,,,,,,,,,,,,0,,,,,,,,,,
+24,variation,,,1,0,visible,,,,,taxable,,1,,0,0,,,,,1,,,20,,,,,,,,,,,,,1,,,,,,,,,,
+41,variation,,,1,0,visible,,,,,taxable,,1,,0,0,,,,,1,,,35,,,,,,,,,,,,,0,,,,,,,,,,
+42,variation,,,1,0,visible,,,,,taxable,,1,,0,0,,,,,1,,30,35,,,,,,,,,,,,,1,,,,,,,,,,
+584,variation,,,1,0,visible,,,,,taxable,,1,,0,0,,,,,0,,,20,,,,,,,,,,,,,0,,,,,,,,,,
+585,variation,,,1,0,visible,,,,,taxable,,1,,0,0,,,,,0,,,20,,,,,,,,,,,,,1,,,,,,,,,,
+586,variation,,,1,0,visible,,,,,taxable,,1,,0,0,,,,,0,,,35,,,,,,,,,,,,,0,,,,,,,,,,
+587,variation,,,1,0,visible,,,,,taxable,,1,,0,0,,,,,0,,30,35,,,,,,,,,,,,,1,,,,,,,,,,
+588,variable,38128526,"Bermuda de Compressão Activity Unlimit Masculina",1,0,visible,,,,,taxable,,1,,0,0,,,,,1,,,,"Moda Fitness, Masculino > Moda Fitness Masculina, Roupas Fitness, Masculino, Masculino > Bermuda Masculina","Corrida, CrossFit, Musculação",,"https://unlimit.fit/wp-content/uploads/2018/02/short-compressao-masculino-activity-cinza-unlimit-1.jpg, https://unlimit.fit/wp-content/uploads/2018/02/short-compressao-masculino-activity-cinza-unlimit-2.jpg, https://unlimit.fit/wp-content/uploads/2018/02/short-compressao-masculino-activity-cinza-unlimit-3.jpg, https://unlimit.fit/wp-content/uploads/2018/02/short-compressao-masculino-activity-cinza-unlimit-4.jpg, https://unlimit.fit/wp-content/uploads/2018/02/short-compressao-masculino-activity-cinza-unlimit-5.jpg, https://unlimit.fit/wp-content/uploads/2018/02/short-compressao-masculino-activity-cinza-unlimit-6.jpg",,,,,,,,,0,Cores,Cinza,1,0,Cinza,Tamanho,"P, M, G",1,0,P
+589,variation,38128527,"Bermuda de Compressão Activity Unlimit Masculina - Cinza, P",1,0,visible,,,,,taxable,,1,3,0,0,,,,,0,,,"129,9000000000",,,,,,,38128526,,,,,,0,Cores,Cinza,,0,,Tamanho,P,,0,
+590,variation,38128528,"Bermuda de Compressão Activity Unlimit Masculina - Cinza, M",1,0,visible,,,,,taxable,,1,1,0,0,,,,,0,,,"129,9000000000",,,,,,,38128526,,,,,,0,Cores,Cinza,,0,,Tamanho,M,,0,
+591,variation,38128529,"Bermuda de Compressão Activity Unlimit Masculina - Cinza, G",1,0,visible,,,,,taxable,,1,2,0,0,,,,,0,,,"129,9000000000",,,,,,,38128526,,,,,,0,Cores,Cinza,,0,,Tamanho,G,,0,
+592,variable,38128489,"Bermuda Fitness Emana Unlimit - Bordô",1,0,visible,,"<h2>Bermuda Fitness Emana Unlimit - Bordô</h2>
+Esta <strong>Bermuda Fitness Emana Unlimit - Bordô </strong>tem efeito de compressão médio e é feito de um dos tecidos que mais faz sucesso entre o público feminino, o Emana tem como um dos seus grandes benefícios a diminuição dos sinas de celulite, proporcionando uma pele mais lisa e jovem. Contém cristais bioativos e minerais emissores infravermelhos, que ao absorver o calor promovem a bioestimulação do metabolismo.
+
+A Bermuda Fitness Emana Unlimit tem bioestimulação, que faz o rendimento físico melhorar em diversos fatores, principalmente diminuindo a fadiga com menor consumo de oxigênio. O fio também contribui para uma rápida recuperação muscular, maior elasticidade da pele e equilíbrio térmico.
+
+Saiba mais sobre este shorts em <a href=""http://blog.unlimit.fit/alerta-de-tendencia-bike-shorts-now-by-kim-kardashian/"">blog.unlimit.fit</a>
+Saiba mais sobre o tecido em <a href=""http://emanafiber.com"">www.emanafiber.com</a>
+
+Tecido Emana® Santaconstancia.
+Tecnologias do tecido:
+<ul>
+ 	<li>ATENÇÃO: Não possui almofada de ciclismo.</li>
+ 	<li>Anticelulite</li>
+ 	<li>Redução da fadiga muscular</li>
+ 	<li>Rápida recuperação muscular</li>
+ 	<li>Aumento da performance esportiva</li>
+ 	<li>Eco-Dry (secagem rápida)</li>
+ 	<li>Easy Care, não precisa passar</li>
+ 	<li>Proteção UV50 contra radiação ultravioleta</li>
+ 	<li>Isento de produtos tóxicos com certificação Oeko-Tex 100 Classe I</li>
+ 	<li>Composição: 84% Poliamida 16% Elastano</li>
+</ul>
+Para vestir-se bem em:
+<ul>
+ 	<li>No seu dia a dia</li>
+ 	<li>Caminhadas</li>
+ 	<li>Corridas</li>
+ 	<li>Ciclismo</li>
+ 	<li>Academia</li>
+ 	<li>Musculação</li>
+ 	<li>Crossfit</li>
+</ul>
+<em>Bermuda Fitness Emana Unlimit - Bordô com Garantia contra defeitos de fabricação de 30 dias.</em>",,,taxable,,1,,0,0,,,,,1,,,,"Feminino > Anticelulite, Feminino > Bermuda Feminina > Bermuda Fitness, Feminino > Bermuda Feminina > Bermuda para Academia, Moda Fitness, Roupas Fitness, Feminino, Feminino > Bermuda Feminina","Corrida, CrossFit, Dia a Dia, Musculação",,"https://unlimit.fit/wp-content/uploads/2018/02/bermuda-emana-colors-bordo-unlimit1.jpg, https://unlimit.fit/wp-content/uploads/2018/02/bermuda-emana-colors-bordo-unlimit2.jpg",,,,,38128494,,,,0,Tamanho,"P, M, G",1,0,P,Cores,Bordô,1,0,Bordô
+593,variation,38128494,"Bermuda Fitness Emana Unlimit - Rosè - P, Rose",1,0,visible,,,,,taxable,,1,4,0,0,,,,,0,,,"69,9000000000",,,,,,,38128493,,,38128489,,,0,Tamanho,P,,0,,Cores,Rose,,0,
+594,variation,38128490,"Bermuda Fitness Emana Unlimit - Bordô - P, Bordô",1,0,visible,,,,,taxable,,1,4,0,0,,,,,0,,,"79,9000000000",,,,,,,38128489,,,,,,0,Tamanho,P,,0,,Cores,Bordô,,0,
+595,variation,38128491,"Bermuda Fitness Emana Unlimit - Bordô - M, Bordô",1,0,visible,,,,,taxable,,1,1,0,0,,,,,0,,,"79,9000000000",,,,,,,38128489,,,,,,0,Tamanho,M,,0,,Cores,Bordô,,0,
+596,variation,38128492,"Bermuda Fitness Emana Unlimit - Bordô - G, Bordô",1,0,visible,,,,,taxable,,1,3,0,0,,,,,0,,,"79,9000000000",,,,,,,38128489,,,,,,0,Tamanho,G,,0,,Cores,Bordô,,0,
+597,variable,38128493,"Bermuda Fitness Emana Unlimit - Rosè",1,0,visible,,"<h2>Bermuda Fitness Emana Unlimit</h2>
+Esta <strong>Bermuda Fitness Emana Unlimit Rosè </strong>tem efeito de compressão médio e é feito de um dos tecidos que mais faz sucesso entre o público feminino, o Emana tem como um dos seus grandes benefícios a diminuição dos sinas de celulite, proporcionando uma pele mais lisa e jovem. Contém cristais bioativos e minerais emissores infravermelhos, que ao absorver o calor promovem a bioestimulação do metabolismo.
+
+O Bermuda Fitness Emana Unlimit tem bioestimulação, que faz o rendimento físico melhorar em diversos fatores, principalmente diminuindo a fadiga com menor consumo de oxigênio. O fio também contribui para uma rápida recuperação muscular, maior elasticidade da pele e equilíbrio térmico.
+
+Saiba mais sobre este shorts em <a href=""http://blog.unlimit.fit/alerta-de-tendencia-bike-shorts-now-by-kim-kardashian/"">blog.unlimit.fit</a>
+Saiba mais sobre o tecido em <a href=""http://emanafiber.com"">www.emanafiber.com</a>
+
+Tecido Emana® Santaconstancia.
+Tecnologias do tecido:
+<ul>
+ 	<li>ATENÇÃO: Não possui almofada de ciclismo.</li>
+ 	<li>Anticelulite</li>
+ 	<li>Redução da fadiga muscular</li>
+ 	<li>Rápida recuperação muscular</li>
+ 	<li>Aumento da performance esportiva</li>
+ 	<li>Eco-Dry (secagem rápida)</li>
+ 	<li>Easy Care, não precisa passar</li>
+ 	<li>Proteção UV50 contra radiação ultravioleta</li>
+ 	<li>Isento de produtos tóxicos com certificação Oeko-Tex 100 Classe I</li>
+ 	<li>Composição: 84% Poliamida 16% Elastano</li>
+</ul>
+Para vestir-se bem em:
+<ul>
+ 	<li>No seu dia a dia</li>
+ 	<li>Caminhadas</li>
+ 	<li>Corridas</li>
+ 	<li>Ciclismo</li>
+ 	<li>Academia</li>
+ 	<li>Musculação</li>
+ 	<li>Crossfit</li>
+</ul>
+<em>Bermuda Fitness Emana com Garantia contra defeitos de fabricação de 30 dias.</em>",,,taxable,,1,,0,0,500,26,16,7,1,,,,"Feminino > Anticelulite, Feminino > Bermuda Feminina > Bermuda Fitness, Feminino > Bermuda Feminina > Bermuda para Academia, Moda Fitness, Roupas Fitness, Feminino, Feminino > Bermuda Feminina","Corrida, CrossFit, Dia a Dia, Musculação",,"https://unlimit.fit/wp-content/uploads/2018/02/bermuda-emana-colors-rose-unt-1.jpg, https://unlimit.fit/wp-content/uploads/2018/02/bermuda-emana-colors-rose-unlimit-2.jpg, https://unlimit.fit/wp-content/uploads/2018/02/bermuda-emana-colors-rose-unlimit-3.jpg",,,,,38128491,38128489,,,0,Tamanho,"P, M, G",1,0,P,Cores,Rose,1,0,Rose
+598,variation,38128495,"Bermuda Fitness Emana Unlimit - Rosè - M, Rose",1,0,visible,,,,,taxable,,1,4,0,0,,,,,0,,,"69,9000000000",,,,,,,38128493,,,38128489,,,0,Tamanho,M,,0,,Cores,Rose,,0,
+599,variation,38128496,"Bermuda Fitness Emana Unlimit - Rosè - G, Rose",1,0,visible,,,,,taxable,,1,3,0,0,,,,,0,,,"69,9000000000",,,,,,,38128493,,,38128489,,,0,Tamanho,G,,0,,Cores,Rose,,0,
+600,variable,38128468,"Bermuda Moletom Essentials Unlimit Masculina - Mescla",1,0,visible,,"<h2>Bermuda Moletom Essentials Unlimit Masculina</h2>
+Esta <strong>Bermuda Moletom Masculina Mescla </strong>foi criada para homens que adoram o estilo de rua com conforto. Feita de algodão e poliéster, ela proporciona extremo conforto. Na moda, elas voltaram com tudo pra quem gosta de mais conforto e flexibilidade, além de ser super fashion.
+<ul>
+ 	<li>Confortável e Soltinha</li>
+ 	<li>Corte a fio</li>
+ 	<li>Cordão de ajuste para cintura</li>
+ 	<li>Bolsos laterias</li>
+ 	<li>Faixa lateral preta</li>
+ 	<li>Fashion e Descolada</li>
+ 	<li>Use em todos os tipos de treino</li>
+ 	<li>Corridas, treinos, crossfit, e dia a dia.</li>
+ 	<li>Composição: 88% algodão - 12% poliéster</li>
+</ul>
+<strong>Bermuda Essentials Unlimit Masculina</strong> com garantia de fábrica contradefeitos de fabricação.",,,taxable,,backorder,,0,0,500,26,16,7,1,,,,"Moda Fitness, Masculino > Moda Fitness Masculina, Roupas Fitness, Masculino, Masculino > Bermuda Masculina","CrossFit, Dia a Dia, Musculação",,"https://unlimit.fit/wp-content/uploads/2018/02/bermuda-moletom-masculina-essentials-mescla-unlimit-1.jpg, https://unlimit.fit/wp-content/uploads/2018/02/bermuda-moletom-masculina-essentials-mescla-unlimit-2.jpg",,,,,,,,,0,Tamanho,"P, M, G, GG",1,0,P,Cores,Cinza,1,0,Cinza
+601,variation,38128469,"Bermuda Moletom Essentials Unlimit Masculina - Mescla - P, Cinza",1,0,visible,,,,,taxable,,backorder,0,notify,0,,,,,0,,,"99,9000000000",,,,,,,38128468,,,,,,0,Tamanho,P,,0,,Cores,Cinza,,0,
+602,variation,38128470,"Bermuda Moletom Essentials Unlimit Masculina - Mescla - M, Cinza",1,0,visible,,,,,taxable,,backorder,0,notify,0,,,,,0,,,"99,9000000000",,,,,,,38128468,,,,,,0,Tamanho,M,,0,,Cores,Cinza,,0,
+603,variation,38128471,"Bermuda Moletom Essentials Unlimit Masculina - Mescla - G, Cinza",1,0,visible,,,,,taxable,,backorder,0,notify,0,,,,,0,,,"99,9000000000",,,,,,,38128468,,,,,,0,Tamanho,G,,0,,Cores,Cinza,,0,
+604,variation,38128472,"Bermuda Moletom Essentials Unlimit Masculina - Mescla - GG, Cinza",1,0,visible,,,,,taxable,,backorder,0,notify,0,,,,,0,,,"99,9000000000",,,,,,,38128468,,,,,,0,Tamanho,GG,,0,,Cores,Cinza,,0,
+605,variable,38128463,"Bermuda Moletom Essentials Unlimit Masculina - Preto",1,0,visible,,"<h2>Bermuda Moletom Essentials Unlimit Masculina</h2>
+Esta <strong>Bermuda Moletom Masculina Mescla </strong>foi criada para homens que adoram o estilo de rua com conforto. Feita de algodão e poliéster, ela proporciona extremo conforto. Na moda, elas voltaram com tudo pra quem gosta de mais conforto e flexibilidade, além de ser super fashion.
+<ul>
+ 	<li>Confortável e Soltinha</li>
+ 	<li>Corte a fio</li>
+ 	<li>Cordão de ajuste para cintura</li>
+ 	<li>Bolsos laterias</li>
+ 	<li>Faixa lateral preta</li>
+ 	<li>Fashion e Descolada</li>
+ 	<li>Use em todos os tipos de treino</li>
+ 	<li>Corridas, treinos, crossfit, e dia a dia.</li>
+ 	<li>Composição: 88% algodão - 12% poliéster</li>
+</ul>
+<strong>Bermuda Essentials Unlimit Masculina</strong> com garantia de fábrica contradefeitos de fabricação.",,,taxable,,backorder,,0,0,500,26,16,7,1,,,,"Moda Fitness, Masculino > Moda Fitness Masculina, Roupas Fitness, Masculino, Masculino > Bermuda Masculina","CrossFit, Dia a Dia, Musculação",,"https://unlimit.fit/wp-content/uploads/2018/02/bermuda-moletom-masculina-essentials-preta-unlimit-1.jpg, https://unlimit.fit/wp-content/uploads/2018/02/bermuda-moletom-masculina-essentials-preta-unlimit-2.jpg, https://unlimit.fit/wp-content/uploads/2018/02/bermuda-moletom-masculina-essentials-preta-unlimit-3.jpg",,,,,,,,,0,Cores,Preto,1,0,Preto,Tamanho,"P, M, G, GG",1,0,P
+606,variation,38128464,"Bermuda Moletom Essentials Unlimit Masculina - Preto - Preto, P",1,0,visible,,,,,taxable,,backorder,0,notify,0,,,,,0,,,"99,9000000000",,,,,,,38128463,,,,,,0,Cores,Preto,,0,,Tamanho,P,,0,
+607,variation,38128465,"Bermuda Moletom Essentials Unlimit Masculina - Preto - Preto, M",1,0,visible,,,,,taxable,,backorder,0,notify,0,,,,,0,,,"99,9000000000",,,,,,,38128463,,,,,,0,Cores,Preto,,0,,Tamanho,M,,0,
+608,variation,38128466,"Bermuda Moletom Essentials Unlimit Masculina - Preto - Preto, G",1,0,visible,,,,,taxable,,backorder,0,notify,0,,,,,0,,,"99,9000000000",,,,,,,38128463,,,,,,0,Cores,Preto,,0,,Tamanho,G,,0,
+609,variation,38128467,"Bermuda Moletom Essentials Unlimit Masculina - Preto - Preto, GG",1,0,visible,,,,,taxable,,backorder,0,notify,0,,,,,0,,,"99,9000000000",,,,,,,38128463,,,,,,0,Cores,Preto,,0,,Tamanho,GG,,0,
+610,variable,38128351,"Boné Aba Reta Floral Unlimit",1,0,visible,,"<h2 class=""MsoNormal"">Boné Aba Reta Floral Unlimit</h2>
+<p class=""MsoNormal"">Boné aba reta Floral Unlimit foi feito para pessoas estilosas que gostam de estar na moda sempre.</p>
+
+<ul>
+ 	<li class=""MsoNormal"">Fechamento traseiro em elástico, aba reta, bordado.</li>
+ 	<li class=""MsoNormal"">Tecido de alta qualidade Dry (secagem rápida).</li>
+ 	<li class=""MsoNormal"">Tamanho único com elástico M</li>
+</ul>
+<p class=""MsoNormal"">Composição: 97% Poliester 3% Elastano</p>
+<p class=""MsoNormal"">Boné aba reta Floral Unlimit com garantia contra defeitos de fábrica por 30 dias.</p>
+<!-- [if gte mso 9]&gt; 96 &lt;![endif]--><!-- [if gte mso 9]&gt; Normal 0 21 false false false PT-BR X-NONE X-NONE &lt;![endif]--><!-- [if gte mso 9]&gt; &lt;![endif]--><!-- [if gte mso 10]&gt; /* Style Definitions */table.MsoNormalTable {mso-style-name:""Tabela normal""; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-style-noshow:yes; mso-style-priority:99; mso-style-parent:""""; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-para-margin:0cm; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-size:12.0pt; font-family:""Calibri"",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-fareast-language:EN-US;}&lt;![endif]--><!--StartFragment--><!--EndFragment-->
+<p class=""MsoNormal""></p>",,,taxable,,1,,0,0,500,26,16,7,1,,,,"Moda Fitness, Masculino > Moda Fitness Masculina, Roupas Fitness, Feminino, Feminino > Boné Feminino, Masculino, Masculino > Boné","Corrida, CrossFit, Dia a Dia, Musculação",,"https://unlimit.fit/wp-content/uploads/2018/02/BEND4547.jpg, https://unlimit.fit/wp-content/uploads/2018/02/BEND4552.jpg, https://unlimit.fit/wp-content/uploads/2018/02/BEND4544.jpg, https://unlimit.fit/wp-content/uploads/2018/02/BEND4550.jpg",,,,,,,,,0,Tamanho,M,1,0,M,Cores,Preto,1,0,Preto
+611,variation,38128352,"Boné Aba Reta Floral Unlimit - M, Preto",1,0,visible,,,,,taxable,,1,29,0,0,,,,,0,,,"59,9000000000",,,,,,,38128351,,,,,,0,Tamanho,M,,0,,Cores,Preto,,0,
+612,variable,38128120,"Legging Preta Feminina Activity Unlimit",1,0,visible,"Calça Legging Feminina de Poliamida com Lycra.
+Esta leg feminina é de alta compressão e tem cós alto.
+Legging com Bolso lateral para celular","<h2 style=""margin: 0px 0px 1em; line-height: 1.4; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;"">Legging Preta Feminina Activity Unlimit</h2>
+Calça Legging Feminina de Poliamida com Lycra.
+Esta leg feminina é de alta compressão e tem cós alto.
+Legging com Bolso lateral para celular
+
+Esta <strong>Legging Preta Feminina Activity Unlimit</strong> foi desenvolvida para pessoas que gostam de performance. Desenvolvida para dar maior mobilidade e flexibilidade ao seus treinos, esta calça te mantém seca, protegida do sol e possui sistema de alta compressão para acelerar a recuperação dos músculos, diminui as dores pós treino e aumenta sua performance.
+<ul>
+ 	<li><b>Tecnologias do tecido:</b>
+<ul>
+ 	<li>Bolso lateral para smartphone plus</li>
+ 	<li>Acelera a recuperação do músculo e aumenta a performance</li>
+ 	<li>Eco-Dry (secagem rápida)</li>
+ 	<li>Easy Care, não precisa passar</li>
+ 	<li>Efeito compressivo alto com flexibilidade e conforto</li>
+ 	<li>Efeito térmico que areja a pele e confere maior sensação de frescor</li>
+ 	<li>Proteção UV50 contra radiação solar</li>
+ 	<li>Isento de produtos tóxicos com certificação Oeko-Tex 100 Classe I</li>
+ 	<li>Composição:  70% Poliamida 30% Elastano</li>
+</ul>
+</li>
+</ul>
+<b><i>Feita para usar nas seguintes modalidades ou treinos:</i></b>
+<ul>
+ 	<li>No seu dia a dia</li>
+ 	<li>Triatlon</li>
+ 	<li>Caminhadas</li>
+ 	<li>Corridas</li>
+ 	<li>Maratonas</li>
+ 	<li>Ciclismo</li>
+ 	<li>Academia</li>
+ 	<li>Musculação</li>
+ 	<li><a href=""http://blog.unlimit.fit/o-que-e-crossfit-e-por-que-todo-mundo-esta-fazendo-isso/"">Crossfit</a></li>
+ 	<li><a href=""http://blog.unlimit.fit/o-que-e-treino-hiit-e-como-ele-pode-transformar-o-seu-corpo/"">Treino HIIT</a></li>
+</ul>
+<strong>Legging Preta Feminina Activity Unlimit</strong> com garantia contra defeitos de fábrica por 30 dias.",,,taxable,,1,,0,0,350,26,16,7,1,,,,"Moda Fitness, Roupas Fitness, Feminino, Feminino > Legging, Feminino > Legging > Legging Feminina, Feminino > Legging > Legging Feminina > Legging Preta, sale","Corrida, CrossFit",,"https://unlimit.fit/wp-content/uploads/2018/02/Legging_Activity-preto.jpg, https://unlimit.fit/wp-content/uploads/2018/02/Legging_Activity-preto2.jpg, https://unlimit.fit/wp-content/uploads/2018/02/Legging_Activity-preto3.jpg",,,,,,,,,0,Tamanho,"G, P, M",1,0,G,Cores,Preto,1,0,Preto
+613,variation,38128262,"Legging Preta Feminina Activity Unlimit - G, Preto",1,0,visible,,,,,taxable,,1,7,0,0,,,,,0,,"89,90","129,0000000000",,,,,,,38128120,,,,,,0,Tamanho,G,,0,,Cores,Preto,,0,
+625,variation,38128263,"Legging Preta Feminina Activity Unlimit - P, Preto",1,0,visible,,,,,taxable,,1,3,0,0,,,,,0,,"89,90","129,0000000000",,,,,,,38128120,,,,,,0,Tamanho,P,,0,,Cores,Preto,,0,
+626,variation,38128264,"Legging Preta Feminina Activity Unlimit - M, Preto",1,0,visible,,,,,taxable,,1,1,0,0,,,,,0,,"89,90","129,0000000000",,,,,,,38128120,,,,,,0,Tamanho,M,,0,,Cores,Preto,,0,
+627,variable,38128513,"Legging Feminina Activity Unlimit - Bordô",1,1,visible,"Calça Legging Feminina de Poliamida com Lycra.
+Esta leg feminina é de alta compressão e tem cós alto.
+Legging com Bolso lateral para celular.","<h2 style=""margin: 0px 0px 1em; line-height: 1.4; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;"">Legging Feminina Activity Unlimit</h2>
+Calça Legging Feminina de Poliamida com Lycra.
+Esta leg feminina é de alta compressão e tem cós alto.
+Legging com Bolso lateral para celular
+
+Esta <strong>Legging Feminina Activity Unlimit</strong> foi desenvolvida para pessoas que gostam de performance. Desenvolvida para dar maior mobilidade e flexibilidade ao seus treinos, esta calça te mantém seca, protegida do sol e possui sistema de alta compressão para acelerar a recuperação dos músculos, diminui as dores pós treino e aumenta sua performance.
+<ul>
+ 	<li><b>Tecnologias do tecido:</b>
+<ul>
+ 	<li>Bolso lateral para smartphone plus</li>
+ 	<li>Acelera a recuperação do músculo e aumenta a performance</li>
+ 	<li>Eco-Dry (secagem rápida)</li>
+ 	<li>Easy Care, não precisa passar</li>
+ 	<li>Efeito compressivo alto com flexibilidade e conforto</li>
+ 	<li>Efeito térmico que areja a pele e confere maior sensação de frescor</li>
+ 	<li>Proteção UV50 contra radiação solar</li>
+ 	<li>Isento de produtos tóxicos com certificação Oeko-Tex 100 Classe I</li>
+ 	<li>Composição:  70% Poliamida 30% Elastano</li>
+</ul>
+</li>
+</ul>
+<b><i>Feita para usar nas seguintes modalidades ou treinos:</i></b>
+<ul>
+ 	<li>No seu dia a dia</li>
+ 	<li>Triatlon</li>
+ 	<li>Caminhadas</li>
+ 	<li>Corridas</li>
+ 	<li>Maratonas</li>
+ 	<li>Ciclismo</li>
+ 	<li>Academia</li>
+ 	<li>Musculação</li>
+ 	<li><a href=""http://blog.unlimit.fit/o-que-e-crossfit-e-por-que-todo-mundo-esta-fazendo-isso/"">Crossfit</a></li>
+ 	<li><a href=""http://blog.unlimit.fit/o-que-e-treino-hiit-e-como-ele-pode-transformar-o-seu-corpo/"">Treino HIIT</a></li>
+</ul>
+Legging Feminina Activity Unlimit com garantia contra defeitos de fábrica por 30 dias.",,,taxable,,1,,0,0,350,16,26,7,1,,,,"Feminino > Legging > Legging Feminina > Legging Academia, Moda Fitness, Roupas Fitness, Feminino, Feminino > Legging, Feminino > Legging > Legging Feminina, sale","Corrida, CrossFit",,"https://unlimit.fit/wp-content/uploads/2018/02/calca-legging-feminina-activity-bordo-unlimit-1.jpg, https://unlimit.fit/wp-content/uploads/2018/02/calca-legging-feminina-activity-bordo-unlimit-3.jpg, https://unlimit.fit/wp-content/uploads/2018/02/calca-legging-feminina-activity-bordo-unlimit-2.jpg",,,,,,,,,0,Tamanho,"G, P, M",1,0,G,Cores,Vinho,1,0,Vinho
+628,variation,38128514,"Legging Feminina Activity Unlimit - Bordô - G, Vinho",1,0,visible,,,,,taxable,,1,5,0,0,350,26,16,7,0,,"59,90","129,0000000000",,,,,,,38128513,,,,,,1,Tamanho,G,,0,,Cores,Vinho,,0,
+629,variation,38128515,"Legging Feminina Activity Unlimit - Bordô - P, Vinho",1,0,visible,,,,,taxable,,1,5,0,0,350,26,16,7,0,,"59,90","129,0000000000",,,,,,,38128513,,,,,,0,Tamanho,P,,0,,Cores,Vinho,,0,
+630,variation,38128516,"Legging Feminina Activity Unlimit - Bordô - M, Vinho",1,0,visible,,,,,taxable,,1,2,0,0,350,26,16,7,0,,"59,90","129,0000000000",,,,,,,38128513,,,,,,0,Tamanho,M,,0,,Cores,Vinho,,0,
+631,variable,38128473,"Calça Moletom Essentials Unlimit Feminina - Mescla",1,0,visible,,"<h2>Calça Moletom Essentials Unlimit Feminina</h2>
+Esta <strong>Calça Moletom Essenciais Unlimit Mescla</strong> é feita com moletom dois cabos e é perfeita para quem não abre mão do conforto do algodão. Ela te dá mobilidade e tem uma pegada de rua que é tendência. Esta calça é feita para pessoas descoladas que procuram conforto em seus exercícios e aquele toque do moletom.
+
+Características:
+<ul>
+ 	<li>Feito em algodão   poliéster</li>
+ 	<li>Parte de baixo com punho elástico</li>
+ 	<li>Cós com ribanna e elástico</li>
+ 	<li>Confortável e soltinho</li>
+ 	<li>Bolsos laterais</li>
+ 	<li>Cordão de ajuste de cintura</li>
+</ul>
+Composição: 88% algodão - 12% poliéster
+
+Calça de Moletom Unlimit com garantia contra defeitos de fábrica de 30 dias.",,,taxable,,1,,0,0,500,26,16,7,1,,,,"Moda Fitness, Roupas Fitness, Feminino, Feminino > Calça Feminina","Dia a Dia, Musculação",,"https://unlimit.fit/wp-content/uploads/2018/02/calça-moletom-feminina-1.jpg, https://unlimit.fit/wp-content/uploads/2018/02/calça-moletom-feminina-2.jpg, https://unlimit.fit/wp-content/uploads/2018/02/calça-moletom-feminina-3.jpg",,,,,,,,,0,Tamanho,"P, M, G",1,0,P,Cores,Cinza,1,0,Cinza
+632,variation,38128474,"Calça Moletom Essentials Unlimit Feminina - Mescla - P, Cinza",1,0,visible,,,,,taxable,,backorder,0,notify,0,,,,,0,,,"99,9000000000",,,,,,,38128473,,,,,,0,Tamanho,P,,0,,Cores,Cinza,,0,
+633,variation,38128475,"Calça Moletom Essentials Unlimit Feminina - Mescla - M, Cinza",1,0,visible,,,,,taxable,,1,2,notify,0,,,,,0,,,"99,9000000000",,,,,,,38128473,,,,,,0,Tamanho,M,,0,,Cores,Cinza,,0,
+634,variation,38128476,"Calça Moletom Essentials Unlimit Feminina - Mescla - G, Cinza",1,0,visible,,,,,taxable,,backorder,0,notify,0,,,,,0,,,"99,9000000000",,,,,,,38128473,,,,,,0,Tamanho,G,,0,,Cores,Cinza,,0,
+635,variable,38128477,"Calça Moletom Feminina Essentials Unlimit - Preto",1,0,visible,,"<h2 class=""MsoNormal"">Calça Moletom Feminina Essentials Unlimit nina</h2>
+<p class=""MsoNormal"">Esta <strong>Calça Moletom Feminina Essenciais Unlimit</strong> é feita com moletom dois cabos e é perfeita para quem não abre mão do conforto do algodão. Ela te dá mobilidade e tem uma pegada de rua que é tendência. Esta calça é feita para pessoas descoladas que procuram conforto em seus exercícios e aquele toque do moletom.</p>
+<p class=""MsoNormal"">Características:</p>
+
+<ul>
+ 	<li class=""MsoNormal"">Feito em algodão   poliéster</li>
+ 	<li class=""MsoNormal"">Parte de baixo com punho elástico</li>
+ 	<li class=""MsoNormal"">Cós com ribanna e elástico</li>
+ 	<li class=""MsoNormal"">Confortável e soltinho</li>
+ 	<li class=""MsoNormal"">Bolsos laterais</li>
+ 	<li class=""MsoNormal"">Cordão de ajuste de cintura</li>
+</ul>
+<p class=""MsoNormal"">Composição: 88% algodão - 12% poliéster</p>
+<!-- [if gte mso 9]&gt; 96 &lt;![endif]--><!-- [if gte mso 9]&gt; Normal 0 21 false false false PT-BR X-NONE X-NONE &lt;![endif]--><!-- [if gte mso 9]&gt; &lt;![endif]--><!-- [if gte mso 10]&gt; /* Style Definitions */table.MsoNormalTable {mso-style-name:""Tabela normal""; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-style-noshow:yes; mso-style-priority:99; mso-style-parent:""""; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-para-margin:0cm; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-size:12.0pt; font-family:""Calibri"",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-fareast-language:EN-US;}&lt;![endif]--><!--StartFragment--><!--EndFragment-->
+<p class=""MsoNormal"">Calça de Moletom Feminina Unlimit com garantia contra defeitos de fábrica de 30 dias.</p>",,,taxable,,backorder,,0,0,500,26,16,7,1,,,,"Moda Fitness, Roupas Fitness, Feminino, Feminino > Calça Feminina","Dia a Dia, Musculação",,"https://unlimit.fit/wp-content/uploads/2018/02/calça-moletom-feminina-preta-1.jpg, https://unlimit.fit/wp-content/uploads/2018/02/calça-moletom-feminina-preta-2.jpg, https://unlimit.fit/wp-content/uploads/2018/02/calça-moletom-feminina-preta-3.jpg",,,,,,,,,0,Tamanho,"P, M, G",1,0,P,Cores,Preto,1,0,Preto
+636,variation,38128478,"Calça Moletom Feminina Essentials Unlimit - Preto - P, Preto",1,0,visible,,,,,taxable,,backorder,0,notify,0,,,,,0,,,"99,9000000000",,,,,,,38128477,,,,,,0,Tamanho,P,,0,,Cores,Preto,,0,
+637,variation,38128479,"Calça Moletom Feminina Essentials Unlimit - Preto - M, Preto",1,0,visible,,,,,taxable,,backorder,0,notify,0,,,,,0,,,"99,9000000000",,,,,,,38128477,,,,,,0,Tamanho,M,,0,,Cores,Preto,,0,
+650,variation,38128480,"Calça Moletom Feminina Essentials Unlimit - Preto - G, Preto",1,0,visible,,,,,taxable,,backorder,0,notify,0,,,,,0,,,"99,9000000000",,,,,,,38128477,,,,,,0,Tamanho,G,,0,,Cores,Preto,,0,
+651,variable,38128502,"Camiseta Feminina Essentials Unlimit - Branco",1,0,visible,"Esta <strong>Camiseta Feminina</strong> da linha Essencials é ideal para mulheres que procura alto conforto do algodão. Fabricada com 100% algodão penteado fio 30 orgânico é perfeita para combinar com bermudas, calças de moletom e até uma calça jeans. Você pode usar em qualquer momento.","<h2>Camiseta Feminina Essentials Unlimit</h2>
+<p style=""margin: 0px 0px 1em; line-height: 1.4; max-width: 99%; font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;"">Esta <strong>Camiseta Feminina</strong> da linha Essencials é ideal para mulheres que procura alto conforto do algodão. Fabricada com 100% algodão penteado fio 30 orgânico é perfeita para combinar com bermudas, calças de moletom e até uma calça jeans. Você pode usar em qualquer momento.</p>
+Características:
+<ul>
+ 	<li>Composição 100% algodão</li>
+ 	<li>Modelagem Fit</li>
+ 	<li>Fio Orgânico</li>
+ 	<li>Logo estampada na frente efeito brilho.</li>
+ 	<li>Perfeita para treinos, crossfit e seu dia a dia.</li>
+ 	<li>Use em qualquer momento.</li>
+ 	<li>Fashion e Descolada.</li>
+</ul>
+<strong>Camiseta Feminina Essencials Unlimit Preta</strong> com garantia contra defeitos de fabricação por 30 dias.",,,taxable,,1,,0,0,500,26,16,7,1,,,,"Moda Fitness, Roupas Fitness, Feminino, Feminino > Camiseta Feminina, sale","CrossFit, Dia a Dia, Musculação",,"https://unlimit.fit/wp-content/uploads/2018/02/camiseta-feminina-essentials-branca-unlimit-1.jpg, https://unlimit.fit/wp-content/uploads/2018/02/camiseta-feminina-essentials-branca-unlimit-2.jpg, https://unlimit.fit/wp-content/uploads/2018/02/camiseta-feminina-essentials-branca-unlimit-3.jpg",,,,,,,,,0,Cores,Branco,1,0,Branco,Tamanho,"P, M, G",1,0,P
+652,variation,38128503,"Camiseta Feminina Essentials Unlimit - Branco - Branco, P",1,0,visible,,,,,taxable,,1,10,0,0,,,,,0,,"49,90","79,9000000000",,,,,,,38128502,,,,,,0,Cores,Branco,,0,,Tamanho,P,,0,
+653,variation,38128504,"Camiseta Feminina Essentials Unlimit - Branco - Branco, M",1,0,visible,,,,,taxable,,1,5,0,0,,,,,0,,"49,90","79,9000000000",,,,,,,38128502,,,,,,0,Cores,Branco,,0,,Tamanho,M,,0,
+654,variation,38128505,"Camiseta Feminina Essentials Unlimit - Branco - Branco, G",1,0,visible,,,,,taxable,,1,7,0,0,,,,,0,,"49,90","79,9000000000",,,,,,,38128502,,,,,,0,Cores,Branco,,0,,Tamanho,G,,0,
+655,variable,38128506,"Camiseta Feminina Essentials Unlimit - Preto",1,0,visible,"Esta <strong>Camiseta Feminina</strong> da linha Essencials é ideal para mulheres que procura alto conforto do algodão. Fabricada com 100% algodão penteado fio 30 orgânico é perfeita para combinar com bermudas, calças de moletom e até uma calça jeans. Você pode usar em qualquer momento.","<h2>Camiseta Feminina Essentials Unlimit</h2>
+<p style=""margin: 0px 0px 1em; line-height: 1.4; max-width: 99%; font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;"">Esta <strong>Camiseta Feminina</strong> da linha Essencials é ideal para mulheres que procura alto conforto do algodão. Fabricada com 100% algodão penteado fio 30 orgânico é perfeita para combinar com bermudas, calças de moletom e até uma calça jeans. Você pode usar em qualquer momento.</p>
+Características:
+<ul>
+ 	<li>Composição 100% algodão</li>
+ 	<li>Modelagem Fit</li>
+ 	<li>Fio Orgânico</li>
+ 	<li>Logo estampada na frente efeito brilho.</li>
+ 	<li>Perfeita para treinos, crossfit e seu dia a dia.</li>
+ 	<li>Use em qualquer momento.</li>
+ 	<li>Fashion e Descolada.</li>
+</ul>
+<strong>Camiseta Feminina Essencials Unlimit Preta</strong> com garantia contra defeitos de fabricação por 30 dias.",,,taxable,,1,,0,0,500,26,16,7,1,,,,"Moda Fitness, Roupas Fitness, Feminino, Feminino > Camiseta Feminina, sale","CrossFit, Dia a Dia, Musculação",,"https://unlimit.fit/wp-content/uploads/2018/02/camiseta-feminina-essentials-preta-unlimit-1.jpg, https://unlimit.fit/wp-content/uploads/2018/02/camiseta-feminina-essentials-preta-unlimit-2.jpg, https://unlimit.fit/wp-content/uploads/2018/02/camiseta-feminina-essentials-preta-unlimit-3.jpg",,,,,,,,,0,Tamanho,"P, M, G",1,0,P,Cores,Preto,1,0,Preto
+656,variation,38128507,"Camiseta Feminina Essentials Unlimit - Preto - P, Preto",1,0,visible,,,,,taxable,,1,9,0,0,,,,,0,,"49,00","79,9000000000",,,,,,,38128506,,,,,,0,Tamanho,P,,0,,Cores,Preto,,0,
+657,variation,38128508,"Camiseta Feminina Essentials Unlimit - Preto - M, Preto",1,0,visible,,,,,taxable,,1,5,0,0,,,,,0,,"49,00","79,9000000000",,,,,,,38128506,,,,,,0,Tamanho,M,,0,,Cores,Preto,,0,
+658,variation,38128509,"Camiseta Feminina Essentials Unlimit - Preto - G, Preto",1,0,visible,,,,,taxable,,1,6,0,0,,,,,0,,"49,00","79,9000000000",,,,,,,38128506,,,,,,0,Tamanho,G,,0,,Cores,Preto,,0,
+659,variable,38128407,"Camiseta Masculina Essentials Unlimit - Branco",1,0,visible,"Esta <strong>Camiseta Masculina Branca</strong> da linha Essencials é ideal para homens que procuram alto conforto do algodão. Fabricada com 100% algodão penteado fio 30 orgânico é perfeita para combinar com bermudas, calças de moletom e até uma calça jeans. Você pode usar em qualquer momento.","<h2>Camiseta Masculina Essentials Unlimit</h2>
+<p style=""margin: 0px 0px 1em; line-height: 1.4; max-width: 99%; font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;"">Esta <strong>Camiseta Masculina Branca</strong> da linha Essencials é ideal para homens que procuram alto conforto do algodão. Fabricada com 100% algodão penteado fio 30 orgânico é perfeita para combinar com bermudas, calças de moletom e até uma calça jeans. Você pode usar em qualquer momento.</p>
+Características:
+<ul>
+ 	<li>Composição 100% algodão</li>
+ 	<li>Modelagem Fit</li>
+ 	<li>Fio Orgânico</li>
+ 	<li>Logo estampada na frente efeito brilho.</li>
+ 	<li>Perfeita para treinos, crossfit e seu dia a dia.</li>
+ 	<li>Use em qualquer momento.</li>
+ 	<li>Fashion e Descolada.</li>
+</ul>
+<strong>Camiseta Masculina Essencials Unlimit Preta</strong> com garantia contra defeitos de fabricação por 30 dias.",,,taxable,,1,,0,0,500,26,16,7,1,,,,"Moda Fitness, Masculino > Moda Fitness Masculina, Roupas Fitness, Masculino, Masculino > Camiseta Masculina, sale","CrossFit, Dia a Dia, Musculação",,"https://unlimit.fit/wp-content/uploads/2018/02/BEND4399.jpg, https://unlimit.fit/wp-content/uploads/2018/02/BEND4401.jpg, https://unlimit.fit/wp-content/uploads/2018/02/BEND4405.jpg, https://unlimit.fit/wp-content/uploads/2018/02/BEND4403.jpg",,,,,,,,,0,Cores,Branco,1,0,Branco,Tamanho,"P, M, G, GG",1,0,P
+660,variation,38128408,"Camiseta Masculina Essentials Unlimit - Branco - Branco, P",1,0,visible,,,,,taxable,,1,1,0,0,,,,,0,,"49,00","79,9000000000",,,,,,,38128407,,,,,,0,Cores,Branco,,0,,Tamanho,P,,0,
+661,variation,38128409,"Camiseta Masculina Essentials Unlimit - Branco - Branco, M",1,0,visible,,,,,taxable,,1,2,0,0,,,,,0,,"49,00","79,9000000000",,,,,,,38128407,,,,,,0,Cores,Branco,,0,,Tamanho,M,,0,
+662,variation,38128410,"Camiseta Masculina Essentials Unlimit - Branco - Branco, G",1,0,visible,,,,,taxable,,1,3,0,0,,,,,0,,"49,00","79,9000000000",,,,,,,38128407,,,,,,0,Cores,Branco,,0,,Tamanho,G,,0,
+663,variation,38128411,"Camiseta Masculina Essentials Unlimit - Branco - Branco, GG",1,0,visible,,,,,taxable,,1,4,0,0,,,,,0,,"49,00","79,9000000000",,,,,,,38128407,,,,,,0,Cores,Branco,,0,,Tamanho,GG,,0,
+664,variable,38128402,"Camiseta Masculina Essentials Unlimit - Preto",1,0,visible,"Esta <strong>Camiseta Masculina preta</strong> da linha Essencials é ideal para homens que procuram alto conforto do algodão. Fabricada com 100% algodão penteado fio 30 orgânico é perfeita para combinar com bermudas, calças de moletom e até uma calça jeans. Você pode usar em qualquer momento.","<h2>Camiseta Masculina Essentials Unlimit</h2>
+<p style=""margin: 0px 0px 1em; line-height: 1.4; max-width: 99%; font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;"">Esta <strong>Camiseta Masculina preta</strong> da linha Essencials é ideal para homens que procuram alto conforto do algodão. Fabricada com 100% algodão penteado fio 30 orgânico é perfeita para combinar com bermudas, calças de moletom e até uma calça jeans. Você pode usar em qualquer momento.</p>
+Características:
+<ul>
+ 	<li>Composição 100% algodão</li>
+ 	<li>Modelagem Fit</li>
+ 	<li>Fio Orgânico</li>
+ 	<li>Logo estampada na frente.</li>
+ 	<li>Perfeita para treinos, crossfit e seu dia a dia.</li>
+ 	<li>Use em qualquer momento.</li>
+ 	<li>Fashion e Descolada.</li>
+</ul>
+<strong>Camiseta Masculina Essencials Unlimit Preta</strong> com garantia contra defeitos de fabricação por 30 dias.",,,taxable,,1,,0,0,500,26,16,7,1,,,,"Moda Fitness, Masculino > Moda Fitness Masculina, Roupas Fitness, Masculino, Masculino > Camiseta Masculina, sale","CrossFit, Dia a Dia, Musculação",,"https://unlimit.fit/wp-content/uploads/2018/02/BEND4417.jpg, https://unlimit.fit/wp-content/uploads/2018/02/BEND4421.jpg, https://unlimit.fit/wp-content/uploads/2018/02/BEND4425.jpg, https://unlimit.fit/wp-content/uploads/2018/02/BEND4423.jpg, https://unlimit.fit/wp-content/uploads/2018/02/BEND4422.jpg",,,,,,,,,0,Cores,Preto,1,0,Preto,Tamanho,"P, M, G, GG",1,0,P
+665,variation,38128403,"Camiseta Masculina Essentials Unlimit - Preto - Preto, P",1,0,visible,,,,,taxable,,1,4,0,0,,,,,0,,"49,00","79,9000000000",,,,,,,38128402,,,,,,0,Cores,Preto,,0,,Tamanho,P,,0,
+678,variation,38128404,"Camiseta Masculina Essentials Unlimit - Preto - Preto, M",1,0,visible,,,,,taxable,,1,6,0,0,,,,,0,,"49,00","79,9000000000",,,,,,,38128402,,,,,,0,Cores,Preto,,0,,Tamanho,M,,0,
+679,variation,38128405,"Camiseta Masculina Essentials Unlimit - Preto - Preto, G",1,0,visible,,,,,taxable,,1,6,0,0,,,,,0,,"49,00","79,9000000000",,,,,,,38128402,,,,,,0,Cores,Preto,,0,,Tamanho,G,,0,
+680,variation,38128406,"Camiseta Masculina Essentials Unlimit - Preto - Preto, GG",1,0,visible,,,,,taxable,,1,8,0,0,,,,,0,,"49,00","79,9000000000",,,,,,,38128402,,,,,,0,Cores,Preto,,0,,Tamanho,GG,,0,
+681,variable,38128538,"Jaqueta Corta Vento Unissex Unlimit - Laranja",1,1,visible,"A <b>Jaqueta Corta Vento Unissex Unlimit </b>é feita<b> </b>para homens e mulheres exigentes que procuram conforto<strong> </strong>e proteção contra o vento e frio. Feita com tecido leve, ela possui bolsos laterais com zíper e forro delicado para o tecido não grudar no corpo. Tem uma pegada inovadora e fashion, sem muitos detalhes aparentes. A simplicidade desta jaqueta trás todo seu charme.","<h2>Jaqueta Corta Vento Unissex Unlimit Laranja</h2>
+<h3><strong>Descrição do Produto:</strong></h3>
+<p style=""margin: 0px 0px 1em; line-height: 1.4; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"">A <strong>Jaqueta Corta Vento Unissex Unlimit Laranja </strong>é feita<strong> </strong>para homens e mulheres exigentes que procuram conforto<strong> </strong>e proteção contra o vento e frio. Feita com tecido leve, ela possui bolsos laterais com zíper e forro delicado para o tecido não grudar na pele. Tem uma pegada inovadora e fashion, sem muitos detalhes aparentes. A simplicidade desta jaqueta trás todo seu charme.</p>
+
+<h3><strong>Tecnologias do tecido:</strong></h3>
+<ul>
+ 	<li>Eco-Dry (secagem rápida)</li>
+ 	<li>Easy Care, não precisa passar</li>
+ 	<li>Zíper</li>
+ 	<li>Bolsos laterais com zíper</li>
+ 	<li>Toca</li>
+ 	<li>Forrada com tela plume de extremo conforto e não deixa grudar na pele</li>
+ 	<li>Marca estampada na parte da frente com adesivo</li>
+ 	<li>Isento de produtos tóxicos com certificação Oeko-Tex 100 Classe I</li>
+ 	<li>Composição: 100% Poliamida no tecido interno e externo</li>
+</ul>
+<h3><strong>Indicado para:</strong></h3>
+Esta Jaqueta Corta Vento é ideal para corridas e caminhadas em ambientes com vento e frio. Ela corta o vento para que seu corpo não tenha trocas rápidas de temperatura. Você pode usar ela para caminhas, corridas e pra saídas da academia. Que tal usar em seu dia a dia como uma peça de roupa mais jogada e fashion?
+
+<strong>Você pode saber mais sobre em <a href=""http://blog.unlimit.fit"">blog.unlimit.fit</a>.</strong>
+<h3><strong>Garantia e Trocas Unlimit:</strong></h3>
+<em>Garantia contra defeitos de fabricação de 30 dias.
+Primeira troca grátis.
+Não gostou do produto? Devolvemos em até 30 dias.</em>
+
+Jaqueta Corta Vento Unissex Unlimit Laranja",,,taxable,,1,,0,0,500,26,16,7,1,,,,"Moda Fitness, Masculino > Moda Fitness Masculina, Roupas Fitness, Feminino, Feminino > Jaqueta Corta Vento Feminina, Masculino, Masculino > Jaqueta Corta Vento, sale","Corrida, Dia a Dia",,"https://unlimit.fit/wp-content/uploads/2018/02/jaqueta-corta-vento-unissex-laranja.jpg, https://unlimit.fit/wp-content/uploads/2018/02/jaqueta-corta-vento-unissex-laranja2.jpg, https://unlimit.fit/wp-content/uploads/2018/02/jaqueta-corta-vento-unissex-laranja3.jpg, https://unlimit.fit/wp-content/uploads/2018/02/jaqueta-corta-vento-unissex-laranja6.jpg",,,,,,,,,0,Tamanho,"P, M, G",1,0,P,Cores,Laranja,1,0,Laranja
+682,variation,38128539,"Jaqueta Corta Vento Unissex Unlimit - Laranja - P, Laranja",1,0,visible,,,,,taxable,,1,4,0,0,,,,,0,,"119,00","169,9000000000",,,,,,,38128538,,,,,,1,Tamanho,P,,0,,Cores,Laranja,,0,
+683,variation,38128540,"Jaqueta Corta Vento Unissex Unlimit - Laranja - M, Laranja",1,0,visible,,,,,taxable,,1,3,0,0,,,,,0,,"119,00","169,9000000000",,,,,,,38128538,,,,,,0,Tamanho,M,,0,,Cores,Laranja,,0,
+684,variation,38128541,"Jaqueta Corta Vento Unissex Unlimit - Laranja - G, Laranja",1,0,visible,,,,,taxable,,1,3,0,0,,,,,0,,"119,00","169,9000000000",,,,,,,38128538,,,,,,0,Tamanho,G,,0,,Cores,Laranja,,0,
+685,variable,38128437,"Legging Emana Colors Feminina Unlimit - Bordô",1,1,visible,"Esta <strong>Legging Emana Colors Feminina Bordô</strong> tem efeito de compressão médio e é feita de um dos tecidos que mais faz sucesso entre o público feminino, o Emana tem como um dos seus grandes benefícios a diminuição dos sinas de celulite, proporcionando uma pele mais lisa e jovem.","<h2>Legging Emana Colors Feminina Unlimit</h2>
+<p style=""margin: 0px 0px 1em; line-height: 1.4; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"">Esta <strong>Legging Emana Colors Feminina Bordô</strong> tem efeito de compressão médio e é feita de um dos tecidos que mais faz sucesso entre o público feminino, o Emana tem como um dos seus grandes benefícios a diminuição dos sinas de celulite, proporcionando uma pele mais lisa e jovem. Contém cristais bioativos e minerais emissores infravermelhos, que ao absorver o calor promovem a bioestimulação do metabolismo.</p>
+O Emana tem bioestimulação, que faz o rendimento físico melhorar em diversos fatores, principalmente diminuindo a fadiga com menor consumo de oxigênio. O fio também contribui para uma rápida recuperação muscular, maior elasticidade da pele e equilíbrio térmico.
+
+Tecnologias do tecido:
+<ul>
+ 	<li>Anticelulite</li>
+ 	<li>Redução da fadiga muscular</li>
+ 	<li>Rápida recuperação muscular</li>
+ 	<li>Aumento da performance esportiva</li>
+ 	<li>Eco-Dry (secagem rápida)</li>
+ 	<li>Easy Care, não precisa passar</li>
+ 	<li>Proteção UV50  contra radiação ultravioleta</li>
+ 	<li>Isento de produtos tóxicos com certificação Oeko-Tex 100 Classe I</li>
+</ul>
+Composição: 84% Poliamida 16% Elastano
+<p style=""margin: 0px 0px 1em; line-height: 1.4; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;""><em><strong>Para vestir-se bem em:</strong></em></p>
+
+<ul style=""font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"">
+ 	<li>No seu dia a dia</li>
+ 	<li>Caminhadas</li>
+ 	<li>Corridas</li>
+ 	<li>Ciclismo</li>
+ 	<li>Academia</li>
+ 	<li>Musculação</li>
+ 	<li>Crossfit</li>
+</ul>
+<p style=""margin: 0px 0px 1em; line-height: 1.4; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;""><strong>Legging Emana Colors Feminina</strong> com garantia contra defeitos de fabricação por 30 dias.</p>",,,taxable,,1,,0,0,500,26,16,7,1,,,,"Feminino > Anticelulite, Feminino > Legging > Legging Feminina > Legging Academia, Moda Fitness, Roupas Fitness, Feminino, Feminino > Legging, Feminino > Legging > Legging Feminina, Feminino > Legging > Legging Feminina > Legging Emana, sale","Dia a Dia, Musculação",,"https://unlimit.fit/wp-content/uploads/2018/02/calca-legging-emana-feminina-colors-bordo-unlimit-1.jpg, https://unlimit.fit/wp-content/uploads/2018/02/calca-legging-emana-feminina-colors-bordo-unlimit-3.jpg, https://unlimit.fit/wp-content/uploads/2018/02/calca-legging-emana-feminina-colors-bordo-unlimit-2.jpg, https://unlimit.fit/wp-content/uploads/2018/02/calca-legging-emana-feminina-colors-bordo-unlimit-4.jpg",,,,,,,,,0,Tamanho,"P, M, G",1,0,P,Cores,Bordô,1,0,Bordô
+686,variation,38128444,"Legging Emana Colors Feminina Unlimit - Bordô - P, Bordô",1,0,visible,,,,,taxable,,1,1,0,0,,,,,0,,"79,90","159,9000000000",,,,,,,38128437,,,,,,0,Tamanho,P,,0,,Cores,Bordô,,0,
+687,variation,38128445,"Legging Emana Colors Feminina Unlimit - Bordô - M, Bordô",1,0,visible,,,,,taxable,,1,2,0,0,,,,,0,,"79,90","159,9000000000",,,,,,,38128437,,,,,,0,Tamanho,M,,0,,Cores,Bordô,,0,
+688,variation,38128446,"Legging Emana Colors Feminina Unlimit - Bordô - G, Bordô",1,0,visible,,,,,taxable,,1,1,0,0,,,,,0,,"79,90","159,9000000000",,,,,,,38128437,,,,,,0,Tamanho,G,,0,,Cores,Bordô,,0,
+689,variable,38128433,"Legging Emana Colors Unlimit - Rosè",1,1,visible,"Esta <strong>Legging Emana Colors Feminina</strong> tem efeito de compressão médio e é feita de um dos tecidos que mais faz sucesso entre o público feminino, o Emana tem como um dos seus grandes benefícios a diminuição dos sinas de celulite, proporcionando uma pele mais lisa e jovem","<h2>Legging Emana Colors Feminina Unlimit</h2>
+<p style=""margin: 0px 0px 1em; line-height: 1.4; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"">Esta <strong>Legging Emana Colors Feminina</strong> tem efeito de compressão médio e é feita de um dos tecidos que mais faz sucesso entre o público feminino, o Emana tem como um dos seus grandes benefícios a diminuição dos sinas de celulite, proporcionando uma pele mais lisa e jovem. Contém cristais bioativos e minerais emissores infravermelhos, que ao absorver o calor promovem a bioestimulação do metabolismo.</p>
+O Emana tem bioestimulação, que faz o rendimento físico melhorar em diversos fatores, principalmente diminuindo a fadiga com menor consumo de oxigênio. O fio também contribui para uma rápida recuperação muscular, maior elasticidade da pele e equilíbrio térmico.
+
+Tecnologias do tecido:
+<ul>
+ 	<li>Anticelulite</li>
+ 	<li>Redução da fadiga muscular</li>
+ 	<li>Rápida recuperação muscular</li>
+ 	<li>Aumento da performance esportiva</li>
+ 	<li>Eco-Dry (secagem rápida)</li>
+ 	<li>Easy Care, não precisa passar</li>
+ 	<li>Proteção UV50  contra radiação ultravioleta</li>
+ 	<li>Isento de produtos tóxicos com certificação Oeko-Tex 100 Classe I</li>
+</ul>
+Composição: 84% Poliamida 16% Elastano
+<p style=""margin: 0px 0px 1em; line-height: 1.4; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;""><em><strong>Para vestir-se bem em:</strong></em></p>
+
+<ul style=""font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"">
+ 	<li>No seu dia a dia</li>
+ 	<li>Caminhadas</li>
+ 	<li>Corridas</li>
+ 	<li>Ciclismo</li>
+ 	<li>Academia</li>
+ 	<li>Musculação</li>
+ 	<li>Crossfit</li>
+</ul>
+<p style=""margin: 0px 0px 1em; line-height: 1.4; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;""><strong>Legging Emana Colors Feminina</strong> com garantia contra defeitos de fabricação por 30 dias.</p>",,,taxable,,1,,0,0,500,26,16,7,1,,,,"Feminino > Anticelulite, Feminino > Legging > Legging Feminina > Legging Academia, Moda Fitness, Roupas Fitness, Feminino, Feminino > Legging, Feminino > Legging > Legging Feminina, Feminino > Legging > Legging Feminina > Legging Emana, sale","Dia a Dia, Musculação",,"https://unlimit.fit/wp-content/uploads/2018/02/calca-legging-emana-feminina-colors-rose-unlimit-1.jpg, https://unlimit.fit/wp-content/uploads/2018/02/calca-legging-emana-feminina-colors-rose-unlimit-4.jpg, https://unlimit.fit/wp-content/uploads/2018/02/calca-legging-emana-feminina-colors-rose-unlimit-5.jpg, https://unlimit.fit/wp-content/uploads/2018/02/calca-legging-emana-feminina-colors-rose-unlimit-3.jpg, https://unlimit.fit/wp-content/uploads/2018/02/calca-legging-emana-feminina-colors-rose-unlimit-2.jpg",,,,,,,,,0,Tamanho,"P, M, G",1,0,P,Cores,Rose,1,0,Rose
+690,variation,38128434,"Legging Emana Colors Unlimit - Rosè - P, Rose",1,0,visible,,,,,taxable,,1,2,0,0,,,,,0,,"69,90","159,9000000000",,,,,,,38128433,,,,,,0,Tamanho,P,,0,,Cores,Rose,,0,
+691,variation,38128435,"Legging Emana Colors Unlimit - Rosè - M, Rose",1,0,visible,,,,,taxable,,1,2,0,0,,,,,0,,"69,90","159,9000000000",,,,,,,38128433,,,,,,0,Tamanho,M,,0,,Cores,Rose,,0,
+692,variation,38128436,"Legging Emana Colors Unlimit - Rosè - G, Rose",1,0,visible,,,,,taxable,,1,2,0,0,,,,,0,,"69,90","159,9000000000",,,,,,,38128433,,,,,,0,Tamanho,G,,0,,Cores,Rose,,0,
+693,variable,38128429,"Legging Emana Feminina Confort Unlimit - Cinza",1,1,visible,"Esta <strong>Legging Emana Feminina</strong> tem efeito de compressão médio e é feita de um dos tecidos que mais faz sucesso entre o público feminino, o Emana tem como um dos seus grandes benefícios a diminuição dos sinas de celulite, proporcionando uma pele mais lisa e jovem.","<h2>Legging Emana Feminina Confort Anticelulite Unlimit</h2>
+<p style=""margin: 0px 0px 1em; line-height: 1.4; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"">Esta <strong>Legging Emana Feminina</strong> tem efeito de compressão médio e é feita de um dos tecidos que mais faz sucesso entre o público feminino, o Emana tem como um dos seus grandes benefícios a diminuição dos sinas de celulite, proporcionando uma pele mais lisa e jovem. Contém cristais bioativos e minerais emissores infravermelhos, que ao absorver o calor promovem a bioestimulação do metabolismo.</p>
+O Emana tem bioestimulação, que faz o rendimento físico melhorar em diversos fatores, principalmente diminuindo a fadiga com menor consumo de oxigênio. O fio também contribui para uma rápida recuperação muscular, maior elasticidade da pele e equilíbrio térmico.
+
+Tecnologias do tecido:
+<ul>
+ 	<li>Anticelulite</li>
+ 	<li>Redução da fadiga muscular</li>
+ 	<li>Rápida recuperação muscular</li>
+ 	<li>Aumento da performance esportiva</li>
+ 	<li>Eco-Dry (secagem rápida)</li>
+ 	<li>Easy Care, não precisa passar</li>
+ 	<li>Proteção UV50  contra radiação ultravioleta</li>
+ 	<li>Isento de produtos tóxicos com certificação Oeko-Tex 100 Classe I</li>
+</ul>
+Composição: 84% Poliamida 16% Elastano
+<p style=""margin: 0px 0px 1em; line-height: 1.4; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;""><em><strong>Para vestir-se bem em:</strong></em></p>
+
+<ul style=""font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"">
+ 	<li>No seu dia a dia</li>
+ 	<li>Caminhadas</li>
+ 	<li>Corridas</li>
+ 	<li>Ciclismo</li>
+ 	<li>Academia</li>
+ 	<li>Musculação</li>
+ 	<li>Crossfit</li>
+</ul>
+<p style=""margin: 0px 0px 1em; line-height: 1.4; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;""><strong>Legging Emana Feminina</strong> com garantia contra defeitos de fabricação por 30 dias.</p>",,,taxable,,1,,0,0,500,26,16,7,1,,,,"Feminino > Anticelulite, Feminino > Legging > Legging Feminina > Legging Academia, Moda Fitness, Roupas Fitness, Feminino, Feminino > Legging, Feminino > Legging > Legging Feminina, Feminino > Legging > Legging Feminina > Legging Emana, sale","Dia a Dia, Musculação",,"https://unlimit.fit/wp-content/uploads/2018/02/calca-legging-emana-feminina-confort-cinza-unlimit-1.jpg, https://unlimit.fit/wp-content/uploads/2018/02/calca-legging-emana-feminina-confort-cinza-unlimit-2.jpg, https://unlimit.fit/wp-content/uploads/2018/02/calca-legging-emana-feminina-confort-cinza-unlimit-3.jpg",,,,,,,,,0,Tamanho,"P, M, G",1,0,P,Cores,Cinza,1,0,Cinza
+706,variation,38128430,"Legging Emana Feminina Confort Unlimit - Cinza - P, Cinza",1,0,visible,,,,,taxable,,1,1,0,0,,,,,0,,"89,90","189,0000000000",,,,,,,38128429,,,,,,0,Tamanho,P,,0,,Cores,Cinza,,0,
+707,variation,38128431,"Legging Emana Feminina Confort Unlimit - Cinza - M, Cinza",1,0,visible,,,,,taxable,,1,3,0,0,,,,,0,,"89,90","189,0000000000",,,,,,,38128429,,,,,,0,Tamanho,M,,0,,Cores,Cinza,,0,
+708,variation,38128432,"Legging Emana Feminina Confort Unlimit - Cinza - G, Cinza",1,0,visible,,,,,taxable,,1,3,0,0,,,,,0,,"89,90","189,0000000000",,,,,,,38128429,,,,,,0,Tamanho,G,,0,,Cores,Cinza,,0,
+709,variable,38128412,"Regata Masculina Long Essentials Unlimit - Branco",1,1,visible,"Esta <strong>Regata Masculina Long</strong> da linha Essencials é ideal para o homem que procura alto conforto do algodão e aquela pegada fashion das camisetas longs. Fabricada com 100% algodão penteado fio 30 orgânico é perfeita para combinar com bermudas, calças de moletom e principalmente legging masculina.","<h2>Regata Masculina Long Essentials Unlimit</h2>
+<p style=""margin: 0px 0px 1em; line-height: 1.4; max-width: 99%; font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;"">Esta <strong>Regata Masculina Long</strong> da linha Essencials é ideal para o homem que procura alto conforto do algodão e aquela pegada fashion das camisetas longs. Fabricada com 100% algodão penteado fio 30 orgânico é perfeita para combinar com bermudas, calças de moletom e principalmente legging masculina.</p>
+Características:
+<ul>
+ 	<li>Composição 100% algodão</li>
+ 	<li>Regata fio 30 penteado fabricado em fio orgânico.</li>
+ 	<li>Long, comprida até quase o joelho.</li>
+ 	<li>Ótima para uso com legging.</li>
+ 	<li>Fashion e Descolada.</li>
+</ul>
+<strong>Regata Masculina Long Essencials Unlimit</strong> Branca com garantia contra defeitos de fabricação por 30 dias.",,,taxable,,1,,0,0,500,26,16,7,1,,,,"Moda Fitness, Masculino > Moda Fitness Masculina, Roupas Fitness, Masculino, Masculino > Camiseta Regata Masculina, sale","CrossFit, Dia a Dia, Musculação",,"https://unlimit.fit/wp-content/uploads/2018/02/camiseta-regata-long-essentials-concept-branca-unlimit-1.jpg, https://unlimit.fit/wp-content/uploads/2018/02/camiseta-regata-long-essentials-concept-branca-unlimit-2.jpg, https://unlimit.fit/wp-content/uploads/2018/02/camiseta-regata-long-essentials-concept-branca-unlimit-3.jpg, https://unlimit.fit/wp-content/uploads/2018/02/camiseta-regata-long-essentials-concept-branca-unlimit-4.jpg, https://unlimit.fit/wp-content/uploads/2018/02/camiseta-regata-long-essentials-concept-branca-unlimit-5.jpg",,,,,,,,,0,Cores,Branco,1,0,Branco,Tamanho,"P, M, G, GG",1,0,P
+710,variation,38128413,"Regata Masculina Long Essentials Unlimit - Branco - Branco, P",1,0,visible,,,,,taxable,,1,5,0,0,,,,,0,,"39,00","69,9000000000",,,,,,,38128412,,,,,,0,Cores,Branco,,0,,Tamanho,P,,0,
+711,variation,38128414,"Regata Masculina Long Essentials Unlimit - Branco - Branco, M",1,0,visible,,,,,taxable,,1,4,0,0,,,,,0,,"39,00","69,9000000000",,,,,,,38128412,,,,,,0,Cores,Branco,,0,,Tamanho,M,,0,
+712,variation,38128415,"Regata Masculina Long Essentials Unlimit - Branco - Branco, G",1,0,visible,,,,,taxable,,1,5,0,0,,,,,0,,"39,00","69,9000000000",,,,,,,38128412,,,,,,0,Cores,Branco,,0,,Tamanho,G,,0,
+713,variation,38128416,"Regata Masculina Long Essentials Unlimit - Branco - Branco, GG",1,0,visible,,,,,taxable,,1,5,0,0,,,,,0,,"39,00","69,9000000000",,,,,,,38128412,,,,,,0,Cores,Branco,,0,,Tamanho,GG,,0,
+714,variable,38128417,"Regata Masculina Long Essentials Unlimit - Preto",1,0,visible,"Esta <strong>Regata Masculina Long</strong> da linha Essencials é ideal para o homem que procura alto conforto do algodão e aquela pegada fashion das camisetas longs. Fabricada com 100% algodão penteado fio 30 orgânico é perfeita para combinar com bermudas, calças de moletom e principalmente legging masculina.","<h2>Regata Masculina Long Essentials Unlimit</h2>
+<p style=""margin: 0px 0px 1em; line-height: 1.4; max-width: 99%; font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;"">Esta <strong>Regata Masculina Long</strong> da linha Essencials é ideal para o homem que procura alto conforto do algodão e aquela pegada fashion das camisetas longs. Fabricada com 100% algodão penteado fio 30 orgânico é perfeita para combinar com bermudas, calças de moletom e principalmente legging masculina.</p>
+Características:
+<ul>
+ 	<li>Composição 100% algodão</li>
+ 	<li>Regata fio 30 penteado fabricado em fio orgânico.</li>
+ 	<li>Long, comprida até quase o joelho.</li>
+ 	<li>Ótima para uso com legging.</li>
+ 	<li>Fashion e Descolada.</li>
+</ul>
+<strong>Regata Masculina Long Essencials Unlimit</strong> com garantia contra defeitos de fabricação por 30 dias.",,,taxable,,1,,0,0,500,26,16,7,1,,,,"Moda Fitness, Masculino > Moda Fitness Masculina, Roupas Fitness, Masculino, Masculino > Camiseta Regata Masculina, sale","CrossFit, Dia a Dia, Musculação",,"https://unlimit.fit/wp-content/uploads/2018/02/camiseta-regata-long-essentials-concept-preta-unlimit-3.jpg, https://unlimit.fit/wp-content/uploads/2018/02/camiseta-regata-long-essentials-concept-preta-unlimit-1.jpg, https://unlimit.fit/wp-content/uploads/2018/02/camiseta-regata-long-essentials-concept-preta-unlimit-2.jpg, https://unlimit.fit/wp-content/uploads/2018/02/camiseta-regata-long-essentials-concept-preta-unlimit-4.jpg",,,,,,,,,0,Cores,Preto,1,0,Preto,Tamanho,"P, M, G, GG",1,0,P
+715,variation,38128418,"Regata Masculina Long Essentials Unlimit - Preto - Preto, P",1,0,visible,,,,,taxable,,1,4,0,0,,,,,0,,"39,00","69,9000000000",,,,,,,38128417,,,,,,0,Cores,Preto,,0,,Tamanho,P,,0,
+716,variation,38128419,"Regata Masculina Long Essentials Unlimit - Preto - Preto, M",1,0,visible,,,,,taxable,,1,2,0,0,,,,,0,,"39,00","69,9000000000",,,,,,,38128417,,,,,,0,Cores,Preto,,0,,Tamanho,M,,0,
+717,variation,38128420,"Regata Masculina Long Essentials Unlimit - Preto - Preto, G",1,0,visible,,,,,taxable,,1,3,0,0,,,,,0,,"39,00","69,9000000000",,,,,,,38128417,,,,,,0,Cores,Preto,,0,,Tamanho,G,,0,
+718,variation,38128421,"Regata Masculina Long Essentials Unlimit - Preto - Preto, GG",1,0,visible,,,,,taxable,,1,4,0,0,,,,,0,,"39,00","69,9000000000",,,,,,,38128417,,,,,,0,Cores,Preto,,0,,Tamanho,GG,,0,
+727,variable,38128485,"Regata Masculina Unlimit Proteção UV50  - Branco",1,0,visible,"Esta <strong>Regata Masculina</strong> foi desenvolvida para prática de esportes e treinos. Ela tem sistema Eco-Dry de secagem rápida que mantem o corpo seco e livre. Também protege a pele dos raios do sol, pois tem proteção UV50  contra raios ultravioleta. Seu tecido é sustentável, ecológico e biodegradável, após descarte, desaparece em até 3 anos.","<h2>Regata Masculina Unlimit Proteção UV50 </h2>
+<p style=""margin: 0px 0px 25px; color: #1c1d1d; font-family: HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"">Esta <strong>Regata Masculina</strong> foi desenvolvida para prática de esportes e treinos. Ela tem sistema Eco-Dry de secagem rápida que mantem o corpo seco e livre. Também protege a pele dos raios do sol, pois tem proteção UV50  contra raios ultravioleta. Seu tecido é sustentável, ecológico e biodegradável, após descarte, desaparece em até 3 anos.</p>
+
+<ul>
+ 	<li>Tecnologias do tecido:</li>
+ 	<li><a class=""text-link"" style=""color: #6e31eb; text-decoration: none; border-width: 0px 0px 1px; border-style: none none solid; border-bottom-color: #6e31eb; padding: 0px; margin: 0px;"" href=""http://www.guiajeanswear.com.br/noticias/5135/santaconstancia-apresenta-familia-de-tecidos-ecofriendly.aspx"">Co2 Control </a> – tecido ecológico para roupas fitnes, biodegradável, após descarte, desaparece em até 3 anos. Boas práticas ambientais, rastreabilidade e matérias primas, menos na parte da tela.</li>
+ 	<li>Eco-Dry (secagem rápida)</li>
+ 	<li>Easy Care, não precisa passar</li>
+ 	<li>Proteção UV50  contra radiação ultravioleta.</li>
+ 	<li>Isento de produtos tóxicos com certificação Oeko-Tex 100 Classe I</li>
+ 	<li>Composição:  100% Poliamida</li>
+</ul>
+<p style=""margin: 0px 0px 25px; color: #1c1d1d; font-family: HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;""><em><strong>Para vestir-se bem em:</strong></em></p>
+
+<ul style=""margin: 0px 0px 25px 20px; padding: 0px; color: #1c1d1d; font-family: HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"">
+ 	<li style=""margin-bottom: 0px;"">No seu dia a dia</li>
+ 	<li style=""margin-bottom: 0px;"">Caminhadas</li>
+ 	<li style=""margin-bottom: 0px;"">Corridas</li>
+ 	<li style=""margin-bottom: 0px;"">Ciclismo</li>
+ 	<li style=""margin-bottom: 0px;"">Academia</li>
+ 	<li style=""margin-bottom: 0px;"">Musculação</li>
+ 	<li style=""margin-bottom: 0px;"">Crossfit</li>
+</ul>
+<strong>Regata Masculina Unlimit</strong> com garantia contra defeitos de fábrica por 30 dias.",,,taxable,,1,,0,0,500,26,16,7,1,,,,"Moda Fitness, Masculino > Moda Fitness Masculina, Roupas Fitness, Masculino, Masculino > Camiseta Regata Masculina, sale","Corrida, CrossFit, Dia a Dia, Musculação",,"https://unlimit.fit/wp-content/uploads/2018/02/camiseta-regata-masculina-workout-branca-unlimit-1.jpg, https://unlimit.fit/wp-content/uploads/2018/02/camiseta-regata-masculina-workout-branca-unlimit-2.jpg",,,,,,,,,0,Tamanho,"P, M, G",1,0,P,Cores,Branca,1,0,Branca
+728,variation,38128486,"Regata Masculina Unlimit Proteção UV50  - Branco - P, Branca",1,0,visible,,,,,taxable,,1,2,0,0,,,,,0,,"59,00","109,9000000000",,,,,,,38128485,,,,,,0,Tamanho,P,,0,,Cores,Branca,,0,
+729,variation,38128487,"Regata Masculina Unlimit Proteção UV50  - Branco - M, Branca",1,0,visible,,,,,taxable,,1,2,0,0,,,,,0,,"59,00","109,9000000000",,,,,,,38128485,,,,,,0,Tamanho,M,,0,,Cores,Branca,,0,
+730,variation,38128488,"Regata Masculina Unlimit Proteção UV50  - Branco - G, Branca",1,0,visible,,,,,taxable,,1,3,0,0,,,,,0,,"59,00","109,9000000000",,,,,,,38128485,,,,,,0,Tamanho,G,,0,,Cores,Branca,,0,
+731,variable,38128481,"Regata Masculina Academia Unlimit Proteção UV50  - Preto",1,0,visible,"Esta <strong>Regata Masculina Academia</strong> foi desenvolvida para prática de esportes e treinos. Ela tem sistema Eco-Dry de secagem rápida que mantem o corpo seco e livre. Também protege a pele dos raios do sol, pois tem proteção UV50  contra raios ultravioleta. Seu tecido é sustentável, ecológico e biodegradável, após descarte, desaparece em até 3 anos.","<h2>Regata Masculina Academia Unlimit Proteção UV50 </h2>
+<p style=""margin: 0px 0px 25px; color: #1c1d1d; font-family: HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"">Esta <strong>Regata Masculina Academia</strong> foi desenvolvida para prática de esportes e treinos. Ela tem sistema Eco-Dry de secagem rápida que mantem o corpo seco e livre. Também protege a pele dos raios do sol, pois tem proteção UV50  contra raios ultravioleta. Seu tecido é sustentável, ecológico e biodegradável, após descarte, desaparece em até 3 anos.</p>
+
+<ul>
+ 	<li style=""margin-bottom: 0px;"">Tecnologias do tecido:
+<ul style=""margin: 4px 0px 0px 20px; padding: 0px;"">
+ 	<li style=""margin-bottom: 0px;""><a class=""text-link"" style=""color: #6e31eb; text-decoration: none; border-width: 0px 0px 1px; border-style: none none solid; border-bottom-color: #6e31eb; padding: 0px; margin: 0px;"" href=""http://www.guiajeanswear.com.br/noticias/5135/santaconstancia-apresenta-familia-de-tecidos-ecofriendly.aspx"">Co2 Control </a> – tecido ecológico para roupas fitnes, biodegradável, após descarte, desaparece em até 3 anos. Boas práticas ambientais, rastreabilidade e matérias primas, menos na parte da tela.</li>
+ 	<li style=""margin-bottom: 0px;"">Eco-Dry (secagem rápida)</li>
+ 	<li style=""margin-bottom: 0px;"">Easy Care, não precisa passar</li>
+ 	<li style=""margin-bottom: 0px;"">Proteção UV50  contra radiação ultravioleta.</li>
+ 	<li style=""margin-bottom: 0px;"">Isento de produtos tóxicos com certificação Oeko-Tex 100 Classe I</li>
+ 	<li style=""margin-bottom: 0px;"">Composição:  100% Poliamida</li>
+</ul>
+</li>
+</ul>
+<p style=""margin: 0px 0px 25px; color: #1c1d1d; font-family: HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;""><em><strong>Para vestir-se bem em:</strong></em></p>
+
+<ul style=""margin: 0px 0px 25px 20px; padding: 0px; color: #1c1d1d; font-family: HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"">
+ 	<li style=""margin-bottom: 0px;"">No seu dia a dia</li>
+ 	<li style=""margin-bottom: 0px;"">Caminhadas</li>
+ 	<li style=""margin-bottom: 0px;"">Corridas</li>
+ 	<li style=""margin-bottom: 0px;"">Ciclismo</li>
+ 	<li style=""margin-bottom: 0px;"">Academia</li>
+ 	<li style=""margin-bottom: 0px;"">Musculação</li>
+ 	<li style=""margin-bottom: 0px;"">Crossfit</li>
+</ul>
+<strong>Regata Masculina Academia</strong> Unlimit com garantia contra defeitos de fábrica por 30 dias.",,,taxable,,1,,0,0,500,26,16,7,1,,,,"Moda Fitness, Masculino > Moda Fitness Masculina, Roupas Fitness, Masculino, Masculino > Camiseta Regata Masculina, sale","Corrida, CrossFit, Dia a Dia, Musculação",,"https://unlimit.fit/wp-content/uploads/2018/02/camiseta-regata-masculina-workout-preta-unlimit-1.jpg, https://unlimit.fit/wp-content/uploads/2018/02/camiseta-regata-masculina-workout-preta-unlimit-2.jpg, https://unlimit.fit/wp-content/uploads/2018/02/camiseta-regata-masculina-workout-preta-unlimit-3.jpg",,,,,,,,,0,Tamanho,"P, M, G",1,0,P,Cores,Preta,1,0,Preta
+732,variation,38128482,"Regata Masculina Academia Unlimit Proteção UV50  - Preto - P, Preta",1,0,visible,,,,,taxable,,1,4,0,0,,,,,0,,"59,90","109,9000000000",,,,,,,38128481,,,,,,0,Tamanho,P,,0,,Cores,Preta,,0,
+733,variation,38128483,"Regata Masculina Academia Unlimit Proteção UV50  - Preto - M, Preta",1,0,visible,,,,,taxable,,backorder,0,0,0,,,,,0,,"59,90","109,9000000000",,,,,,,38128481,,,,,,0,Tamanho,M,,0,,Cores,Preta,,0,
+734,variation,38128484,"Regata Masculina Academia Unlimit Proteção UV50  - Preto - G, Preta",1,0,visible,,,,,taxable,,1,2,0,0,,,,,0,,"59,90","109,9000000000",,,,,,,38128481,,,,,,0,Tamanho,G,,0,,Cores,Preta,,0,
+735,variable,38128549,"Shorts Feminino Prata Overnight Fashion Unlimit",1,0,visible,"Este <strong>Shorts Feminino Prata</strong> é feito a partir do tecido Light® Point Prata NG da Santaconstância que é produzido em poliamida com aspecto suavemente texturizado e estrutura feita com elastano que proporciona extremo conforto junto à pele e agradável no uso diário.","<h2>Shorts Feminino Prata Overnight Fashion Unlimit</h2>
+<div id=""informacoes-produto"" class=""product-info"" data-ref=""info"">
+
+Este <strong>Shorts Feminino Prata</strong> é feito a partir do tecido Light® Point Prata NG da Santaconstância que é produzido em poliamida com aspecto suavemente texturizado e estrutura feita com elastano que proporciona extremo conforto junto à pele e agradável no uso diário. Este shorts não é feito com Lurex ou Cirre.Esta linha de roupas foi criada pensando em como facilitar a vida das pessoas mais fashionistas, sendo que a calça é uma combinação do mundo fashion com o sportswear. Ela pode ser usada na balada ou em seus treinos favoritos.
+
+Sua superfície externa recebe uma aplicação em foil prata que torna seu visual sofisticamente elegante e refinado. Apresenta fácil cuidado na lavagem doméstica e não precisa ser passado.
+
+</div>
+<ul style=""margin-top: 0px; margin-bottom: 10px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"">
+ 	<li><span style=""font-weight: bold;"">Tecido Light Point Prata</span></li>
+ 	<li><span style=""font-weight: bold;"">Funções do tecido:</span>
+<ul style=""margin-top: 0px; margin-bottom: 0px;"">
+ 	<li>Easy Care, não precisa passar</li>
+ 	<li>Efeito compressivo suave com flexibilidade e conforto</li>
+ 	<li>Isento de produtos tóxicos com certificação Oeko-Tex 100 Classe I</li>
+ 	<li>Composição: Tecido 90% Poliamida 10% Elastano</li>
+ 	<li>O tecido não é feito de Lurex, o prata é estampa.</li>
+</ul>
+</li>
+</ul>
+<p style=""margin: 0px 0px 1em; color: #333333; line-height: 1.4; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;""><em><span style=""font-weight: bold;"">Para vestir-se bem em:</span></em></p>
+
+<ul style=""margin-top: 0px; margin-bottom: 10px; color: #333333; font-style: normal; font-weight: normal; letter-spacing: normal; text-align: start; text-indent: 0px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"">
+ 	<li>No seu dia a dia</li>
+ 	<li>Academia</li>
+ 	<li>Caminhadas</li>
+ 	<li>Corridas</li>
+ 	<li>Fashion Night</li>
+</ul>
+<strong>Shorts Feminino Prata Unlimit</strong> com garantia contra defeitos de fábrica de 30 dias.",,,taxable,,1,,0,0,500,26,16,7,1,,,,"Moda Fitness, Roupas Fitness, Feminino > Short > Short Academia, Feminino > Short > Short Fitness, Feminino, Feminino > Short, sale","Dia a Dia, Musculação",,"https://unlimit.fit/wp-content/uploads/2018/02/short-feminino-prata-unlimit1-2.jpg, https://unlimit.fit/wp-content/uploads/2018/02/short-feminino-prata-unlimit3-2.jpg, https://unlimit.fit/wp-content/uploads/2018/02/short-feminino-prata-unlimit2-2.jpg",,,,,,,,,0,Cores,Prata,1,0,Prata,Tamanho,"P, M",1,0,P
+736,variation,38128550,"Shorts Feminino Prata Overnight Fashion Unlimit - Prata, P",1,0,visible,,,,,taxable,,1,8,0,0,,,,,0,,"59,00","99,9000000000",,,,,,,38128549,,,,,,0,Cores,Prata,,0,,Tamanho,P,,0,
+750,variation,38128551,"Shorts Feminino Prata Overnight Fashion Unlimit - Prata, M",1,0,visible,,,,,taxable,,1,1,0,0,,,,,0,,"59,00","99,9000000000",,,,,,,38128549,,,,,,0,Cores,Prata,,0,,Tamanho,M,,0,
+751,variable,38128422,"Shorts Moletom Unlimit Feminino - Mescla",1,0,visible,,"<h2>Shorts Moletom Essentials Unlimit Feminino</h2>
+Este <strong>Shorts Moletom Essenciais Unlimit Mescla</strong> é feito com moletom dois cabos e é perfeito para quem não abre mão do conforto do algodão. Ele te dá mobilidade e conforto extremo. Este Shorts é feito para pessoas descoladas que procuram conforto em seus exercícios e aquele toque do moletom.
+
+Características:
+<ul>
+ 	<li>Feito em algodão   poliéster</li>
+ 	<li>Detalhe em viés preto</li>
+ 	<li>Cós com ribanna e elástico</li>
+ 	<li>Confortável e soltinho</li>
+ 	<li>Bolsos laterais</li>
+ 	<li>Cordão de ajuste de cintura</li>
+</ul>
+Composição: 88% algodão - 12% poliéster
+
+<strong>Shorts de Moletom Unlimit</strong> com garantia contra defeitos de fábrica de 30 dias.",,,taxable,,1,,0,0,500,26,16,7,1,,,,"Moda Fitness, Roupas Fitness, Feminino > Short > Short Academia, Feminino > Short > Short Fitness, Feminino, Feminino > Short","CrossFit, Dia a Dia, Musculação",,"https://unlimit.fit/wp-content/uploads/2018/02/BEND4165.jpg, https://unlimit.fit/wp-content/uploads/2018/02/BEND4164.jpg, https://unlimit.fit/wp-content/uploads/2018/02/BEND4157.jpg, https://unlimit.fit/wp-content/uploads/2018/02/BEND4156.jpg, https://unlimit.fit/wp-content/uploads/2018/02/BEND4160.jpg",,,,,,,,,0,Cores,Cinza,1,0,Cinza,Tamanho,"P, M, G",1,0,P
+752,variation,38128423,"Shorts Moletom Unlimit Feminino - Mescla - Cinza, P",1,0,visible,,,,,taxable,,1,1,0,0,,,,,0,,,"59,9000000000",,,,,,,38128422,,,,,,0,Cores,Cinza,,0,,Tamanho,P,,0,
+753,variation,38128424,"Shorts Moletom Unlimit Feminino - Mescla - Cinza, M",1,0,visible,,,,,taxable,,1,1,0,0,,,,,0,,,"59,9000000000",,,,,,,38128422,,,,,,0,Cores,Cinza,,0,,Tamanho,M,,0,
+754,variation,38128425,"Shorts Moletom Unlimit Feminino - Mescla - Cinza, G",1,0,visible,,,,,taxable,,1,1,0,0,,,,,0,,,"59,9000000000",,,,,,,38128422,,,,,,0,Cores,Cinza,,0,,Tamanho,G,,0,
+755,variable,38128543,"Top Cropped Preto de Tela Overnight Fashion Unlimit",1,0,visible,,"<h2>Top Cropped Preto de Tela Overnight Fashion Unlimit</h2>
+<div class=""page"" title=""Page 1"">
+<div class=""layoutArea"">
+<div class=""column"">
+
+Este <strong>Top Cropped Preto de Tela</strong> foi pensando especialmente pra quem ama misturar a balada com academia e que gosta de ser fashion em qualquer lugar. É feito de tela de poliamida leve e tamanho único.
+
+Esta linha de roupas foi criada pensando em como facilitar a vida das pessoas mais fashionistas, sendo que a calça é uma combinação do mundo fashion com o sportswear. Pode ser usado na balada ou em seus treinos favoritos.
+
+</div>
+</div>
+</div>
+<ul>
+ 	<li>Composição: 89% Poliamida   11% Elastano</li>
+</ul>
+<h3>Cropped Preto de Tela - <em>Para vestir-se bem em:</em></h3>
+<ul>
+ 	<li>No seu dia a dia</li>
+ 	<li>Academia</li>
+ 	<li>Musculação</li>
+ 	<li>Baladas</li>
+ 	<li>Eventos noturnos</li>
+</ul>
+Tamanho único. Veste perfeitamente do P ao M.
+
+<strong>Top Cropped Preto</strong> de Tela da coleção Overnight Fashion da Unlimit.",,,taxable,,1,,0,0,500,26,16,7,1,,,,"Moda Fitness, Roupas Fitness, Feminino > Top Fitness > Top Academia, Feminino > Top Fitness > Top Ginástica, Feminino > Top Fitness > Top para Malhar, Feminino, Feminino > Top Fitness","Dia a Dia, Musculação",,"https://unlimit.fit/wp-content/uploads/2018/02/blusa-cropped-telinha-unlimit-1.jpg, https://unlimit.fit/wp-content/uploads/2018/02/blusa-cropped-telinha-unlimit-2.jpg, https://unlimit.fit/wp-content/uploads/2018/02/blusa-cropped-telinha-unlimit-3.jpg",,,,,,,,,0,Cores,Preto,1,0,Preto,Tamanho,M,1,0,M
+756,variation,38128544,"Top Cropped Preto de Tela Overnight Fashion Unlimit - Preto, M",1,0,visible,,,,,taxable,,1,7,0,0,,,,,0,,,"49,9000000000",,,,,,,38128543,,,,,,0,Cores,Preto,,0,,Tamanho,M,,0,
+757,variable,38128455,"Top Nadador Activity Unlimit - Marinho",1,0,visible,,"<h2>Top Nadador Activity Unlimit</h2>
+Este <strong>Top Nadador Activity Unlimit Azul </strong>é feito de um tecido com 30% de elastano que confere maior sustentação para os seios. O tecido comprime de uma forma que ao praticar exercícios, os seios não se movimentem com força, fazendo com que diminua as dores pós treino e lesões musculares.
+
+Tecnologias do tecido:
+<ul>
+ 	<li>Aumenta a sustentabilidade dos seios</li>
+ 	<li style=""margin-bottom: 0px;"">Bojo</li>
+ 	<li>Redução da fadiga muscular</li>
+ 	<li>Rápida recuperação muscular</li>
+ 	<li>Aumento da performance esportiva</li>
+ 	<li>Eco-Dry (secagem rápida)</li>
+ 	<li>Easy Care, não precisa passar</li>
+ 	<li>Proteção UV50  contra radiação ultravioleta</li>
+ 	<li>Isento de produtos tóxicos com certificação Oeko-Tex 100 Classe I</li>
+ 	<li>Composição: 70% Poliamida 30% Elastano</li>
+</ul>
+Para vestir-se bem em:
+<ul>
+ 	<li>No seu dia a dia</li>
+ 	<li>Caminhadas</li>
+ 	<li>Corridas</li>
+ 	<li>Ciclismo</li>
+ 	<li>Academia</li>
+ 	<li>Musculação</li>
+ 	<li>Crossfit</li>
+</ul>
+<em>Top Nadador Activity com Garantia contra defeitos de fabricação de 30 dias.</em>",,,taxable,,1,,0,0,500,26,16,7,1,,,,"Moda Fitness, Roupas Fitness, Feminino > Top Fitness > Top Academia, Feminino > Top Fitness > Top Com Bojo, Feminino > Top Fitness > Top Ginástica, Feminino > Top Fitness > Top Nadador, Feminino > Top Fitness > Top para Malhar, Feminino, Feminino > Top Fitness","Dia a Dia, Musculação",,"https://unlimit.fit/wp-content/uploads/2018/02/top-fitness-com-bojo-feminino-marinho-unlimit-2.jpg, https://unlimit.fit/wp-content/uploads/2018/02/top-fitness-com-bojo-feminino-marinho-unlimit-3.jpg",,,,,,,,,0,Tamanho,"P, M, G",1,0,P,Cores,Azul,1,0,Azul
+758,variation,38128456,"Top Nadador Activity Unlimit - Marinho - P, Azul",1,0,visible,,,,,taxable,,1,4,0,0,,,,,0,,,"69,9000000000",,,,,,,38128455,,,,,,0,Tamanho,P,,0,,Cores,Azul,,0,
+759,variation,38128457,"Top Nadador Activity Unlimit - Marinho - M, Azul",1,0,visible,,,,,taxable,,1,3,0,0,,,,,0,,,"69,9000000000",,,,,,,38128455,,,,,,0,Tamanho,M,,0,,Cores,Azul,,0,
+760,variation,38128458,"Top Nadador Activity Unlimit - Marinho - G, Azul",1,0,visible,,,,,taxable,,1,4,0,0,,,,,0,,,"69,9000000000",,,,,,,38128455,,,,,,0,Tamanho,G,,0,,Cores,Azul,,0,
+770,variable,38128459,"Top Nadador Activity Unlimit - Bordô",1,0,visible,,"<h2>Top Nadador Activity Unlimit</h2>
+Este <strong>Top Nadador Activity Unlimit Bordô </strong>é feito de um tecido com 30% de elastano que confere maior sustentação para os seios. O tecido comprime de uma forma que ao praticar exercícios, os seios não se movimentem com força, fazendo com que diminua as dores pós treino e lesões musculares.
+
+Tecnologias do tecido:
+<ul>
+ 	<li>Aumenta a sustentabilidade dos seios</li>
+ 	<li style=""margin-bottom: 0px;"">Bojo</li>
+ 	<li>Redução da fadiga muscular</li>
+ 	<li>Rápida recuperação muscular</li>
+ 	<li>Aumento da performance esportiva</li>
+ 	<li>Eco-Dry (secagem rápida)</li>
+ 	<li>Easy Care, não precisa passar</li>
+ 	<li>Proteção UV50  contra radiação ultravioleta</li>
+ 	<li>Isento de produtos tóxicos com certificação Oeko-Tex 100 Classe I</li>
+ 	<li>Composição: 70% Poliamida 30% Elastano</li>
+</ul>
+Para vestir-se bem em:
+<ul>
+ 	<li>No seu dia a dia</li>
+ 	<li>Caminhadas</li>
+ 	<li>Corridas</li>
+ 	<li>Ciclismo</li>
+ 	<li>Academia</li>
+ 	<li>Musculação</li>
+ 	<li>Crossfit</li>
+</ul>
+<em>Top Nadador Activity com Garantia contra defeitos de fabricação de 30 dias.</em>",,,taxable,,1,,0,0,500,26,16,7,1,,,,"Moda Fitness, Roupas Fitness, Feminino > Top Fitness > Top Academia, Feminino > Top Fitness > Top Com Bojo, Feminino > Top Fitness > Top Ginástica, Feminino > Top Fitness > Top Nadador, Feminino > Top Fitness > Top para Malhar, Feminino, Feminino > Top Fitness","Dia a Dia, Musculação",,"https://unlimit.fit/wp-content/uploads/2018/02/top-fitness-com-bojo-feminino-bordo-unlimit-1.jpg, https://unlimit.fit/wp-content/uploads/2018/02/top-fitness-com-bojo-feminino-bordo-unlimit-2.jpg, https://unlimit.fit/wp-content/uploads/2018/02/top-fitness-com-bojo-feminino-bordo-unlimit-3.jpg",,,,,,,,,0,Tamanho,"P, M, G",1,0,P,Cores,Bordô,1,0,Bordô
+771,variation,38128460,"Top Nadador Activity Unlimit - Bordô - P, Bordô",1,0,visible,,,,,taxable,,1,3,0,0,,,,,0,,,"69,9000000000",,,,,,,38128459,,,,,,0,Tamanho,P,,0,,Cores,Bordô,,0,
+772,variation,38128461,"Top Nadador Activity Unlimit - Bordô - M, Bordô",1,0,visible,,,,,taxable,,1,4,0,0,,,,,0,,,"69,9000000000",,,,,,,38128459,,,,,,0,Tamanho,M,,0,,Cores,Bordô,,0,
+773,variation,38128462,"Top Nadador Activity Unlimit - Bordô - G, Bordô",1,0,visible,,,,,taxable,,1,3,0,0,,,,,0,,,"69,9000000000",,,,,,,38128459,,,,,,0,Tamanho,G,,0,,Cores,Bordô,,0,
+774,variable,38128447,"Top Nadador Emana Unlimit - Branco",1,0,visible,,"<h2>Top Nadador Emana Unlimit</h2>
+Este <strong>Top Nadador Emana Unlimit Branco </strong>é feito de um dos tecidos que mais faz sucesso entre o público feminino, o Emana tem como um dos seus grandes benefícios a diminuição dos sinas de celulite, proporcionando uma pele mais lisa e jovem. Contém cristais bioativos e minerais emissores infravermelhos, que ao absorver o calor promovem a bioestimulação do metabolismo.
+
+O Top tem bioestimulação, que faz o rendimento físico melhorar em diversos fatores, principalmente diminuindo a fadiga com menor consumo de oxigênio. O fio também contribui para uma rápida recuperação muscular, maior elasticidade da pele e equilíbrio térmico.
+
+Saiba mais sobre o tecido em <a href=""http://emanafiber.com"">www.emanafiber.com</a>
+
+Tecnologias do tecido:
+<ul>
+ 	<li>Anticelulite</li>
+ 	<li style=""margin-bottom: 0px;"">Aumenta o conforto dos seios para treinos</li>
+ 	<li style=""margin-bottom: 0px;"">Bojo</li>
+ 	<li>Redução da fadiga muscular</li>
+ 	<li>Rápida recuperação muscular</li>
+ 	<li>Aumento da performance esportiva</li>
+ 	<li>Eco-Dry (secagem rápida)</li>
+ 	<li>Easy Care, não precisa passar</li>
+ 	<li>Proteção UV50  contra radiação ultravioleta</li>
+ 	<li>Isento de produtos tóxicos com certificação Oeko-Tex 100 Classe I</li>
+ 	<li>Composição: 84% Poliamida 16% Elastano</li>
+</ul>
+Para vestir-se bem em:
+<ul>
+ 	<li>No seu dia a dia</li>
+ 	<li>Caminhadas</li>
+ 	<li>Corridas</li>
+ 	<li>Ciclismo</li>
+ 	<li>Academia</li>
+ 	<li>Musculação</li>
+ 	<li>Crossfit</li>
+</ul>
+<em>Top Nadador Emana com Garantia contra defeitos de fabricação de 30 dias.</em>",,,taxable,,1,,0,0,500,26,16,7,1,,,,"Feminino > Anticelulite, Moda Fitness, Roupas Fitness, Feminino > Top Fitness > Top Academia, Feminino > Top Fitness > Top Com Bojo, Feminino > Top Fitness > Top Ginástica, Feminino > Top Fitness > Top Nadador, Feminino > Top Fitness > Top para Malhar, Feminino, Feminino > Top Fitness","Dia a Dia, Musculação",,"https://unlimit.fit/wp-content/uploads/2018/02/top-fitness-com-bojo-feminino-branco-unlimit-1.jpg, https://unlimit.fit/wp-content/uploads/2018/02/top-fitness-com-bojo-feminino-branco-unlimit-2.jpg, https://unlimit.fit/wp-content/uploads/2018/02/top-fitness-com-bojo-feminino-branco-unlimit-3.jpg",,,,,,,,,0,Tamanho,"P, M, G",1,0,P,Cores,Branco,1,0,Branco
+775,variation,38128448,"Top Nadador Emana Unlimit - Branco - P, Branco",1,0,visible,,,,,taxable,,backorder,0,0,0,,,,,0,,,"69,9000000000",,,,,,,38128447,,,,,,0,Tamanho,P,,0,,Cores,Branco,,0,
+776,variation,38128449,"Top Nadador Emana Unlimit - Branco - M, Branco",1,0,visible,,,,,taxable,,backorder,0,0,0,,,,,0,,,"69,9000000000",,,,,,,38128447,,,,,,0,Tamanho,M,,0,,Cores,Branco,,0,
+777,variation,38128450,"Top Nadador Emana Unlimit - Branco - G, Branco",1,0,visible,,,,,taxable,,1,4,0,0,,,,,0,,,"69,9000000000",,,,,,,38128447,,,,,,0,Tamanho,G,,0,,Cores,Branco,,0,
+778,variable,38128451,"Top Nadador Emana Unlimit - Rosè",1,0,visible,,"<h2>Top Nadador Emana Unlimit</h2>
+Este <strong>Top Nadador Emana Unlimit Rosè </strong>é feito de um dos tecidos que mais faz sucesso entre o público feminino, o Emana tem como um dos seus grandes benefícios a diminuição dos sinas de celulite, proporcionando uma pele mais lisa e jovem. Contém cristais bioativos e minerais emissores infravermelhos, que ao absorver o calor promovem a bioestimulação do metabolismo.
+
+Tem bioestimulação, que faz o rendimento físico melhorar em diversos fatores, principalmente diminuindo a fadiga com menor consumo de oxigênio. O fio também contribui para uma rápida recuperação muscular, maior elasticidade da pele e equilíbrio térmico.
+
+Saiba mais sobre o tecido em <a href=""http://emanafiber.com"">www.emanafiber.com</a>
+
+Tecnologias do tecido:
+<ul>
+ 	<li>Anticelulite</li>
+ 	<li style=""margin-bottom: 0px;"">Aumenta o conforto dos seios para treinos</li>
+ 	<li style=""margin-bottom: 0px;"">Bojo</li>
+ 	<li>Redução da fadiga muscular</li>
+ 	<li>Rápida recuperação muscular</li>
+ 	<li>Aumento da performance esportiva</li>
+ 	<li>Eco-Dry (secagem rápida)</li>
+ 	<li>Easy Care, não precisa passar</li>
+ 	<li>Proteção UV50  contra radiação ultravioleta</li>
+ 	<li>Isento de produtos tóxicos com certificação Oeko-Tex 100 Classe I</li>
+ 	<li>Composição: 84% Poliamida 16% Elastano</li>
+</ul>
+Para vestir-se bem em:
+<ul>
+ 	<li>No seu dia a dia</li>
+ 	<li>Caminhadas</li>
+ 	<li>Corridas</li>
+ 	<li>Ciclismo</li>
+ 	<li>Academia</li>
+ 	<li>Musculação</li>
+ 	<li>Crossfit</li>
+</ul>
+<i>Top Nadador Emana com Garantia contra defeitos de fabricação de 30 dias.</i>",,,taxable,,1,,0,0,500,26,16,7,1,,,,"Feminino > Anticelulite, Moda Fitness, Roupas Fitness, Feminino > Top Fitness > Top Academia, Feminino > Top Fitness > Top Com Bojo, Feminino > Top Fitness > Top Ginástica, Feminino > Top Fitness > Top Nadador, Feminino > Top Fitness > Top para Malhar, Feminino, Feminino > Top Fitness","Dia a Dia, Musculação",,"https://unlimit.fit/wp-content/uploads/2018/02/top-fitness-com-bojo-feminino-rose-unlimit-1.jpg, https://unlimit.fit/wp-content/uploads/2018/02/top-fitness-com-bojo-feminino-rose-unlimit-2.jpg, https://unlimit.fit/wp-content/uploads/2018/02/top-fitness-com-bojo-feminino-rose-unlimit-3.jpg",,,,,,,,,0,Tamanho,"P, M, G",1,0,P,Cores,Rose,1,0,Rose
+779,variation,38128452,"Top Nadador Emana Unlimit - Rosè - P, Rose",1,0,visible,,,,,taxable,,1,4,0,0,,,,,0,,,"59,9000000000",,,,,,,38128451,,,,,,0,Tamanho,P,,0,,Cores,Rose,,0,
+780,variation,38128453,"Top Nadador Emana Unlimit - Rosè - M, Rose",1,0,visible,,,,,taxable,,1,4,0,0,,,,,0,,,"59,9000000000",,,,,,,38128451,,,,,,0,Tamanho,M,,0,,Cores,Rose,,0,
+781,variation,38128454,"Top Nadador Emana Unlimit - Rosè - G, Rose",1,0,visible,,,,,taxable,,1,3,0,0,,,,,0,,,"59,9000000000",,,,,,,38128451,,,,,,0,Tamanho,G,,0,,Cores,Rose,,0,
+782,variable,38128156,"Top Emana Confort Unlimit - Preto",1,0,visible,,"<h2>Top Emana Confort Unlimit</h2>
+Este <strong>Top Emana Confort Unlimit </strong>é feito de um dos tecidos que mais faz sucesso entre o público feminino, o Emana tem como um dos seus grandes benefícios a diminuição dos sinas de celulite, proporcionando uma pele mais lisa e jovem. Contém cristais bioativos e minerais emissores infravermelhos, que ao absorver o calor promovem a bioestimulação do metabolismo.
+
+Tem bioestimulação, que faz o rendimento físico melhorar em diversos fatores, principalmente diminuindo a fadiga com menor consumo de oxigênio. O fio também contribui para uma rápida recuperação muscular, maior elasticidade da pele e equilíbrio térmico.
+
+Saiba mais sobre o tecido em <a href=""http://emanafiber.com"">www.emanafiber.com</a>
+
+Tecnologias do tecido:
+<ul>
+ 	<li>Anticelulite</li>
+ 	<li style=""margin-bottom: 0px;"">Aumenta o conforto dos seios para treinos</li>
+ 	<li>Redução da fadiga muscular</li>
+ 	<li>Rápida recuperação muscular</li>
+ 	<li>Aumento da performance esportiva</li>
+ 	<li>Eco-Dry (secagem rápida)</li>
+ 	<li>Easy Care, não precisa passar</li>
+ 	<li>Proteção UV50  contra radiação ultravioleta</li>
+ 	<li>Isento de produtos tóxicos com certificação Oeko-Tex 100 Classe I</li>
+ 	<li>Composição: 84% Poliamida 16% Elastano</li>
+</ul>
+Para vestir-se bem em:
+<ul>
+ 	<li>No seu dia a dia</li>
+ 	<li>Caminhadas</li>
+ 	<li>Corridas</li>
+ 	<li>Ciclismo</li>
+ 	<li>Academia</li>
+ 	<li>Musculação</li>
+ 	<li>Crossfit</li>
+</ul>
+<i>Este <strong>Top Emana Conforto Unlimit</strong> com Garantia contra defeitos de fabricação de 30 dias.</i>",,,taxable,,1,,0,0,500,26,16,7,1,,,,"Feminino > Anticelulite, Moda Fitness, Roupas Fitness, Feminino > Top Fitness > Top Academia, Feminino > Top Fitness > Top Ginástica, Feminino > Top Fitness > Top para Malhar, Feminino, Feminino > Top Fitness","Dia a Dia, Musculação",,"https://unlimit.fit/wp-content/uploads/2018/02/top-fitness-emana-feminino-preto-unlimit-1.jpg, https://unlimit.fit/wp-content/uploads/2018/02/top-fitness-emana-feminino-preto-unlimit-2.jpg, https://unlimit.fit/wp-content/uploads/2018/02/top-fitness-emana-feminino-preto-unlimit-3.jpg",,,,,,,,,0,Tamanho,"P, M, G",1,0,P,Cores,Preto,1,0,Preto
+783,variation,38128157,"Top Emana Confort Unlimit - Preto - P, Preto",1,0,visible,,,,,taxable,,backorder,0,0,0,,,,,0,,,"59,9000000000",,,,,,,38128156,,,,,,0,Tamanho,P,,0,,Cores,Preto,,0,
+795,variation,38128159,"Top Emana Confort Unlimit - Preto - M, Preto",1,0,visible,,,,,taxable,,1,2,0,0,,,,,0,,,"59,9000000000",,,,,,,38128156,,,,,,0,Tamanho,M,,0,,Cores,Preto,,0,
+796,variation,38128161,"Top Emana Confort Unlimit - Preto - G, Preto",1,0,visible,,,,,taxable,,1,2,0,0,,,,,0,,,"59,9000000000",,,,,,,38128156,,,,,,0,Tamanho,G,,0,,Cores,Preto,,0,
+797,variable,,"Top Emana Confort Unlimit - Bordô",1,0,visible,,"<h2>Top Emana Confort Unlimit</h2>
+Este <strong>Top Emana Confort Unlimit </strong>é feito de um dos tecidos que mais faz sucesso entre o público feminino, o Emana tem como um dos seus grandes benefícios a diminuição dos sinas de celulite, proporcionando uma pele mais lisa e jovem. Contém cristais bioativos e minerais emissores infravermelhos, que ao absorver o calor promovem a bioestimulação do metabolismo.
+
+Tem bioestimulação, que faz o rendimento físico melhorar em diversos fatores, principalmente diminuindo a fadiga com menor consumo de oxigênio. O fio também contribui para uma rápida recuperação muscular, maior elasticidade da pele e equilíbrio térmico.
+
+Saiba mais sobre o tecido em <a href=""http://emanafiber.com"">www.emanafiber.com</a>
+
+Tecnologias do tecido:
+<ul>
+ 	<li>Anticelulite</li>
+ 	<li style=""margin-bottom: 0px;"">Aumenta o conforto dos seios para treinos</li>
+ 	<li>Redução da fadiga muscular</li>
+ 	<li>Rápida recuperação muscular</li>
+ 	<li>Aumento da performance esportiva</li>
+ 	<li>Eco-Dry (secagem rápida)</li>
+ 	<li>Easy Care, não precisa passar</li>
+ 	<li>Proteção UV50  contra radiação ultravioleta</li>
+ 	<li>Isento de produtos tóxicos com certificação Oeko-Tex 100 Classe I</li>
+ 	<li>Composição: 84% Poliamida 16% Elastano</li>
+</ul>
+Para vestir-se bem em:
+<ul>
+ 	<li>No seu dia a dia</li>
+ 	<li>Caminhadas</li>
+ 	<li>Corridas</li>
+ 	<li>Ciclismo</li>
+ 	<li>Academia</li>
+ 	<li>Musculação</li>
+ 	<li>Crossfit</li>
+</ul>
+<i>Este <strong>Top Emana Conforto Unlimit</strong> com Garantia contra defeitos de fabricação de 30 dias.</i>",,,taxable,,1,,0,0,500,26,16,7,1,,,,"Feminino > Anticelulite, Moda Fitness, Roupas Fitness, Feminino > Top Fitness > Top Academia, Feminino > Top Fitness > Top Ginástica, Feminino > Top Fitness > Top para Malhar, Feminino, Feminino > Top Fitness","Dia a Dia, Musculação",,"https://unlimit.fit/wp-content/uploads/2018/02/top-fitness-emana-feminino-bordo-unlimit-1.jpg, https://unlimit.fit/wp-content/uploads/2018/02/top-fitness-emana-feminino-bordo-unlimit-2.jpg, https://unlimit.fit/wp-content/uploads/2018/02/top-fitness-emana-feminino-bordo-unlimit-3.jpg",,,,,,,,,0,Tamanho,"P, M, G",1,0,P,Cores,Bordô,1,0,Bordô
+798,variation,38128158,"Top Emana Confort Unlimit - Bordô - P, Bordô",1,0,visible,,,,,taxable,,backorder,0,0,0,,,,,0,,,"59,9000000000",,,,,,,id:797,,,,,,0,Tamanho,P,,0,,Cores,Bordô,,0,
+799,variation,38128160,"Top Emana Confort Unlimit - Bordô - M, Bordô",1,0,visible,,,,,taxable,,1,3,0,0,,,,,0,,,"59,9000000000",,,,,,,id:797,,,,,,0,Tamanho,M,,0,,Cores,Bordô,,0,
+800,variation,38128162,"Top Emana Confort Unlimit - Bordô - G, Bordô",1,0,visible,,,,,taxable,,backorder,0,0,0,,,,,0,,,"59,9000000000",,,,,,,id:797,,,,,,0,Tamanho,G,,0,,Cores,Bordô,,0,
+801,variable,38128522,"Calça Feminina Prata Overnight Fashion Unlimit",1,0,visible,"Esta <strong>Calça Feminina Prata</strong> é feita a partir do tecido Light® Point Prata NG da Santaconstância que é produzida em poliamida com aspecto suavemente texturizado e estrutura feita com elastano que proporciona extremo conforto junto à pele e agradável no uso diário.","<h2>Calça Feminina Prata Overnight Fashion Unlimit</h2>
+<div id=""informacoes-produto"" class=""product-info"" data-ref=""info"">
+
+Esta <strong>Calça Feminina Prata</strong> é feita a partir do tecido Light® Point Prata NG da Santaconstância que é produzida em poliamida com aspecto suavemente texturizado e estrutura feita com elastano que proporciona extremo conforto junto à pele e agradável no uso diário. Não é feita com Lurex ou Cirre. Esta linha de roupas foi criada pensando em como facilitar a vida das pessoas mais fashionistas, sendo que a calça é uma combinação do mundo fashion com o sportswear. Ela pode ser usada na balada ou em seus treinos favoritos.
+
+Sua superfície externa recebe uma aplicação em foil prata que torna seu visual sofisticamente elegante e refinado. Apresenta fácil cuidado na lavagem doméstica e não precisa ser passado.
+
+Ela não vem com a barra dobrada de fábrica.
+
+</div>
+<ul style=""margin-top: 0px; margin-bottom: 10px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"">
+ 	<li><span style=""font-weight: bold;"">Tecido Light Point Prata</span></li>
+ 	<li><span style=""font-weight: bold;"">Funções do tecido:</span>
+<ul style=""margin-top: 0px; margin-bottom: 0px;"">
+ 	<li>Easy Care, não precisa passar</li>
+ 	<li>Efeito compressivo suave com flexibilidade e conforto</li>
+ 	<li>Isento de produtos tóxicos com certificação Oeko-Tex 100 Classe I</li>
+ 	<li>Composição: Tecido 90% Poliamida 10% Elastano</li>
+ 	<li>O tecido não é feito de Lurex, o prata é estampa.</li>
+</ul>
+</li>
+</ul>
+<p style=""margin: 0px 0px 1em; color: #333333; line-height: 1.4; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;""><em><span style=""font-weight: bold;"">Para vestir-se bem em:</span></em></p>
+
+<ul style=""margin-top: 0px; margin-bottom: 10px; color: #333333; font-style: normal; font-weight: normal; letter-spacing: normal; text-align: start; text-indent: 0px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"">
+ 	<li>No seu dia a dia</li>
+ 	<li>Academia</li>
+ 	<li>Caminhadas</li>
+ 	<li>Corridas</li>
+ 	<li>Fashion Night</li>
+</ul>
+<strong>Calça Feminina Prata Unlimit</strong> com garantia contra defeitos de fábrica de 30 dias.",,,taxable,,1,,0,0,500,26,16,7,1,,,,"Moda Fitness, Roupas Fitness, Feminino, Feminino > Calça Feminina, sale","Dia a Dia, Musculação",,"https://unlimit.fit/wp-content/uploads/2018/02/calca-overnight-fashion-prata-unlimit-1.jpg, https://unlimit.fit/wp-content/uploads/2018/02/calca-overnight-fashion-prata-unlimit-2.jpg, https://unlimit.fit/wp-content/uploads/2018/02/calca-overnight-fashion-prata-unlimit-3.jpg",,,,,,,,,0,Cores,Prata,1,0,Prata,Tamanho,"P, M",1,0,P
+802,variation,38128523,"Calça Feminina Prata Overnight Fashion Unlimit - Prata, P",1,0,visible,,,,,taxable,,1,11,0,0,,,,,0,,"69,90","199,0000000000",,,,,,,38128522,,,,,,0,Cores,Prata,,0,,Tamanho,P,,0,
+803,variable,38128552,"Top Fitness Activity Tecnológico Unlimit - Marinho",1,0,visible,,"<h2>Top Fitness Activity Tecnológico Unlimit</h2>
+Este <strong>Top Fitness Activity Tecnológico </strong>é feito de um tecido com 30% de elastano que confere maior sustentação para os seios. O tecido comprime de uma forma que ao praticar exercícios, os seios não se movimentem com força, fazendo com que diminua as dores pós treino e lesões musculares.
+
+Tecnologias do tecido:
+<ul>
+ 	<li>Aumenta a sustentabilidade dos seios</li>
+ 	<li>Redução da fadiga muscular</li>
+ 	<li>Rápida recuperação muscular</li>
+ 	<li>Aumento da performance esportiva</li>
+ 	<li>Eco-Dry (secagem rápida)</li>
+ 	<li>Easy Care, não precisa passar</li>
+ 	<li>Proteção UV50  contra radiação ultravioleta</li>
+ 	<li>Isento de produtos tóxicos com certificação Oeko-Tex 100 Classe I</li>
+ 	<li>Composição: 70% Poliamida 30% Elastano</li>
+</ul>
+Para vestir-se bem em:
+<ul>
+ 	<li>No seu dia a dia</li>
+ 	<li>Caminhadas</li>
+ 	<li>Corridas</li>
+ 	<li>Ciclismo</li>
+ 	<li>Academia</li>
+ 	<li>Musculação</li>
+ 	<li>Crossfit</li>
+</ul>
+<em>Top Fitness Activity com Garantia contra defeitos de fabricação de 30 dias.</em>",,,taxable,,1,,0,0,500,26,16,7,1,,,,"Moda Fitness, Roupas Fitness, Feminino > Top Fitness > Top Academia, Feminino > Top Fitness > Top Ginástica, Feminino > Top Fitness > Top para Malhar, Feminino, Feminino > Top Fitness","Corrida, CrossFit",,"https://unlimit.fit/wp-content/uploads/2018/02/top-fitness-feminino-activity-marinho-unlimit-1.jpg, https://unlimit.fit/wp-content/uploads/2018/02/top-fitness-feminino-activity-marinho-unlimit-2.jpg, https://unlimit.fit/wp-content/uploads/2018/02/top-fitness-feminino-activity-marinho-unlimit-3.jpg",,,,,,,,,0,Tamanho,"P, M, G",1,0,P,Cores,Marinho,1,0,Marinho
+804,variation,38128553,"Top Fitness Activity Tecnológico Unlimit - Marinho - P, Marinho",1,0,visible,,,,,taxable,,1,4,0,0,,,,,0,,,"69,9000000000",,,,,,,38128552,,,,,,0,Tamanho,P,,0,,Cores,Marinho,,0,
+805,variation,38128554,"Top Fitness Activity Tecnológico Unlimit - Marinho - M, Marinho",1,0,visible,,,,,taxable,,1,2,0,0,,,,,0,,,"69,9000000000",,,,,,,38128552,,,,,,0,Tamanho,M,,0,,Cores,Marinho,,0,
+817,variation,38128555,"Top Fitness Activity Tecnológico Unlimit - Marinho - G, Marinho",1,0,visible,,,,,taxable,,1,5,0,0,,,,,0,,,"69,9000000000",,,,,,,38128552,,,,,,0,Tamanho,G,,0,,Cores,Marinho,,0,
+818,variable,38128556,"Top Fitness Activity Tecnológico Unlimit - Preto",1,0,visible,,"<h2>Top Fitness Activity Tecnológico Unlimit</h2>
+Este <strong>Top Fitness Activity Tecnológico </strong>é feito de um tecido com 30% de elastano que confere maior sustentação para os seios. O tecido comprime de uma forma que ao praticar exercícios, os seios não se movimentem com força, fazendo com que diminua as dores pós treino e lesões musculares.
+
+Tecnologias do tecido:
+<ul>
+ 	<li>Aumenta a sustentabilidade dos seios</li>
+ 	<li>Redução da fadiga muscular</li>
+ 	<li>Rápida recuperação muscular</li>
+ 	<li>Aumento da performance esportiva</li>
+ 	<li>Eco-Dry (secagem rápida)</li>
+ 	<li>Easy Care, não precisa passar</li>
+ 	<li>Proteção UV50  contra radiação ultravioleta</li>
+ 	<li>Isento de produtos tóxicos com certificação Oeko-Tex 100 Classe I</li>
+ 	<li>Composição: 70% Poliamida 30% Elastano</li>
+</ul>
+Para vestir-se bem em:
+<ul>
+ 	<li>No seu dia a dia</li>
+ 	<li>Caminhadas</li>
+ 	<li>Corridas</li>
+ 	<li>Ciclismo</li>
+ 	<li>Academia</li>
+ 	<li>Musculação</li>
+ 	<li>Crossfit</li>
+</ul>
+<em>Top Fitness Activity com Garantia contra defeitos de fabricação de 30 dias.</em>",,,taxable,,1,,0,0,500,26,16,7,1,,,,"Moda Fitness, Roupas Fitness, Feminino > Top Fitness > Top Academia, Feminino > Top Fitness > Top Ginástica, Feminino > Top Fitness > Top para Malhar, Feminino, Feminino > Top Fitness","Corrida, CrossFit",,"https://unlimit.fit/wp-content/uploads/2018/02/top-fitness-feminino-activity-preto-unlimit-1.jpg, https://unlimit.fit/wp-content/uploads/2018/02/top-fitness-feminino-activity-preto-unlimit-2.jpg, https://unlimit.fit/wp-content/uploads/2018/02/top-fitness-feminino-activity-preto-unlimit-3.jpg",,,,,,,,,0,Tamanho,"P, M, G",1,0,P,Cores,Preto,1,0,Preto
+819,variation,38128557,"Top Fitness Activity Tecnológico Unlimit - Preto - P, Preto",1,0,visible,,,,,taxable,,1,3,0,0,,,,,0,,,"69,9000000000",,,,,,,38128556,,,,,,0,Tamanho,P,,0,,Cores,Preto,,0,
+820,variation,38128558,"Top Fitness Activity Tecnológico Unlimit - Preto - M, Preto",1,0,visible,,,,,taxable,,backorder,0,0,0,,,,,0,,,"69,9000000000",,,,,,,38128556,,,,,,0,Tamanho,M,,0,,Cores,Preto,,0,
+821,variation,38128559,"Top Fitness Activity Tecnológico Unlimit - Preto - G, Preto",1,0,visible,,,,,taxable,,1,2,0,0,,,,,0,,,"69,9000000000",,,,,,,38128556,,,,,,0,Tamanho,G,,0,,Cores,Preto,,0,
+822,variable,38128560,"Top Fitness Activity Tecnológico Unlimit - Bordô",1,0,visible,,"<h2>Top Fitness Activity Tecnológico Unlimit</h2>
+Este <strong>Top Fitness Activity Tecnológico </strong>é feito de um tecido com 30% de elastano que confere maior sustentação para os seios. O tecido comprime de uma forma que ao praticar exercícios, os seios não se movimentem com força, fazendo com que diminua as dores pós treino e lesões musculares.
+
+Tecnologias do tecido:
+<ul>
+ 	<li>Aumenta a sustentabilidade dos seios</li>
+ 	<li>Redução da fadiga muscular</li>
+ 	<li>Rápida recuperação muscular</li>
+ 	<li>Aumento da performance esportiva</li>
+ 	<li>Eco-Dry (secagem rápida)</li>
+ 	<li>Easy Care, não precisa passar</li>
+ 	<li>Proteção UV50  contra radiação ultravioleta</li>
+ 	<li>Isento de produtos tóxicos com certificação Oeko-Tex 100 Classe I</li>
+ 	<li>Composição: 70% Poliamida 30% Elastano</li>
+</ul>
+Para vestir-se bem em:
+<ul>
+ 	<li>No seu dia a dia</li>
+ 	<li>Caminhadas</li>
+ 	<li>Corridas</li>
+ 	<li>Ciclismo</li>
+ 	<li>Academia</li>
+ 	<li>Musculação</li>
+ 	<li>Crossfit</li>
+</ul>
+<em>Top Fitness Activity com Garantia contra defeitos de fabricação de 30 dias.</em>",,,taxable,,1,,0,0,500,26,16,7,1,,,,"Moda Fitness, Roupas Fitness, Feminino > Top Fitness > Top Academia, Feminino > Top Fitness > Top Ginástica, Feminino > Top Fitness > Top para Malhar, Feminino, Feminino > Top Fitness","Corrida, CrossFit",,"https://unlimit.fit/wp-content/uploads/2018/02/top-fitnessactivity-feminino-bordo-unlimit-1.jpg, https://unlimit.fit/wp-content/uploads/2018/02/top-fitnessactivity-feminino-bordo-unlimit-2.jpg, https://unlimit.fit/wp-content/uploads/2018/02/top-fitnessactivity-feminino-bordo-unlimit-3.jpg",,,,,,,,,0,Tamanho,"P, M, G",1,0,P,Cores,Bordô,1,0,Bordô
+823,variation,38128561,"Top Fitness Activity Tecnológico Unlimit - Bordô - P, Bordô",1,0,visible,,,,,taxable,,1,2,0,0,,,,,0,,,"69,9000000000",,,,,,,38128560,,,,,,0,Tamanho,P,,0,,Cores,Bordô,,0,
+824,variation,38128562,"Top Fitness Activity Tecnológico Unlimit - Bordô - M, Bordô",1,0,visible,,,,,taxable,,1,2,0,0,,,,,0,,,"69,9000000000",,,,,,,38128560,,,,,,0,Tamanho,M,,0,,Cores,Bordô,,0,
+825,variation,38128563,,1,0,visible,,,,,taxable,,backorder,0,0,0,,,,,0,,,"69,9000000000",,,,,,,,,,,,,0,,,,,,,,,,
+826,variable,38128568,"Jaqueta Corta Vento Unissex Unlimit - Azul Claro",1,1,visible,"A <strong>Jaqueta Corta Vento Unissex Unlimit Azul </strong>é feita<strong> </strong>para homens e mulheres exigentes que procuram conforto<strong> </strong>e proteção contra o vento e frio. Feita com tecido leve, ela possui bolsos laterais com zíper e forro delicado para o tecido não grudar no corpo. Tem uma pegada inovadora e fashion, sem muitos detalhes aparentes. A simplicidade desta jaqueta trás todo seu charme.","<h2>Jaqueta Corta Vento Unissex Unlimit</h2>
+<h3><strong>Descrição do Produto:</strong></h3>
+<p style=""margin: 0px 0px 1em; line-height: 1.4; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"">A <strong>Jaqueta Corta Vento Unissex Unlimit Azul Claro </strong>é feita<strong> </strong>para homens e mulheres exigentes que procuram conforto<strong> </strong>e proteção contra o vento e frio. Feita com tecido leve, ela possui bolsos laterais com zíper e forro delicado para o tecido não grudar na pele. Tem uma pegada inovadora e fashion, sem muitos detalhes aparentes. A simplicidade desta jaqueta trás todo seu charme.</p>
+
+<h3><strong>Tecnologias do tecido:</strong></h3>
+<ul>
+ 	<li>Eco-Dry (secagem rápida)</li>
+ 	<li>Easy Care, não precisa passar</li>
+ 	<li>Zíper</li>
+ 	<li>Bolsos laterais com zíper</li>
+ 	<li>Toca</li>
+ 	<li>Forrada com tela plume de extremo conforto e não deixa grudar na pele</li>
+ 	<li>Marca estampada na parte da frente com adesivo</li>
+ 	<li>Isento de produtos tóxicos com certificação Oeko-Tex 100 Classe I</li>
+ 	<li>Composição: 100% Poliamida no tecido interno e externo</li>
+</ul>
+<h3><strong>Indicado para:</strong></h3>
+Esta Jaqueta Corta Vento é ideal para corridas e caminhadas em ambientes com vento e frio. Ela corta o vento para que seu corpo não tenha trocas rápidas de temperatura. Você pode usar ela para caminhas, corridas e pra saídas da academia. Que tal usar em seu dia a dia como uma peça de roupa mais jogada e fashion?
+
+<strong>Você pode saber mais sobre em <a href=""http://blog.unlimit.fit"">blog.unlimit.fit</a>.</strong>
+<h3><strong>Garantia e Trocas Unlimit:</strong></h3>
+<em>Garantia contra defeitos de fabricação de 30 dias.
+Primeira troca grátis.
+Não gostou do produto? Devolvemos em até 30 dias.</em>
+
+Jaqueta Corta Vento Unissex Unlimit Azul Claro",,,taxable,,1,,0,0,500,26,16,7,1,,,,"Moda Fitness, Roupas Fitness, Feminino, Feminino > Jaqueta Corta Vento Feminina, Masculino, Masculino > Jaqueta Corta Vento, sale","Corrida, Dia a Dia",,https://unlimit.fit/wp-content/uploads/2018/02/jaqueta-corta-vento-unissex-azul-claro1.jpg,,,,,,,,,0,Tamanho,"P, M, G",1,0,P,Cores,"Azul Claro",1,0,"Azul Claro"
+827,variation,38128569,"Jaqueta Corta Vento Unissex Unlimit - Azul Claro - P, Azul Claro",1,0,visible,,,,,taxable,,1,2,0,0,,,,,0,,"119,00","169,9000000000",,,,,,,38128568,,,,,,0,Tamanho,P,,0,,Cores,"Azul Claro",,0,
+828,variation,38128570,"Jaqueta Corta Vento Unissex Unlimit - Azul Claro - M, Azul Claro",1,0,visible,,,,,taxable,,1,5,0,0,,,,,0,,"119,00","169,9000000000",,,,,,,38128568,,,,,,0,Tamanho,M,,0,,Cores,"Azul Claro",,0,
+829,variation,38128571,"Jaqueta Corta Vento Unissex Unlimit - Azul Claro - G, Azul Claro",1,0,visible,,,,,taxable,,1,3,0,0,,,,,0,,"119,00","169,9000000000",,,,,,,38128568,,,,,,0,Tamanho,G,,0,,Cores,"Azul Claro",,0,
+830,variable,38128564,"Jaqueta Corta Vento Unissex Unlimit - Marinho",1,0,visible,"A <strong>Jaqueta Corta Vento Unissex Unlimit Azul </strong>é feita<strong> </strong>para homens e mulheres exigentes que procuram conforto<strong> </strong>e proteção contra o vento e frio. Feita com tecido leve, ela possui bolsos laterais com zíper e forro delicado para o tecido não grudar no corpo. Tem uma pegada inovadora e fashion, sem muitos detalhes aparentes. A simplicidade desta jaqueta trás todo seu charme.","<h2>Jaqueta Corta Vento Unissex Unlimit Marinho</h2>
+<h3><strong>Descrição do Produto:</strong></h3>
+<p style=""margin: 0px 0px 1em; line-height: 1.4; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"">A <strong>Jaqueta Corta Vento Unissex Unlimit Azul Marinho </strong>é feita<strong> </strong>para homens e mulheres exigentes que procuram conforto<strong> </strong>e proteção contra o vento e frio. Feita com tecido leve, ela possui bolsos laterais com zíper e forro delicado para o tecido não grudar na pele. Tem uma pegada inovadora e fashion, sem muitos detalhes aparentes. A simplicidade desta jaqueta trás todo seu charme.</p>
+
+<h3><strong>Tecnologias do tecido:</strong></h3>
+<ul>
+ 	<li>Eco-Dry (secagem rápida)</li>
+ 	<li>Easy Care, não precisa passar</li>
+ 	<li>Zíper</li>
+ 	<li>Bolsos laterais com zíper</li>
+ 	<li>Toca</li>
+ 	<li>Forrada com tela plume de extremo conforto e não deixa grudar na pele</li>
+ 	<li>Marca estampada na parte da frente com adesivo</li>
+ 	<li>Isento de produtos tóxicos com certificação Oeko-Tex 100 Classe I</li>
+ 	<li>Composição: 100% Poliamida no tecido interno e externo</li>
+</ul>
+<h3><strong>Indicado para:</strong></h3>
+Esta Jaqueta Corta Vento é ideal para corridas e caminhadas em ambientes com vento e frio. Ela corta o vento para que seu corpo não tenha trocas rápidas de temperatura. Você pode usar ela para caminhas, corridas e pra saídas da academia. Que tal usar em seu dia a dia como uma peça de roupa mais jogada e fashion?
+
+<strong>Você pode saber mais sobre em <a href=""http://blog.unlimit.fit"">blog.unlimit.fit</a>.</strong>
+<h3><strong>Garantia e Trocas Unlimit:</strong></h3>
+<em>Garantia contra defeitos de fabricação de 30 dias.
+Primeira troca grátis.
+Não gostou do produto? Devolvemos em até 30 dias.</em>
+
+Jaqueta Corta Vento Unissex Unlimit Azul Marinho",,,taxable,,1,,0,0,500,26,16,7,1,,,,"Moda Fitness, Masculino > Moda Fitness Masculina, Roupas Fitness, Feminino, Feminino > Jaqueta Corta Vento Feminina, Masculino, Masculino > Jaqueta Corta Vento, sale","Corrida, Dia a Dia",,https://unlimit.fit/wp-content/uploads/2018/02/jaqueta-corta-vento-unissex-marinho1.jpg,,,,,,,,,0,Tamanho,"P, M, G",1,0,P,Cores,Marinho,1,0,Marinho
+843,variation,38128565,"Jaqueta Corta Vento Unissex Unlimit - Marinho - P, Marinho",1,0,visible,,,,,taxable,,1,1,0,0,,,,,0,,"119,00","169,9000000000",,,,,,,38128564,,,,,,0,Tamanho,P,,0,,Cores,Marinho,,0,
+844,variation,38128566,,1,0,visible,,,,,taxable,,1,1,0,0,,,,,0,,"119,00","169,9000000000",,,,,,,,,,,,,0,,,,,,,,,,
+845,variation,38128567,"Jaqueta Corta Vento Unissex Unlimit - Marinho - G, Marinho",1,0,visible,,,,,taxable,,backorder,0,0,0,,,,,0,,"119,00","169,9000000000",,,,,,,38128564,,,,,,3,Tamanho,G,,0,,Cores,Marinho,,0,
+846,variable,38128580,"Regata Basic Eco-Dry Unlimit UV50  - Amarelo",1,0,visible,"<span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Esta Regata Basic foi desenvolvida para prática de esportes e treinos. Ela tem sistema Eco-Dry de secagem rápida que mantem o corpo seco e livre. Também protege a pele dos raios do sol, pois tem proteção UV50  contra raios ultravioleta. Seu tecido é sustentável, ecológico e biodegradável, após descarte, desaparece em até 3 anos.</span>","<h2 style=""font-weight: normal; line-height: 1.2; color: #333333; font-family: sans-serif, Arial, Verdana, 'Trebuchet MS';""><strong>Regata Basic Eco-Dry Unlimit UV50 </strong></h2>
+<p style=""margin: 0px 0px 25px; color: #1c1d1d; font-family: HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Esta Regata Basic foi desenvolvida para prática de esportes e treinos. Ela tem sistema Eco-Dry de secagem rápida que mantem o corpo seco e livre. Também protege a pele dos raios do sol, pois tem proteção UV50  contra raios ultravioleta. Seu tecido é sustentável, ecológico e biodegradável, após descarte, desaparece em até 3 anos.</span></p>
+
+<ul>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Tecnologias do tecido:</span></li>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;""><a class=""text-link"" style=""color: #6e31eb; text-decoration: none; border-width: 0px 0px 1px; border-style: none none solid; border-bottom-color: #6e31eb; padding: 0px; margin: 0px;"" href=""http://www.guiajeanswear.com.br/noticias/5135/santaconstancia-apresenta-familia-de-tecidos-ecofriendly.aspx"">Co2 Control </a> – tecido ecológico para roupas fitnes, biodegradável, após descarte, desaparece em até 3 anos. Boas práticas ambientais, rastreabilidade e matérias primas, menos na parte da tela.</span></li>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Eco-Dry (secagem rápida)</span></li>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Easy Care, não precisa passar</span></li>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Proteção UV50  contra radiação ultravioleta.</span></li>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Isento de produtos tóxicos com certificação Oeko-Tex 100 Classe I</span></li>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Composição:  100% Poliamida</span></li>
+</ul>
+<p style=""margin: 0px 0px 25px; color: #1c1d1d; font-family: HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;""><em><strong>Para vestir-se bem em:</strong></em></span></p>
+
+<ul style=""margin: 0px 0px 25px 20px; padding: 0px; color: #1c1d1d; font-family: HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"">
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">No seu dia a dia</span></li>
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Caminhadas</span></li>
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Corridas</span></li>
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Ciclismo</span></li>
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Academia</span></li>
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Musculação</span></li>
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Crossfit</span></li>
+</ul>
+<p style=""color: #333333; font-family: sans-serif, Arial, Verdana, 'Trebuchet MS'; font-size: 13px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Composição: Tecido 100% Poliamida</span></p>
+<span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;""><i style=""color: #333333;"">Regata Basic </i><i style=""color: #333333;"">com Garantia contra defeitos de fabricação de 30 dias.</i></span>",,,taxable,,1,,0,0,500,26,16,7,1,,,,"Feminino > Regata Feminina > Camiseta Regata Feminina, Moda Fitness, Feminino > Regata Feminina > Regata Academia, Feminino > Regata Feminina > Regata Fitness, Feminino > Regata Feminina > Regata Nadador, Feminino > Regata Feminina > Regata UV, Roupas Fitness, Feminino, Feminino > Regata Feminina, sale","Corrida, CrossFit, Dia a Dia, Musculação",,"https://unlimit.fit/wp-content/uploads/2018/02/camiseta-regata-basic-eco-dry-amarela-unlimit-1.jpg, https://unlimit.fit/wp-content/uploads/2018/02/camiseta-regata-basic-eco-dry-amarela-unlimit-2.jpg, https://unlimit.fit/wp-content/uploads/2018/02/camiseta-regata-basic-eco-dry-amarela-unlimit-3.jpg",,,,,,,,,0,Tamanho,"P, M, G",1,0,P,Cores,Amarela,1,0,Amarela
+847,variation,38128581,,1,0,visible,,,,,taxable,,1,2,0,0,,,,,0,,"45,00","79,9000000000",,,,,,,,,,,,,0,,,,,,,,,,
+848,variation,38128582,"Regata Basic Eco-Dry Unlimit UV50  - Amarelo - M, Amarela",1,0,visible,,,,,taxable,,1,1,0,0,,,,,0,,"45,00","79,9000000000",,,,,,,38128580,,,,,,0,Tamanho,M,,0,,Cores,Amarela,,0,
+849,variation,38128583,"Regata Basic Eco-Dry Unlimit UV50  - Amarelo - G, Amarela",1,0,visible,,,,,taxable,,1,4,0,0,,,,,0,,"45,00","79,9000000000",,,,,,,38128580,,,,,,0,Tamanho,G,,0,,Cores,Amarela,,0,
+850,variable,38128576,"Regata Basic Eco-Dry Unlimit UV50  - Rosa",1,0,visible,"<p style=""margin: 0px 0px 25px; color: #1c1d1d; font-family: HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Esta Regata Basic foi desenvolvida para prática de esportes e treinos. Ela tem sistema Eco-Dry de secagem rápida que mantem o corpo seco e livre. Também protege a pele dos raios do sol, pois tem proteção UV50  contra raios ultravioleta. Seu tecido é sustentável, ecológico e biodegradável, após descarte, desaparece em até 3 anos.</span></p>","<h2 style=""font-weight: normal; line-height: 1.2; color: #333333; font-family: sans-serif, Arial, Verdana, 'Trebuchet MS';""><strong>Regata Basic Eco-Dry Unlimit UV50 </strong></h2>
+<p style=""margin: 0px 0px 25px; color: #1c1d1d; font-family: HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Esta Regata Basic foi desenvolvida para prática de esportes e treinos. Ela tem sistema Eco-Dry de secagem rápida que mantem o corpo seco e livre. Também protege a pele dos raios do sol, pois tem proteção UV50  contra raios ultravioleta. Seu tecido é sustentável, ecológico e biodegradável, após descarte, desaparece em até 3 anos.</span></p>
+
+<ul>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Tecnologias do tecido:</span></li>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;""><a class=""text-link"" style=""color: #6e31eb; text-decoration: none; border-width: 0px 0px 1px; border-style: none none solid; border-bottom-color: #6e31eb; padding: 0px; margin: 0px;"" href=""http://www.guiajeanswear.com.br/noticias/5135/santaconstancia-apresenta-familia-de-tecidos-ecofriendly.aspx"">Co2 Control </a> – tecido ecológico para roupas fitnes, biodegradável, após descarte, desaparece em até 3 anos. Boas práticas ambientais, rastreabilidade e matérias primas, menos na parte da tela.</span></li>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Eco-Dry (secagem rápida)</span></li>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Easy Care, não precisa passar</span></li>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Proteção UV50  contra radiação ultravioleta.</span></li>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Isento de produtos tóxicos com certificação Oeko-Tex 100 Classe I</span></li>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Composição:  100% Poliamida</span></li>
+</ul>
+<p style=""margin: 0px 0px 25px; color: #1c1d1d; font-family: HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;""><em><strong>Para vestir-se bem em:</strong></em></span></p>
+
+<ul style=""margin: 0px 0px 25px 20px; padding: 0px; color: #1c1d1d; font-family: HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"">
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">No seu dia a dia</span></li>
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Caminhadas</span></li>
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Corridas</span></li>
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Ciclismo</span></li>
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Academia</span></li>
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Musculação</span></li>
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Crossfit</span></li>
+</ul>
+<p style=""color: #333333; font-family: sans-serif, Arial, Verdana, 'Trebuchet MS'; font-size: 13px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Composição: Tecido 100% Poliamida</span></p>
+<span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;""><i style=""color: #333333;"">Regata Basic </i><i style=""color: #333333;"">com Garantia contra defeitos de fabricação de 30 dias.</i></span>",,,taxable,,1,,0,0,500,26,16,7,1,,,,"Feminino > Regata Feminina > Camiseta Regata Feminina, Moda Fitness, Feminino > Regata Feminina > Regata Academia, Feminino > Regata Feminina > Regata Fitness, Feminino > Regata Feminina > Regata Nadador, Feminino > Regata Feminina > Regata UV, Roupas Fitness, Feminino, Feminino > Regata Feminina, sale","Corrida, CrossFit, Dia a Dia, Musculação",,"https://unlimit.fit/wp-content/uploads/2018/02/camiseta-regata-basic-eco-dry-branca-unlimit-1.jpg, https://unlimit.fit/wp-content/uploads/2018/02/camiseta-regata-basic-eco-dry-branca-unlimit-2.jpg, https://unlimit.fit/wp-content/uploads/2018/02/camiseta-regata-basic-eco-dry-branca-unlimit-3.jpg",,,,,,,,,0,Tamanho,"P, M, G",1,0,P,Cores,Branca,1,0,Branca
+851,variation,38128577,"Regata Basic Eco-Dry Unlimit UV50  - Rosa - P, Branca",1,0,visible,,,,,taxable,,1,1,0,0,,,,,0,,"45,00","79,9000000000",,,,,,,38128576,,,,,,0,Tamanho,P,,0,,Cores,Branca,,0,
+852,variation,38128578,"Regata Basic Eco-Dry Unlimit UV50  - Rosa - M, Branca",1,0,visible,,,,,taxable,,1,2,0,0,,,,,0,,"45,00","79,9000000000",,,,,,,38128576,,,,,,0,Tamanho,M,,0,,Cores,Branca,,0,
+853,variation,38128579,"Regata Basic Eco-Dry Unlimit UV50  - Rosa - G, Branca",1,0,visible,,,,,taxable,,1,3,0,0,,,,,0,,"45,00","79,9000000000",,,,,,,38128576,,,,,,0,Tamanho,G,,0,,Cores,Branca,,0,
+854,variable,38128572,"Regata Basic Eco-Dry Unlimit UV50  - Rosa",1,1,visible,"<span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Esta Regata Basic foi desenvolvida para prática de esportes e treinos. Ela tem sistema Eco-Dry de secagem rápida que mantem o corpo seco e livre. Também protege a pele dos raios do sol, pois tem proteção UV50  contra raios ultravioleta. Seu tecido é sustentável, ecológico e biodegradável, após descarte, desaparece em até 3 anos.</span>","<h2 style=""font-weight: normal; line-height: 1.2; color: #333333; font-family: sans-serif, Arial, Verdana, 'Trebuchet MS';""><strong>Regata Basic Eco-Dry Unlimit UV50 </strong></h2>
+<p style=""margin: 0px 0px 25px; color: #1c1d1d; font-family: HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Esta Regata Basic foi desenvolvida para prática de esportes e treinos. Ela tem sistema Eco-Dry de secagem rápida que mantem o corpo seco e livre. Também protege a pele dos raios do sol, pois tem proteção UV50  contra raios ultravioleta. Seu tecido é sustentável, ecológico e biodegradável, após descarte, desaparece em até 3 anos.</span></p>
+
+<ul>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Tecnologias do tecido:</span></li>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;""><a class=""text-link"" style=""color: #6e31eb; text-decoration: none; border-width: 0px 0px 1px; border-style: none none solid; border-bottom-color: #6e31eb; padding: 0px; margin: 0px;"" href=""http://www.guiajeanswear.com.br/noticias/5135/santaconstancia-apresenta-familia-de-tecidos-ecofriendly.aspx"">Co2 Control </a> – tecido ecológico para roupas fitnes, biodegradável, após descarte, desaparece em até 3 anos. Boas práticas ambientais, rastreabilidade e matérias primas, menos na parte da tela.</span></li>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Eco-Dry (secagem rápida)</span></li>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Easy Care, não precisa passar</span></li>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Proteção UV50  contra radiação ultravioleta.</span></li>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Isento de produtos tóxicos com certificação Oeko-Tex 100 Classe I</span></li>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Composição:  100% Poliamida</span></li>
+</ul>
+<p style=""margin: 0px 0px 25px; color: #1c1d1d; font-family: HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;""><em><strong>Para vestir-se bem em:</strong></em></span></p>
+
+<ul style=""margin: 0px 0px 25px 20px; padding: 0px; color: #1c1d1d; font-family: HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"">
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">No seu dia a dia</span></li>
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Caminhadas</span></li>
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Corridas</span></li>
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Ciclismo</span></li>
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Academia</span></li>
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Musculação</span></li>
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Crossfit</span></li>
+</ul>
+<p style=""color: #333333; font-family: sans-serif, Arial, Verdana, 'Trebuchet MS'; font-size: 13px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Composição: Tecido 100% Poliamida</span></p>
+<span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;""><i style=""color: #333333;"">Regata Basic </i><i style=""color: #333333;"">com Garantia contra defeitos de fabricação de 30 dias.</i></span>",,,taxable,,1,,0,0,500,26,16,7,1,,,,"Feminino > Regata Feminina > Camiseta Regata Feminina, Moda Fitness, Feminino > Regata Feminina > Regata Academia, Feminino > Regata Feminina > Regata Fitness, Feminino > Regata Feminina > Regata Nadador, Feminino > Regata Feminina > Regata UV, Roupas Fitness, Feminino, Feminino > Regata Feminina, sale","Corrida, CrossFit, Dia a Dia, Musculação",,"https://unlimit.fit/wp-content/uploads/2018/02/camiseta-regata-basic-eco-dry-rosa-unlimit-1.jpg, https://unlimit.fit/wp-content/uploads/2018/02/camiseta-regata-basic-eco-dry-rosa-unlimit-2.jpg, https://unlimit.fit/wp-content/uploads/2018/02/camiseta-regata-basic-eco-dry-rosa-unlimit-3.jpg",,,,,,,,,0,Tamanho,"P, M, G",1,0,P,Cores,Rosa,1,0,Rosa
+855,variation,,"Regata Basic Eco-Dry Unlimit UV50  - Rosa - P, Rosa",1,0,visible,,,,,taxable,,1,4,0,0,,,,,0,,"45,00","79,9000000000",,,,,,,38128572,,,,,,0,Tamanho,P,,0,,Cores,Rosa,,0,
+856,variation,,"Regata Basic Eco-Dry Unlimit UV50  - Rosa - M, Rosa",1,0,visible,,,,,taxable,,1,3,0,0,,,,,0,,"45,00","79,9000000000",,,,,,,38128572,,,,,,0,Tamanho,M,,0,,Cores,Rosa,,0,
+864,variation,38128575,"Regata Basic Eco-Dry Unlimit UV50  - Rosa - G, Rosa",1,0,visible,,,,,taxable,,1,3,0,0,,,,,0,,"45,00","79,9000000000",,,,,,,38128572,,,,,,3,Tamanho,G,,0,,Cores,Rosa,,0,
+865,variable,38128588,"Regata Unlimit Eco-Dry UV50  - Rosa",1,0,visible,"<span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Esta Regata Unlimit foi desenvolvida para prática de esportes e treinos. Ela tem sistema Eco-Dry de secagem rápida que mantem o corpo seco e livre. Também protege a pele dos raios do sol, pois tem proteção UV50  contra raios ultravioleta. Seu tecido é sustentável, ecológico e biodegradável, após descarte, desaparece em até 3 anos.</span>","<h2 style=""font-weight: normal; line-height: 1.2; color: #333333; font-family: sans-serif, Arial, Verdana, 'Trebuchet MS';""><strong>Regata Unlimit Eco-Dry UV50 </strong></h2>
+<p style=""margin: 0px 0px 25px; color: #1c1d1d; font-family: HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Esta Regata Unlimit foi desenvolvida para prática de esportes e treinos. Ela tem sistema Eco-Dry de secagem rápida que mantem o corpo seco e livre. Também protege a pele dos raios do sol, pois tem proteção UV50  contra raios ultravioleta. Seu tecido é sustentável, ecológico e biodegradável, após descarte, desaparece em até 3 anos.</span></p>
+
+<ul>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Tecnologias do tecido:</span></li>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;""><a class=""text-link"" style=""color: #6e31eb; text-decoration: none; border-width: 0px 0px 1px; border-style: none none solid; border-bottom-color: #6e31eb; padding: 0px; margin: 0px;"" href=""http://www.guiajeanswear.com.br/noticias/5135/santaconstancia-apresenta-familia-de-tecidos-ecofriendly.aspx"">Co2 Control </a> – tecido ecológico para roupas fitnes, biodegradável, após descarte, desaparece em até 3 anos. Boas práticas ambientais, rastreabilidade e matérias primas, menos na parte da tela.</span></li>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Eco-Dry (secagem rápida)</span></li>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Easy Care, não precisa passar</span></li>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Proteção UV50  contra radiação ultravioleta.</span></li>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Isento de produtos tóxicos com certificação Oeko-Tex 100 Classe I</span></li>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Composição:  100% Poliamida</span></li>
+</ul>
+<p style=""margin: 0px 0px 25px; color: #1c1d1d; font-family: HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;""><em><strong>Para vestir-se bem em:</strong></em></span></p>
+
+<ul style=""margin: 0px 0px 25px 20px; padding: 0px; color: #1c1d1d; font-family: HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"">
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">No seu dia a dia</span></li>
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Caminhadas</span></li>
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Corridas</span></li>
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Ciclismo</span></li>
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Academia</span></li>
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Musculação</span></li>
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Crossfit</span></li>
+</ul>
+<p style=""color: #333333; font-family: sans-serif, Arial, Verdana, 'Trebuchet MS'; font-size: 13px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Composição: Tecido 100% Poliamida</span></p>
+<span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;""><i style=""color: #333333;"">Regata Unlimit </i><i style=""color: #333333;"">com Garantia contra defeitos de fabricação de 30 dias.</i></span>",,,taxable,,1,,0,0,500,26,16,7,1,,,,"Feminino > Regata Feminina > Camiseta Regata Feminina, Moda Fitness, Feminino > Regata Feminina > Regata Academia, Feminino > Regata Feminina > Regata Fitness, Feminino > Regata Feminina > Regata Nadador, Feminino > Regata Feminina > Regata UV, Roupas Fitness, Feminino, Feminino > Regata Feminina, sale","Corrida, CrossFit, Dia a Dia, Musculação",,"https://unlimit.fit/wp-content/uploads/2018/02/camiseta-regata-nadador-eco-dry-rosa-unlimit-1.jpg, https://unlimit.fit/wp-content/uploads/2018/02/camiseta-regata-nadador-eco-dry-rosa-unlimit-2.jpg, https://unlimit.fit/wp-content/uploads/2018/02/camiseta-regata-nadador-eco-dry-rosa-unlimit-3.jpg",,,,,,,,,0,Tamanho,"P, M, G",1,0,P,Cores,Rosa,1,0,Rosa
+866,variation,38128589,"Regata Unlimit Eco-Dry UV50  - Rosa - P, Rosa",1,0,visible,,,,,taxable,,1,3,0,0,,,,,0,,"45,90","69,9000000000",,,,,,,38128588,,,,,,0,Tamanho,P,,0,,Cores,Rosa,,0,
+867,variation,38128590,"Regata Unlimit Eco-Dry UV50  - Rosa - M, Rosa",1,0,visible,,,,,taxable,,1,3,0,0,,,,,0,,"45,90","69,9000000000",,,,,,,38128588,,,,,,0,Tamanho,M,,0,,Cores,Rosa,,0,
+868,variation,38128591,"Regata Unlimit Eco-Dry UV50  - Rosa - G, Rosa",1,0,visible,,,,,taxable,,1,4,0,0,,,,,0,,"45,90","69,9000000000",,,,,,,38128588,,,,,,0,Tamanho,G,,0,,Cores,Rosa,,0,
+869,variable,38128584,"Regata Unlimit Eco-Dry UV50  - Branco",1,0,visible,"<span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Esta Regata Unlimit foi desenvolvida para prática de esportes e treinos. Ela tem sistema Eco-Dry de secagem rápida que mantem o corpo seco e livre. Também protege a pele dos raios do sol, pois tem proteção UV50  contra raios ultravioleta. Seu tecido é sustentável, ecológico e biodegradável, após descarte, desaparece em até 3 anos.</span>","<h2 style=""font-weight: normal; line-height: 1.2; color: #333333; font-family: sans-serif, Arial, Verdana, 'Trebuchet MS';""><strong>Regata Unlimit Eco-Dry UV50 </strong></h2>
+<p style=""margin: 0px 0px 25px; color: #1c1d1d; font-family: HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Esta Regata Unlimit foi desenvolvida para prática de esportes e treinos. Ela tem sistema Eco-Dry de secagem rápida que mantem o corpo seco e livre. Também protege a pele dos raios do sol, pois tem proteção UV50  contra raios ultravioleta. Seu tecido é sustentável, ecológico e biodegradável, após descarte, desaparece em até 3 anos.</span></p>
+
+<ul>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Tecnologias do tecido:</span></li>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;""><a class=""text-link"" style=""color: #6e31eb; text-decoration: none; border-width: 0px 0px 1px; border-style: none none solid; border-bottom-color: #6e31eb; padding: 0px; margin: 0px;"" href=""http://www.guiajeanswear.com.br/noticias/5135/santaconstancia-apresenta-familia-de-tecidos-ecofriendly.aspx"">Co2 Control </a> – tecido ecológico para roupas fitnes, biodegradável, após descarte, desaparece em até 3 anos. Boas práticas ambientais, rastreabilidade e matérias primas, menos na parte da tela.</span></li>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Eco-Dry (secagem rápida)</span></li>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Easy Care, não precisa passar</span></li>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Proteção UV50  contra radiação ultravioleta.</span></li>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Isento de produtos tóxicos com certificação Oeko-Tex 100 Classe I</span></li>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Composição:  100% Poliamida</span></li>
+</ul>
+<p style=""margin: 0px 0px 25px; color: #1c1d1d; font-family: HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;""><em><strong>Para vestir-se bem em:</strong></em></span></p>
+
+<ul style=""margin: 0px 0px 25px 20px; padding: 0px; color: #1c1d1d; font-family: HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"">
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">No seu dia a dia</span></li>
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Caminhadas</span></li>
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Corridas</span></li>
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Ciclismo</span></li>
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Academia</span></li>
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Musculação</span></li>
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Crossfit</span></li>
+</ul>
+<p style=""color: #333333; font-family: sans-serif, Arial, Verdana, 'Trebuchet MS'; font-size: 13px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Composição: Tecido 100% Poliamida</span></p>
+<span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;""><i style=""color: #333333;"">Regata Unlimit </i><i style=""color: #333333;"">com Garantia contra defeitos de fabricação de 30 dias.</i></span>",,,taxable,,1,,0,0,500,26,16,7,1,,,,"Feminino > Regata Feminina > Camiseta Regata Feminina, Moda Fitness, Feminino > Regata Feminina > Regata Academia, Feminino > Regata Feminina > Regata Fitness, Feminino > Regata Feminina > Regata Nadador, Feminino > Regata Feminina > Regata UV, Roupas Fitness, Feminino, Feminino > Regata Feminina, sale","Corrida, CrossFit, Dia a Dia, Musculação",,"https://unlimit.fit/wp-content/uploads/2018/02/camiseta-regata-nadador-eco-dry-branca-unlimit-1.jpg, https://unlimit.fit/wp-content/uploads/2018/02/camiseta-regata-nadador-eco-dry-branca-unlimit-2.jpg, https://unlimit.fit/wp-content/uploads/2018/02/camiseta-regata-nadador-eco-dry-branca-unlimit-3.jpg",,,,,,,,,0,Tamanho,"P, M, G",1,0,P,Cores,Branco,1,0,Branco
+870,variation,38128585,"Regata Unlimit Eco-Dry UV50  - Branco - P, Branco",1,0,visible,,,,,taxable,,1,3,0,0,,,,,0,,"45,90","69,9000000000",,,,,,,38128584,,,,,,0,Tamanho,P,,0,,Cores,Branco,,0,
+871,variation,38128586,"Regata Unlimit Eco-Dry UV50  - Branco - M, Branco",1,0,visible,,,,,taxable,,1,3,0,0,,,,,0,,"45,90","69,9000000000",,,,,,,38128584,,,,,,0,Tamanho,M,,0,,Cores,Branco,,0,
+872,variation,38128587,"Regata Unlimit Eco-Dry UV50  - Branco - G, Branco",1,0,visible,,,,,taxable,,1,1,0,0,,,,,0,,"45,90","69,9000000000",,,,,,,38128584,,,,,,0,Tamanho,G,,0,,Cores,Branco,,0,
+873,variable,38128592,"Regata Unlimit Eco-Dry UV50  - Marinho",1,0,visible,"<span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Esta Regata Unlimit foi desenvolvida para prática de esportes e treinos. Ela tem sistema Eco-Dry de secagem rápida que mantem o corpo seco e livre. Também protege a pele dos raios do sol, pois tem proteção UV50  contra raios ultravioleta. Seu tecido é sustentável, ecológico e biodegradável, após descarte, desaparece em até 3 anos.</span>","<h2 style=""font-weight: normal; line-height: 1.2; color: #333333; font-family: sans-serif, Arial, Verdana, 'Trebuchet MS';""><strong>Regata Unlimit Eco-Dry UV50 </strong></h2>
+<p style=""margin: 0px 0px 25px; color: #1c1d1d; font-family: HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Esta Regata Unlimit foi desenvolvida para prática de esportes e treinos. Ela tem sistema Eco-Dry de secagem rápida que mantem o corpo seco e livre. Também protege a pele dos raios do sol, pois tem proteção UV50  contra raios ultravioleta. Seu tecido é sustentável, ecológico e biodegradável, após descarte, desaparece em até 3 anos.</span></p>
+
+<ul>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Tecnologias do tecido:</span></li>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;""><a class=""text-link"" style=""color: #6e31eb; text-decoration: none; border-width: 0px 0px 1px; border-style: none none solid; border-bottom-color: #6e31eb; padding: 0px; margin: 0px;"" href=""http://www.guiajeanswear.com.br/noticias/5135/santaconstancia-apresenta-familia-de-tecidos-ecofriendly.aspx"">Co2 Control </a> – tecido ecológico para roupas fitnes, biodegradável, após descarte, desaparece em até 3 anos. Boas práticas ambientais, rastreabilidade e matérias primas, menos na parte da tela.</span></li>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Eco-Dry (secagem rápida)</span></li>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Easy Care, não precisa passar</span></li>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Proteção UV50  contra radiação ultravioleta.</span></li>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Isento de produtos tóxicos com certificação Oeko-Tex 100 Classe I</span></li>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Composição:  100% Poliamida</span></li>
+</ul>
+<p style=""margin: 0px 0px 25px; color: #1c1d1d; font-family: HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;""><em><strong>Para vestir-se bem em:</strong></em></span></p>
+
+<ul style=""margin: 0px 0px 25px 20px; padding: 0px; color: #1c1d1d; font-family: HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"">
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">No seu dia a dia</span></li>
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Caminhadas</span></li>
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Corridas</span></li>
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Ciclismo</span></li>
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Academia</span></li>
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Musculação</span></li>
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Crossfit</span></li>
+</ul>
+<p style=""color: #333333; font-family: sans-serif, Arial, Verdana, 'Trebuchet MS'; font-size: 13px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Composição: Tecido 100% Poliamida</span></p>
+<span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;""><i style=""color: #333333;"">Regata Unlimit </i><i style=""color: #333333;"">com Garantia contra defeitos de fabricação de 30 dias.</i></span>",,,taxable,,1,,0,0,500,26,16,7,1,,,,"Feminino > Regata Feminina > Camiseta Regata Feminina, Moda Fitness, Feminino > Regata Feminina > Regata Academia, Feminino > Regata Feminina > Regata Fitness, Feminino > Regata Feminina > Regata Nadador, Feminino > Regata Feminina > Regata UV, Roupas Fitness, Feminino, Feminino > Regata Feminina, sale","Corrida, CrossFit, Dia a Dia, Musculação",,"https://unlimit.fit/wp-content/uploads/2018/02/camiseta-regata-nadador-eco-dry-marinho-unlimit-1.jpg, https://unlimit.fit/wp-content/uploads/2018/02/camiseta-regata-nadador-eco-dry-marinho-unlimit-2.jpg, https://unlimit.fit/wp-content/uploads/2018/02/camiseta-regata-nadador-eco-dry-marinho-unlimit-3.jpg",,,,,,,,,0,Tamanho,"P, M, G",1,0,P,Cores,Marinho,1,0,Marinho
+874,variation,38128593,"Regata Unlimit Eco-Dry UV50  - Marinho - P, Marinho",1,0,visible,,,,,taxable,,1,3,0,0,,,,,0,,"45,90","69,9000000000",,,,,,,38128592,,,,,,0,Tamanho,P,,0,,Cores,Marinho,,0,
+875,variation,38128594,"Regata Unlimit Eco-Dry UV50  - Marinho - M, Marinho",1,0,visible,,,,,taxable,,1,1,0,0,,,,,0,,"45,90","69,9000000000",,,,,,,38128592,,,,,,0,Tamanho,M,,0,,Cores,Marinho,,0,
+886,variation,38128595,"Regata Unlimit Eco-Dry UV50  - Marinho - G, Marinho",1,0,visible,,,,,taxable,,1,3,0,0,,,,,0,,"45,90","69,9000000000",,,,,,,38128592,,,,,,0,Tamanho,G,,0,,Cores,Marinho,,0,
+887,variable,38128600,"Short Emana Unlimit - Branco",1,1,visible,"Este <strong>Short Emana Unlimit Branco </strong>é feito de um dos tecidos que mais faz sucesso entre o público feminino, o Emana tem como um dos seus grandes benefícios a diminuição dos sinas de celulite, proporcionando uma pele mais lisa e jovem. Contém cristais bioativos e minerais emissores infravermelhos, que ao absorver o calor promovem a bioestimulação do metabolismo.","<h2>Short Emana Unlimit Branco</h2>
+Este <strong>Short Emana Unlimit Branco </strong>é feito de um dos tecidos que mais faz sucesso entre o público feminino, o Emana tem como um dos seus grandes benefícios a diminuição dos sinas de celulite, proporcionando uma pele mais lisa e jovem. Contém cristais bioativos e minerais emissores infravermelhos, que ao absorver o calor promovem a bioestimulação do metabolismo.
+
+Tem bioestimulação, que faz o rendimento físico melhorar em diversos fatores, principalmente diminuindo a fadiga com menor consumo de oxigênio. O fio também contribui para uma rápida recuperação muscular, maior elasticidade da pele e equilíbrio térmico.
+
+Saiba mais sobre o tecido em <a href=""http://emanafiber.com"">www.emanafiber.com</a>
+
+Tecnologias do tecido:
+<ul>
+ 	<li>Anticelulite</li>
+ 	<li style=""margin-bottom: 0px;"">Aumenta o conforto dos seios para treinos</li>
+ 	<li style=""margin-bottom: 0px;"">Bojo</li>
+ 	<li>Redução da fadiga muscular</li>
+ 	<li>Rápida recuperação muscular</li>
+ 	<li>Aumento da performance esportiva</li>
+ 	<li>Eco-Dry (secagem rápida)</li>
+ 	<li>Easy Care, não precisa passar</li>
+ 	<li>Proteção UV50  contra radiação ultravioleta</li>
+ 	<li>Isento de produtos tóxicos com certificação Oeko-Tex 100 Classe I</li>
+ 	<li>Composição: 84% Poliamida 16% Elastano</li>
+</ul>
+Para vestir-se bem em:
+<ul>
+ 	<li>No seu dia a dia</li>
+ 	<li>Caminhadas</li>
+ 	<li>Corridas</li>
+ 	<li>Ciclismo</li>
+ 	<li>Academia</li>
+ 	<li>Musculação</li>
+ 	<li>Crossfit</li>
+</ul>
+<i>Short Emana Branco com Garantia contra defeitos de fabricação de 30 dias.</i>",,,taxable,,1,,0,0,500,26,16,7,1,,,,"Feminino > Anticelulite, Moda Fitness, Roupas Fitness, Feminino > Short > Short Academia, Feminino > Short > Short Fitness, Feminino, Feminino > Short, sale","Corrida, Dia a Dia, Musculação",,"https://unlimit.fit/wp-content/uploads/2018/02/short-feminino-emana-branco-unlimit-1.jpg, https://unlimit.fit/wp-content/uploads/2018/02/short-feminino-emana-branco-unlimit-2.jpg, https://unlimit.fit/wp-content/uploads/2018/02/short-feminino-emana-branco-unlimit-3.jpg",,,,,,,,,0,Tamanho,"P, M, G",1,0,P,Cores,Branco,1,0,Branco
+888,variation,38128601,"Short Emana Unlimit - Branco - P, Branco",1,0,visible,,,,,taxable,,1,2,0,0,,,,,0,,"69,90","119,0000000000",,,,,,,38128600,,,,,,0,Tamanho,P,,0,,Cores,Branco,,0,
+889,variation,38128602,"Short Emana Unlimit - Branco - M, Branco",1,0,visible,,,,,taxable,,backorder,0,0,0,,,,,0,,"69,90","119,0000000000",,,,,,,38128600,,,,,,0,Tamanho,M,,0,,Cores,Branco,,0,
+890,variation,38128603,"Short Emana Unlimit - Branco - G, Branco",1,0,visible,,,,,taxable,,1,4,0,0,,,,,0,,"69,90","119,0000000000",,,,,,,38128600,,,,,,0,Tamanho,G,,0,,Cores,Branco,,0,
+891,variable,38128612,"Short Emana Unlimit - Bordô",1,0,visible,"Este <strong>Short Emana Unlimit Bordô </strong>é feito de um dos tecidos que mais faz sucesso entre o público feminino, o Emana tem como um dos seus grandes benefícios a diminuição dos sinas de celulite, proporcionando uma pele mais lisa e jovem. Contém cristais bioativos e minerais emissores infravermelhos, que ao absorver o calor promovem a bioestimulação do metabolismo.","<h2>Short Emana Unlimit Bordô</h2>
+Este <strong>Short Emana Unlimit Bordô </strong>é feito de um dos tecidos que mais faz sucesso entre o público feminino, o Emana tem como um dos seus grandes benefícios a diminuição dos sinas de celulite, proporcionando uma pele mais lisa e jovem. Contém cristais bioativos e minerais emissores infravermelhos, que ao absorver o calor promovem a bioestimulação do metabolismo.
+
+Tem bioestimulação, que faz o rendimento físico melhorar em diversos fatores, principalmente diminuindo a fadiga com menor consumo de oxigênio. O fio também contribui para uma rápida recuperação muscular, maior elasticidade da pele e equilíbrio térmico.
+
+Saiba mais sobre o tecido em <a href=""http://emanafiber.com"">www.emanafiber.com</a>
+
+Tecnologias do tecido:
+<ul>
+ 	<li>Anticelulite</li>
+ 	<li style=""margin-bottom: 0px;"">Aumenta o conforto dos seios para treinos</li>
+ 	<li style=""margin-bottom: 0px;"">Bojo</li>
+ 	<li>Redução da fadiga muscular</li>
+ 	<li>Rápida recuperação muscular</li>
+ 	<li>Aumento da performance esportiva</li>
+ 	<li>Eco-Dry (secagem rápida)</li>
+ 	<li>Easy Care, não precisa passar</li>
+ 	<li>Proteção UV50  contra radiação ultravioleta</li>
+ 	<li>Isento de produtos tóxicos com certificação Oeko-Tex 100 Classe I</li>
+ 	<li>Composição: 84% Poliamida 16% Elastano</li>
+</ul>
+Para vestir-se bem em:
+<ul>
+ 	<li>No seu dia a dia</li>
+ 	<li>Caminhadas</li>
+ 	<li>Corridas</li>
+ 	<li>Ciclismo</li>
+ 	<li>Academia</li>
+ 	<li>Musculação</li>
+ 	<li>Crossfit</li>
+</ul>
+<i>Short Emana Bordô com Garantia contra defeitos de fabricação de 30 dias.</i>",,,taxable,,1,,0,0,500,26,16,7,1,,,,"Feminino > Anticelulite, Moda Fitness, Roupas Fitness, Feminino > Short > Short Academia, Feminino > Short > Short Fitness, Feminino, Feminino > Short, sale","Corrida, Dia a Dia, Musculação",,"https://unlimit.fit/wp-content/uploads/2018/02/short-feminino-emana-bordo-unlimit-1.jpg, https://unlimit.fit/wp-content/uploads/2018/02/short-feminino-emana-bordo-unlimit-2.jpg, https://unlimit.fit/wp-content/uploads/2018/02/short-feminino-emana-bordo-unlimit-3.jpg",,,,,,,,,0,Tamanho,"P, M, G",1,0,P,Cores,Bordô,1,0,Bordô
+892,variation,38128613,,1,0,visible,,,,,taxable,,1,3,0,0,,,,,0,,"69,90","119,0000000000",,,,,,,,,,,,,0,,,,,,,,,,
+893,variation,38128614,"Short Emana Unlimit - Bordô - M, Bordô",1,0,visible,,,,,taxable,,1,4,0,0,,,,,0,,"69,90","119,0000000000",,,,,,,38128612,,,,,,0,Tamanho,M,,0,,Cores,Bordô,,0,
+894,variation,38128615,"Short Emana Unlimit - Bordô - G, Bordô",1,0,visible,,,,,taxable,,1,5,0,0,,,,,0,,"69,90","119,0000000000",,,,,,,38128612,,,,,,0,Tamanho,G,,0,,Cores,Bordô,,0,
+895,variable,38128608,"Short Emana Unlimit - Cinza",1,1,visible,"Este <strong>Short Emana Unlimit Cinza </strong>é feito de um dos tecidos que mais faz sucesso entre o público feminino, o Emana tem como um dos seus grandes benefícios a diminuição dos sinas de celulite, proporcionando uma pele mais lisa e jovem. Contém cristais bioativos e minerais emissores infravermelhos, que ao absorver o calor promovem a bioestimulação do metabolismo.
+
+&nbsp;","<h2>Short Emana Unlimit Cinza</h2>
+Este <strong>Short Emana Unlimit Cinza </strong>é feito de um dos tecidos que mais faz sucesso entre o público feminino, o Emana tem como um dos seus grandes benefícios a diminuição dos sinas de celulite, proporcionando uma pele mais lisa e jovem. Contém cristais bioativos e minerais emissores infravermelhos, que ao absorver o calor promovem a bioestimulação do metabolismo.
+
+Tem bioestimulação, que faz o rendimento físico melhorar em diversos fatores, principalmente diminuindo a fadiga com menor consumo de oxigênio. O fio também contribui para uma rápida recuperação muscular, maior elasticidade da pele e equilíbrio térmico.
+
+Saiba mais sobre o tecido em <a href=""http://emanafiber.com"">www.emanafiber.com</a>
+
+Tecnologias do tecido:
+<ul>
+ 	<li>Anticelulite</li>
+ 	<li style=""margin-bottom: 0px;"">Aumenta o conforto dos seios para treinos</li>
+ 	<li style=""margin-bottom: 0px;"">Bojo</li>
+ 	<li>Redução da fadiga muscular</li>
+ 	<li>Rápida recuperação muscular</li>
+ 	<li>Aumento da performance esportiva</li>
+ 	<li>Eco-Dry (secagem rápida)</li>
+ 	<li>Easy Care, não precisa passar</li>
+ 	<li>Proteção UV50  contra radiação ultravioleta</li>
+ 	<li>Isento de produtos tóxicos com certificação Oeko-Tex 100 Classe I</li>
+ 	<li>Composição: 84% Poliamida 16% Elastano</li>
+</ul>
+Para vestir-se bem em:
+<ul>
+ 	<li>No seu dia a dia</li>
+ 	<li>Caminhadas</li>
+ 	<li>Corridas</li>
+ 	<li>Ciclismo</li>
+ 	<li>Academia</li>
+ 	<li>Musculação</li>
+ 	<li>Crossfit</li>
+</ul>
+<i>Short Emana Cinza com Garantia contra defeitos de fabricação de 30 dias.</i>",,,taxable,,1,,0,0,500,26,16,7,1,,,,"Feminino > Anticelulite, Moda Fitness, Roupas Fitness, Feminino > Short > Short Academia, Feminino > Short > Short Fitness, Feminino, Feminino > Short, sale","Corrida, Dia a Dia, Musculação",,"https://unlimit.fit/wp-content/uploads/2018/02/short-feminino-emana-cinza-unlimit-1.jpg, https://unlimit.fit/wp-content/uploads/2018/02/short-feminino-emana-cinza-unlimit-2.jpg, https://unlimit.fit/wp-content/uploads/2018/02/short-feminino-emana-cinza-unlimit-3.jpg",,,,,,,,,0,Tamanho,"P, M, G",1,0,P,Cores,Cinza,1,0,Cinza
+896,variation,38128609,"Short Emana Unlimit - Cinza - P, Cinza",1,0,visible,,,,,taxable,,1,3,0,0,,,,,0,,"69,90","119,0000000000",,,,,,,38128608,,,,,,0,Tamanho,P,,0,,Cores,Cinza,,0,
+897,variation,38128610,"Short Emana Unlimit - Cinza - M, Cinza",1,0,visible,,,,,taxable,,1,2,0,0,,,,,0,,"69,90","119,0000000000",,,,,,,38128608,,,,,,0,Tamanho,M,,0,,Cores,Cinza,,0,
+898,variation,38128611,"Short Emana Unlimit - Cinza - G, Cinza",1,0,visible,,,,,taxable,,1,4,0,0,,,,,0,,"69,90","119,0000000000",,,,,,,38128608,,,,,,0,Tamanho,G,,0,,Cores,Cinza,,0,
+899,variable,38128604,"Short Emana Unlimit - Preto",1,0,visible,"Este <strong>Short Emana Unlimit </strong>é feito de um dos tecidos que mais faz sucesso entre o público feminino, o Emana tem como um dos seus grandes benefícios a diminuição dos sinas de celulite, proporcionando uma pele mais lisa e jovem. Contém cristais bioativos e minerais emissores infravermelhos, que ao absorver o calor promovem a bioestimulação do metabolismo.","<h2>Short Emana Unlimit</h2>
+Este <strong>Short Emana Unlimit </strong>é feito de um dos tecidos que mais faz sucesso entre o público feminino, o Emana tem como um dos seus grandes benefícios a diminuição dos sinas de celulite, proporcionando uma pele mais lisa e jovem. Contém cristais bioativos e minerais emissores infravermelhos, que ao absorver o calor promovem a bioestimulação do metabolismo.
+
+Tem bioestimulação, que faz o rendimento físico melhorar em diversos fatores, principalmente diminuindo a fadiga com menor consumo de oxigênio. O fio também contribui para uma rápida recuperação muscular, maior elasticidade da pele e equilíbrio térmico.
+
+Saiba mais sobre o tecido em <a href=""http://emanafiber.com"">www.emanafiber.com</a>
+
+Tecnologias do tecido:
+<ul>
+ 	<li>Anticelulite</li>
+ 	<li style=""margin-bottom: 0px;"">Aumenta o conforto dos seios para treinos</li>
+ 	<li style=""margin-bottom: 0px;"">Bojo</li>
+ 	<li>Redução da fadiga muscular</li>
+ 	<li>Rápida recuperação muscular</li>
+ 	<li>Aumento da performance esportiva</li>
+ 	<li>Eco-Dry (secagem rápida)</li>
+ 	<li>Easy Care, não precisa passar</li>
+ 	<li>Proteção UV50  contra radiação ultravioleta</li>
+ 	<li>Isento de produtos tóxicos com certificação Oeko-Tex 100 Classe I</li>
+ 	<li>Composição: 84% Poliamida 16% Elastano</li>
+</ul>
+Para vestir-se bem em:
+<ul>
+ 	<li>No seu dia a dia</li>
+ 	<li>Caminhadas</li>
+ 	<li>Corridas</li>
+ 	<li>Ciclismo</li>
+ 	<li>Academia</li>
+ 	<li>Musculação</li>
+ 	<li>Crossfit</li>
+</ul>
+<i>Short Emana com Garantia contra defeitos de fabricação de 30 dias.</i>",,,taxable,,1,,0,0,500,26,16,7,1,,,,"Feminino > Anticelulite, Moda Fitness, Roupas Fitness, Feminino > Short > Short Academia, Feminino > Short > Short Fitness, Feminino, Feminino > Short, sale","Corrida, Dia a Dia, Musculação",,"https://unlimit.fit/wp-content/uploads/2018/02/short-emana-preto1.jpg, https://unlimit.fit/wp-content/uploads/2018/02/short-emana-preto2.jpg, https://unlimit.fit/wp-content/uploads/2018/02/short-emana-preto3.jpg",,,,,,,,,0,Tamanho,"P, M, G",1,0,P,Cores,Preto,1,0,Preto
+900,variation,38128605,"Short Emana Unlimit - Preto - P, Preto",1,0,visible,,,,,taxable,,1,4,0,0,,,,,0,,"69,90","119,0000000000",,,,,,,38128604,,,,,,0,Tamanho,P,,0,,Cores,Preto,,0,
+901,variation,38128606,"Short Emana Unlimit - Preto - M, Preto",1,0,visible,,,,,taxable,,1,1,0,0,,,,,0,,"69,90","119,0000000000",,,,,,,38128604,,,,,,0,Tamanho,M,,0,,Cores,Preto,,0,
+911,variation,38128607,"Short Emana Unlimit - Preto - G, Preto",1,0,visible,,,,,taxable,,1,5,0,0,,,,,0,,"69,90","119,0000000000",,,,,,,38128604,,,,,,0,Tamanho,G,,0,,Cores,Preto,,0,
+912,variable,38128596,"Regata Unlimit Eco-Dry UV50  - Amarela",1,1,visible,"<span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Esta <strong>Regata Unlimit</strong> foi desenvolvida para prática de esportes e treinos. Ela tem sistema Eco-Dry de secagem rápida que mantem o corpo seco e livre. Também protege a pele dos raios do sol, pois tem proteção UV50  contra raios ultravioleta. Seu tecido é sustentável, ecológico e biodegradável, após descarte, desaparece em até 3 anos.</span>","<h2 style=""font-weight: normal; line-height: 1.2; color: #333333; font-family: sans-serif, Arial, Verdana, 'Trebuchet MS';""><strong>Regata Unlimit Eco-Dry UV50 </strong></h2>
+<p style=""margin: 0px 0px 25px; color: #1c1d1d; font-family: HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Esta <strong>Regata Unlimit</strong> foi desenvolvida para prática de esportes e treinos. Ela tem sistema Eco-Dry de secagem rápida que mantem o corpo seco e livre. Também protege a pele dos raios do sol, pois tem proteção UV50  contra raios ultravioleta. Seu tecido é sustentável, ecológico e biodegradável, após descarte, desaparece em até 3 anos.</span></p>
+
+<ul>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Tecnologias do tecido:</span></li>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;""><a class=""text-link"" style=""color: #6e31eb; text-decoration: none; border-width: 0px 0px 1px; border-style: none none solid; border-bottom-color: #6e31eb; padding: 0px; margin: 0px;"" href=""http://www.guiajeanswear.com.br/noticias/5135/santaconstancia-apresenta-familia-de-tecidos-ecofriendly.aspx"">Co2 Control </a> – tecido ecológico para roupas fitnes, biodegradável, após descarte, desaparece em até 3 anos. Boas práticas ambientais, rastreabilidade e matérias primas, menos na parte da tela.</span></li>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Eco-Dry (secagem rápida)</span></li>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Easy Care, não precisa passar</span></li>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Proteção UV50  contra radiação ultravioleta.</span></li>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Isento de produtos tóxicos com certificação Oeko-Tex 100 Classe I</span></li>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Composição:  100% Poliamida</span></li>
+</ul>
+<p style=""margin: 0px 0px 25px; color: #1c1d1d; font-family: HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;""><em><strong>Para vestir-se bem em:</strong></em></span></p>
+
+<ul style=""margin: 0px 0px 25px 20px; padding: 0px; color: #1c1d1d; font-family: HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"">
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">No seu dia a dia</span></li>
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Caminhadas</span></li>
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Corridas</span></li>
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Ciclismo</span></li>
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Academia</span></li>
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Musculação</span></li>
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Crossfit</span></li>
+</ul>
+<p style=""color: #333333; font-family: sans-serif, Arial, Verdana, 'Trebuchet MS'; font-size: 13px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Composição: Tecido 100% Poliamida</span></p>
+<span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;""><i style=""color: #333333;"">Regata Unlimit </i><i style=""color: #333333;"">com Garantia contra defeitos de fabricação de 30 dias.</i></span>",,,taxable,,1,,0,0,500,26,16,7,1,,,,"Feminino > Regata Feminina > Camiseta Regata Feminina, Moda Fitness, Feminino > Regata Feminina > Regata Academia, Feminino > Regata Feminina > Regata Fitness, Feminino > Regata Feminina > Regata Nadador, Feminino > Regata Feminina > Regata UV, Roupas Fitness, Feminino, Feminino > Regata Feminina","Corrida, CrossFit, Dia a Dia, Musculação",,"https://unlimit.fit/wp-content/uploads/2018/02/camiseta-regata-nadador-eco-dry-amarela-unlimit-1.jpg, https://unlimit.fit/wp-content/uploads/2018/02/camiseta-regata-nadador-eco-dry-amarela-unlimit-2.jpg, https://unlimit.fit/wp-content/uploads/2018/02/camiseta-regata-nadador-eco-dry-amarela-unlimit-3.jpg",,,,,,,,,0,Tamanho,"P, M, G",1,0,P,Cores,Amarela,1,0,Amarela
+913,variation,38128597,"Regata Unlimit Eco-Dry UV50  - Amarela - P, Amarela",1,0,visible,,,,,taxable,,1,6,0,0,,,,,0,,"45,90","69,90",,,,,,,38128596,,,,,,0,Tamanho,P,,0,,Cores,Amarela,,0,
+914,variation,38128598,,1,0,visible,,,,,taxable,,1,1,0,0,,,,,0,,"45,90","69,90",,,,,,,,,,,,,0,,,,,,,,,,
+915,variation,38128599,"Regata Unlimit Eco-Dry UV50  - Amarela - G, Amarela",1,0,visible,,,,,taxable,,1,3,0,0,,,,,0,,"45,90","69,90",,,,,,,38128596,,,,,,0,Tamanho,G,,0,,Cores,Amarela,,0,
+916,variable,38128616,"Short Saia Emana Unlimit - Preto",1,0,visible,,"<h2>Short Saia Emana Unlimit Preto</h2>
+Este <strong>Short Saia Emana Unlimit Preto </strong>é feito de um dos tecidos que mais faz sucesso entre o público feminino, o Emana tem como um dos seus grandes benefícios a diminuição dos sinas de celulite, proporcionando uma pele mais lisa e jovem. Contém cristais bioativos e minerais emissores infravermelhos, que ao absorver o calor promovem a bioestimulação do metabolismo.
+
+Tem bioestimulação, que faz o rendimento físico melhorar em diversos fatores, principalmente diminuindo a fadiga com menor consumo de oxigênio. O fio também contribui para uma rápida recuperação muscular, maior elasticidade da pele e equilíbrio térmico.
+
+Saiba mais sobre o tecido em <a href=""http://emanafiber.com"">www.emanafiber.com</a>
+
+Tecnologias do tecido:
+<ul>
+ 	<li>Anticelulite</li>
+ 	<li style=""margin-bottom: 0px;"">Aumenta o conforto dos seios para treinos</li>
+ 	<li style=""margin-bottom: 0px;"">Bojo</li>
+ 	<li>Redução da fadiga muscular</li>
+ 	<li>Rápida recuperação muscular</li>
+ 	<li>Aumento da performance esportiva</li>
+ 	<li>Eco-Dry (secagem rápida)</li>
+ 	<li>Easy Care, não precisa passar</li>
+ 	<li>Proteção UV50 contra radiação ultravioleta</li>
+ 	<li>Isento de produtos tóxicos com certificação Oeko-Tex 100 Classe I</li>
+ 	<li>Composição: 84% Poliamida 16% Elastano</li>
+</ul>
+Para vestir-se bem em:
+<ul>
+ 	<li>No seu dia a dia</li>
+ 	<li>Caminhadas</li>
+ 	<li>Corridas</li>
+ 	<li>Ciclismo</li>
+ 	<li>Academia</li>
+ 	<li>Musculação</li>
+ 	<li>Crossfit</li>
+</ul>
+<i>Short Saia Emana Preto com Garantia contra defeitos de fabricação de 30 dias.</i>",,,taxable,,1,,0,0,500,26,16,7,1,,,,"Feminino > Anticelulite, Moda Fitness, Roupas Fitness, Feminino > Short Saia > Short Saia Academia, Feminino > Short Saia > Short Saia Fitness, Feminino, Feminino > Short Saia","Dia a Dia, Musculação",,"https://unlimit.fit/wp-content/uploads/2018/02/short-saia-feminino-emana-preto-unlimit-1.jpg, https://unlimit.fit/wp-content/uploads/2018/02/short-saia-feminino-emana-preto-unlimit-2.jpg, https://unlimit.fit/wp-content/uploads/2018/02/short-saia-feminino-emana-preto-unlimit-3.jpg",,,,,,,,,0,Tamanho,"P, M, G",1,0,P,Cores,Preto,1,0,Preto
+917,variation,38128617,"Short Saia Emana Unlimit - Preto - P, Preto",1,0,visible,,,,,taxable,,backorder,0,0,0,,,,,0,,,"89,9000000000",,,,,,,38128616,,,,,,0,Tamanho,P,,0,,Cores,Preto,,0,
+918,variation,38128618,"Short Saia Emana Unlimit - Preto - M, Preto",1,0,visible,,,,,taxable,,1,2,0,0,,,,,0,,,"89,9000000000",,,,,,,38128616,,,,,,0,Tamanho,M,,0,,Cores,Preto,,0,
+919,variation,38128619,"Short Saia Emana Unlimit - Preto - G, Preto",1,0,visible,,,,,taxable,,1,1,0,0,,,,,0,,,"89,9000000000",,,,,,,38128616,,,,,,0,Tamanho,G,,0,,Cores,Preto,,0,
+920,variable,38128624,"Short Saia Emana Unlimit - Cinza",1,0,visible,,"<h2>Short Saia Emana Unlimit Cinza</h2>
+Este <strong>Short Saia Emana Unlimit Cinza </strong>é feito de um dos tecidos que mais faz sucesso entre o público feminino, o Emana tem como um dos seus grandes benefícios a diminuição dos sinas de celulite, proporcionando uma pele mais lisa e jovem. Contém cristais bioativos e minerais emissores infravermelhos, que ao absorver o calor promovem a bioestimulação do metabolismo.
+
+Tem bioestimulação, que faz o rendimento físico melhorar em diversos fatores, principalmente diminuindo a fadiga com menor consumo de oxigênio. O fio também contribui para uma rápida recuperação muscular, maior elasticidade da pele e equilíbrio térmico.
+
+Saiba mais sobre o tecido em <a href=""http://emanafiber.com"">www.emanafiber.com</a>
+
+Tecnologias do tecido:
+<ul>
+ 	<li>Anticelulite</li>
+ 	<li style=""margin-bottom: 0px;"">Aumenta o conforto dos seios para treinos</li>
+ 	<li style=""margin-bottom: 0px;"">Bojo</li>
+ 	<li>Redução da fadiga muscular</li>
+ 	<li>Rápida recuperação muscular</li>
+ 	<li>Aumento da performance esportiva</li>
+ 	<li>Eco-Dry (secagem rápida)</li>
+ 	<li>Easy Care, não precisa passar</li>
+ 	<li>Proteção UV50 contra radiação ultravioleta</li>
+ 	<li>Isento de produtos tóxicos com certificação Oeko-Tex 100 Classe I</li>
+ 	<li>Composição: 84% Poliamida 16% Elastano</li>
+</ul>
+Para vestir-se bem em:
+<ul>
+ 	<li>No seu dia a dia</li>
+ 	<li>Caminhadas</li>
+ 	<li>Corridas</li>
+ 	<li>Ciclismo</li>
+ 	<li>Academia</li>
+ 	<li>Musculação</li>
+ 	<li>Crossfit</li>
+</ul>
+<i>Short Saia Emana Cinza com Garantia contra defeitos de fabricação de 30 dias.</i>",,,taxable,,1,,0,0,400,26,16,7,1,,,,"Feminino > Anticelulite, Moda Fitness, Roupas Fitness, Feminino > Short Saia > Short Saia Academia, Feminino > Short Saia > Short Saia Fitness, Feminino, Feminino > Short Saia","Dia a Dia, Musculação",,"https://unlimit.fit/wp-content/uploads/2018/02/short-saia-feminino-emana-cinza-unlimit-1.jpg, https://unlimit.fit/wp-content/uploads/2018/02/short-saia-feminino-emana-cinza-unlimit-2.jpg, https://unlimit.fit/wp-content/uploads/2018/02/short-saia-feminino-emana-cinza-unlimit-3.jpg",,,,,,,,,0,Tamanho,"P, M, G",1,0,P,Cores,Cinza,1,0,Cinza
+921,variation,38128625,"Short Saia Emana Unlimit - Cinza - P, Cinza",1,0,visible,,,,,taxable,,1,2,0,0,,,,,0,,,"89,9000000000",,,,,,,38128624,,,,,,0,Tamanho,P,,0,,Cores,Cinza,,0,
+922,variation,38128626,"Short Saia Emana Unlimit - Cinza - M, Cinza",1,0,visible,,,,,taxable,,1,1,0,0,,,,,0,,,"89,9000000000",,,,,,,38128624,,,,,,0,Tamanho,M,,0,,Cores,Cinza,,0,
+935,variation,38128627,"Short Saia Emana Unlimit - Cinza - G, Cinza",1,0,visible,,,,,taxable,,1,2,0,0,,,,,0,,,"89,9000000000",,,,,,,38128624,,,,,,0,Tamanho,G,,0,,Cores,Cinza,,0,
+936,variable,38128620,"Short Saia Emana Unlimit - Bordô",1,0,visible,,"<h2>Short Saia Emana Unlimit Bordô</h2>
+Este <strong>Short Saia Emana Unlimit Bordô </strong>é feito de um dos tecidos que mais faz sucesso entre o público feminino, o Emana tem como um dos seus grandes benefícios a diminuição dos sinas de celulite, proporcionando uma pele mais lisa e jovem. Contém cristais bioativos e minerais emissores infravermelhos, que ao absorver o calor promovem a bioestimulação do metabolismo.
+
+Tem bioestimulação, que faz o rendimento físico melhorar em diversos fatores, principalmente diminuindo a fadiga com menor consumo de oxigênio. O fio também contribui para uma rápida recuperação muscular, maior elasticidade da pele e equilíbrio térmico.
+
+Saiba mais sobre o tecido em <a href=""http://emanafiber.com"">www.emanafiber.com</a>
+
+Tecnologias do tecido:
+<ul>
+ 	<li>Anticelulite</li>
+ 	<li style=""margin-bottom: 0px;"">Aumenta o conforto dos seios para treinos</li>
+ 	<li style=""margin-bottom: 0px;"">Bojo</li>
+ 	<li>Redução da fadiga muscular</li>
+ 	<li>Rápida recuperação muscular</li>
+ 	<li>Aumento da performance esportiva</li>
+ 	<li>Eco-Dry (secagem rápida)</li>
+ 	<li>Easy Care, não precisa passar</li>
+ 	<li>Proteção UV50  contra radiação ultravioleta</li>
+ 	<li>Isento de produtos tóxicos com certificação Oeko-Tex 100 Classe I</li>
+ 	<li>Composição: 84% Poliamida 16% Elastano</li>
+</ul>
+<h3>Comprar Short Saia Emana para vestir-se bem em:</h3>
+<ul>
+ 	<li>No seu dia a dia</li>
+ 	<li>Caminhadas</li>
+ 	<li>Corridas</li>
+ 	<li>Ciclismo</li>
+ 	<li>Academia</li>
+ 	<li>Musculação</li>
+ 	<li>Crossfit</li>
+</ul>
+<i>Short Saia Emana Bordô com Garantia contra defeitos de fabricação de 30 dias.</i>",,,taxable,,1,,0,0,500,26,16,7,1,,,,"Feminino > Anticelulite, Moda Fitness, Roupas Fitness, Feminino > Short Saia > Short Saia Academia, Feminino > Short Saia > Short Saia Fitness, Feminino, Feminino > Short Saia","Dia a Dia, Musculação",,"https://unlimit.fit/wp-content/uploads/2018/02/short-saia-feminino-emana-bordo-unlimit-1.jpg, https://unlimit.fit/wp-content/uploads/2018/02/short-saia-feminino-emana-bordo-unlimit-2.jpg, https://unlimit.fit/wp-content/uploads/2018/02/short-saia-feminino-emana-bordo-unlimit-3.jpg",,,,,,,,,0,Tamanho,"P, M, G",1,0,P,Cores,Bordô,1,0,Bordô
+937,variation,38128621,"Short Saia Emana Unlimit - Bordô - P, Bordô",1,0,visible,,,,,taxable,,backorder,0,0,0,,,,,0,,,"89,9000000000",,,,,,,38128620,,,,,,0,Tamanho,P,,0,,Cores,Bordô,,0,
+938,variation,38128622,"Short Saia Emana Unlimit - Bordô - M, Bordô",1,0,visible,,,,,taxable,,backorder,0,0,0,,,,,0,,,"89,9000000000",,,,,,,38128620,,,,,,0,Tamanho,M,,0,,Cores,Bordô,,0,
+939,variation,38128623,"Short Saia Emana Unlimit - Bordô - G, Bordô",1,0,visible,,,,,taxable,,1,4,0,0,,,,,0,,,"89,9000000000",,,,,,,38128620,,,,,,0,Tamanho,G,,0,,Cores,Bordô,,0,
+940,variable,38128628,"Regata Feminina Confort Unlimit UV50  - Branca",1,1,visible,"<span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Esta Regata Feminina Confort Branca foi desenvolvida para prática de esportes e treinos. Ela tem sistema Eco-Dry de secagem rápida que mantem o corpo seco e livre. Também protege a pele dos raios do sol, pois tem proteção UV50  contra raios ultravioleta. Seu tecido é sustentável, ecológico e biodegradável, após descarte, desaparece em até 3 anos.</span>","<h2 style=""font-weight: normal; line-height: 1.2; color: #333333; font-family: sans-serif, Arial, Verdana, 'Trebuchet MS';""><strong>Regata Feminina Confort Unlimit UV50  Branca</strong></h2>
+<p style=""margin: 0px 0px 25px; color: #1c1d1d; font-family: HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Esta Regata Feminina Confort Branca foi desenvolvida para prática de esportes e treinos. Ela tem sistema Eco-Dry de secagem rápida que mantem o corpo seco e livre. Também protege a pele dos raios do sol, pois tem proteção UV50  contra raios ultravioleta. Seu tecido é sustentável, ecológico e biodegradável, após descarte, desaparece em até 3 anos.</span></p>
+
+<ul>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Tecnologias do tecido:</span></li>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;""><a class=""text-link"" style=""color: #6e31eb; text-decoration: none; border-width: 0px 0px 1px; border-style: none none solid; border-bottom-color: #6e31eb; padding: 0px; margin: 0px;"" href=""http://www.guiajeanswear.com.br/noticias/5135/santaconstancia-apresenta-familia-de-tecidos-ecofriendly.aspx"">Co2 Control </a> – tecido ecológico para roupas fitnes, biodegradável, após descarte, desaparece em até 3 anos. Boas práticas ambientais, rastreabilidade e matérias primas, menos na parte da tela.</span></li>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Eco-Dry (secagem rápida)</span></li>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Easy Care, não precisa passar</span></li>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Proteção UV50  contra radiação ultravioleta.</span></li>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Isento de produtos tóxicos com certificação Oeko-Tex 100 Classe I</span></li>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Composição:  100% Poliamida</span></li>
+</ul>
+<p style=""margin: 0px 0px 25px; color: #1c1d1d; font-family: HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;""><em><strong>Para vestir-se bem em:</strong></em></span></p>
+
+<ul style=""margin: 0px 0px 25px 20px; padding: 0px; color: #1c1d1d; font-family: HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"">
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">No seu dia a dia</span></li>
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Caminhadas</span></li>
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Corridas</span></li>
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Ciclismo</span></li>
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Academia</span></li>
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Musculação</span></li>
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Crossfit</span></li>
+</ul>
+<p style=""color: #333333; font-family: sans-serif, Arial, Verdana, 'Trebuchet MS'; font-size: 13px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Composição: Tecido 100% Poliamida</span>
+<span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;""> Tela 91% Poliamida 9% Elastano</span></p>
+<span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;""><i style=""color: #333333;"">Regata Feminina </i><i>Confort Branca </i><i style=""color: #333333;"">com Garantia contra defeitos de fabricação de 30 dias.</i></span>",,,taxable,,1,,0,0,500,26,16,7,1,,,,"Feminino > Regata Feminina > Camiseta Regata Feminina, Moda Fitness, Feminino > Regata Feminina > Regata Academia, Feminino > Regata Feminina > Regata Fitness, Feminino > Regata Feminina > Regata Nadador, Feminino > Regata Feminina > Regata UV, Roupas Fitness, Feminino, Feminino > Regata Feminina, sale","Corrida, CrossFit, Dia a Dia, Musculação",,"https://unlimit.fit/wp-content/uploads/2018/02/camiseta-regata-confort-eco-dry-branca-unlimit-1.jpg, https://unlimit.fit/wp-content/uploads/2018/02/camiseta-regata-confort-eco-dry-branca-unlimit-2.jpg, https://unlimit.fit/wp-content/uploads/2018/02/camiseta-regata-confort-eco-dry-branca-unlimit-3.jpg",,,,,,,,,0,Tamanho,"P, M, G",1,0,P,Cores,Branca,1,0,Branca
+941,variation,38128629,"Regata Feminina Confort Unlimit UV50  - Branca - P, Branca",1,0,visible,,,,,taxable,,1,1,0,0,,,,,0,,"45,90","89,9000000000",,,,,,,38128628,,,,,,0,Tamanho,P,,0,,Cores,Branca,,0,
+942,variation,38128630,,1,0,visible,,,,,taxable,,1,2,0,0,,,,,0,,"45,90","89,9000000000",,,,,,,,,,,,,0,,,,,,,,,,
+943,variation,38128631,"Regata Feminina Confort Unlimit UV50  - Branca - G, Branca",1,0,visible,,,,,taxable,,1,3,0,0,,,,,0,,"45,90","89,9000000000",,,,,,,38128628,,,,,,0,Tamanho,G,,0,,Cores,Branca,,0,
+944,variable,38128636,"Regata Feminina Confort Unlimit Proteção Solar - Rosa",1,0,visible,"<span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Esta <strong>Regata Feminina Confort Rosa</strong> foi desenvolvida para prática de esportes e treinos. Ela tem sistema Eco-Dry de secagem rápida que mantem o corpo seco e livre. Também protege a pele dos raios do sol, pois tem proteção UV50  contra raios ultravioleta. Seu tecido é sustentável, ecológico e biodegradável, após descarte, desaparece em até 3 anos.</span>","<h2 style=""font-weight: normal; line-height: 1.2; color: #333333; font-family: sans-serif, Arial, Verdana, 'Trebuchet MS';""><strong>Regata Feminina Confort Unlimit Proteção Solar Rosa </strong></h2>
+<p style=""margin: 0px 0px 25px; color: #1c1d1d; font-family: HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Esta <strong>Regata Feminina Confort Rosa</strong> foi desenvolvida para prática de esportes e treinos. Ela tem sistema Eco-Dry de secagem rápida que mantem o corpo seco e livre. Também protege a pele dos raios do sol, pois tem proteção UV50  contra raios ultravioleta. Seu tecido é sustentável, ecológico e biodegradável, após descarte, desaparece em até 3 anos.</span></p>
+
+<ul>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Tecnologias do tecido:</span></li>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;""><a class=""text-link"" style=""color: #6e31eb; text-decoration: none; border-width: 0px 0px 1px; border-style: none none solid; border-bottom-color: #6e31eb; padding: 0px; margin: 0px;"" href=""http://www.guiajeanswear.com.br/noticias/5135/santaconstancia-apresenta-familia-de-tecidos-ecofriendly.aspx"">Co2 Control </a> – tecido ecológico para roupas fitnes, biodegradável, após descarte, desaparece em até 3 anos. Boas práticas ambientais, rastreabilidade e matérias primas, menos na parte da tela.</span></li>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Eco-Dry (secagem rápida)</span></li>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Easy Care, não precisa passar</span></li>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Proteção UV50  contra radiação ultravioleta.</span></li>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Isento de produtos tóxicos com certificação Oeko-Tex 100 Classe I</span></li>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Composição:  100% Poliamida</span></li>
+</ul>
+<p style=""margin: 0px 0px 25px; color: #1c1d1d; font-family: HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;""><em><strong>Para vestir-se bem em:</strong></em></span></p>
+
+<ul style=""margin: 0px 0px 25px 20px; padding: 0px; color: #1c1d1d; font-family: HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"">
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">No seu dia a dia</span></li>
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Caminhadas</span></li>
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Corridas</span></li>
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Ciclismo</span></li>
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Academia</span></li>
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Musculação</span></li>
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Crossfit</span></li>
+</ul>
+<p style=""color: #333333; font-family: sans-serif, Arial, Verdana, 'Trebuchet MS'; font-size: 13px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Composição: Tecido 100% Poliamida</span>
+<span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;""> Tela 91% Poliamida 9% Elastano</span></p>
+<span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;""><i style=""color: #333333;"">Regata Feminina </i><i>Confort Rosa </i><i style=""color: #333333;"">com Garantia contra defeitos de fabricação de 30 dias.</i></span>",,,taxable,,1,,0,0,500,26,16,7,1,,,,"Feminino > Regata Feminina > Camiseta Regata Feminina, Moda Fitness, Feminino > Regata Feminina > Regata Academia, Feminino > Regata Feminina > Regata Fitness, Feminino > Regata Feminina > Regata Nadador, Feminino > Regata Feminina > Regata UV, Roupas Fitness, Feminino, Feminino > Regata Feminina, sale","Corrida, CrossFit, Dia a Dia, Musculação",,"https://unlimit.fit/wp-content/uploads/2018/02/camiseta-regata-confort-eco-dry-rosa-unlimit-1.jpg, https://unlimit.fit/wp-content/uploads/2018/02/camiseta-regata-confort-eco-dry-rosa-unlimit-2.jpg, https://unlimit.fit/wp-content/uploads/2018/02/camiseta-regata-confort-eco-dry-rosa-unlimit-3.jpg",,,,,,,,,0,Tamanho,"P, M, G",1,0,P,Cores,Rosa,1,0,Rosa
+945,variation,38128637,"Regata Feminina Confort Unlimit Proteção Solar - Rosa - P, Rosa",1,0,visible,,,,,taxable,,1,3,0,0,,,,,0,,"45,90","89,9000000000",,,,,,,38128636,,,,,,0,Tamanho,P,,0,,Cores,Rosa,,0,
+946,variation,38128638,"Regata Feminina Confort Unlimit Proteção Solar - Rosa - M, Rosa",1,0,visible,,,,,taxable,,1,3,0,0,,,,,0,,"45,90","89,9000000000",,,,,,,38128636,,,,,,0,Tamanho,M,,0,,Cores,Rosa,,0,
+947,variation,38128639,"Regata Feminina Confort Unlimit Proteção Solar - Rosa - G, Rosa",1,0,visible,,,,,taxable,,1,4,0,0,,,,,0,,"45,90","89,9000000000",,,,,,,38128636,,,,,,0,Tamanho,G,,0,,Cores,Rosa,,0,
+948,variable,38128632,"Regata Feminina Confort Unlimit Dry - Amarela",1,0,visible,"<span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Esta <strong>Regata Feminina Confort Amarela</strong> foi desenvolvida para prática de esportes e treinos. Ela tem sistema Eco-Dry de secagem rápida que mantem o corpo seco e livre. Também protege a pele dos raios do sol, pois tem proteção UV50  contra raios ultravioleta. Seu tecido é sustentável, ecológico e biodegradável, após descarte, desaparece em até 3 anos.</span>","<h2 style=""font-weight: normal; line-height: 1.2; color: #333333; font-family: sans-serif, Arial, Verdana, 'Trebuchet MS';""><strong>Regata Feminina Confort Unlimit UV50  Amarela</strong></h2>
+<p style=""margin: 0px 0px 25px; color: #1c1d1d; font-family: HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Esta <strong>Regata Feminina Confort Amarela</strong> foi desenvolvida para prática de esportes e treinos. Ela tem sistema Eco-Dry de secagem rápida que mantem o corpo seco e livre. Também protege a pele dos raios do sol, pois tem proteção UV50  contra raios ultravioleta. Seu tecido é sustentável, ecológico e biodegradável, após descarte, desaparece em até 3 anos.</span></p>
+
+<ul>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Tecnologias do tecido:</span></li>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;""><a class=""text-link"" style=""color: #6e31eb; text-decoration: none; border-width: 0px 0px 1px; border-style: none none solid; border-bottom-color: #6e31eb; padding: 0px; margin: 0px;"" href=""http://www.guiajeanswear.com.br/noticias/5135/santaconstancia-apresenta-familia-de-tecidos-ecofriendly.aspx"">Co2 Control </a> – tecido ecológico para roupas fitnes, biodegradável, após descarte, desaparece em até 3 anos. Boas práticas ambientais, rastreabilidade e matérias primas, menos na parte da tela.</span></li>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Eco-Dry (secagem rápida)</span></li>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Easy Care, não precisa passar</span></li>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Proteção UV50  contra radiação ultravioleta.</span></li>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Isento de produtos tóxicos com certificação Oeko-Tex 100 Classe I</span></li>
+ 	<li><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Composição:  100% Poliamida</span></li>
+</ul>
+<p style=""margin: 0px 0px 25px; color: #1c1d1d; font-family: HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;""><em><strong>Para vestir-se bem em:</strong></em></span></p>
+
+<ul style=""margin: 0px 0px 25px 20px; padding: 0px; color: #1c1d1d; font-family: HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"">
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">No seu dia a dia</span></li>
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Caminhadas</span></li>
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Corridas</span></li>
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Ciclismo</span></li>
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Academia</span></li>
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Musculação</span></li>
+ 	<li style=""margin-bottom: 0px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Crossfit</span></li>
+</ul>
+<p style=""color: #333333; font-family: sans-serif, Arial, Verdana, 'Trebuchet MS'; font-size: 13px;""><span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;"">Composição: Tecido 100% Poliamida</span>
+<span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;""> Tela 91% Poliamida 9% Elastano</span></p>
+<span style=""font-family: helvetica, arial, sans-serif; font-size: 14px;""><i style=""color: #333333;"">Regata Feminina </i><i>Confort Amarela </i><i style=""color: #333333;"">com Garantia contra defeitos de fabricação de 30 dias.</i></span>",,,taxable,,1,,0,0,500,26,16,7,1,,,,"Feminino > Regata Feminina > Camiseta Regata Feminina, Moda Fitness, Feminino > Regata Feminina > Regata Academia, Feminino > Regata Feminina > Regata Fitness, Feminino > Regata Feminina > Regata Nadador, Feminino > Regata Feminina > Regata UV, Roupas Fitness, Feminino, Feminino > Regata Feminina, sale","Corrida, CrossFit, Dia a Dia, Musculação",,"https://unlimit.fit/wp-content/uploads/2018/02/camiseta-regata-confort-eco-dry-amarela-unlimit-1.jpg, https://unlimit.fit/wp-content/uploads/2018/02/camiseta-regata-confort-eco-dry-amarela-unlimit-2.jpg, https://unlimit.fit/wp-content/uploads/2018/02/camiseta-regata-confort-eco-dry-amarela-unlimit-3.jpg",,,,,,,,,0,Tamanho,"P, M, G",1,0,P,Cores,Amarela,1,0,Amarela
+949,variation,38128640,"Regata Feminina Confort Unlimit Dry - Amarela - P, Amarela",1,0,visible,,,,,taxable,,1,4,0,0,,,,,0,,"45,90","89,9000000000",,,,,,,38128632,,,,,,0,Tamanho,P,,0,,Cores,Amarela,,0,
+950,variation,38128641,"Regata Feminina Confort Unlimit Dry - Amarela - M, Amarela",1,0,visible,,,,,taxable,,1,4,0,0,,,,,0,,"45,90","89,9000000000",,,,,,,38128632,,,,,,0,Tamanho,M,,0,,Cores,Amarela,,0,
+963,variation,38128642,"Regata Feminina Confort Unlimit Dry - Amarela - G, Amarela",1,0,visible,,,,,taxable,,1,3,0,0,,,,,0,,"45,90","89,9000000000",,,,,,,38128632,,,,,,0,Tamanho,G,,0,,Cores,Amarela,,0,
+964,variable,38128545,"Bermuda Feminina Lycra Unlimit - Preta",1,0,visible,"Este <strong>Bermuda Feminina Lycra Unlimit </strong>tem efeito de compressão médio a alto e é feito de poliamida com Lycra que gera maior sensação de conforto no corpo.","<h2>Bermuda Feminina Lycra Unlimit - Preta</h2>
+<h3><strong>Descrição do Produto:</strong></h3>
+Este <strong>Bermuda Feminina Lycra Unlimit </strong>tem efeito de compressão médio a alto e é feito de poliamida com Lycra que gera maior sensação de conforto no corpo. Esta bermuda é idealizada para pessoas que buscam ter maior performance em treinos e corridas, pois ela comprime o músculo da perna e aumenta o controle de temperatura.
+<h3><strong>Tecnologias do tecido:</strong></h3>
+<ul>
+ 	<li>Homologado Lycra</li>
+ 	<li>Proteção solar UV 50 contra radiação ultravioleta</li>
+ 	<li>Redução da fadiga muscular</li>
+ 	<li>Rápida recuperação muscular</li>
+ 	<li>Aumento da performance esportiva</li>
+ 	<li>Eco-Dry (secagem rápida)</li>
+ 	<li>Easy Care, não precisa passar</li>
+ 	<li>Composição: 76% Poliamida 24% Elastano</li>
+</ul>
+<h3><strong>Indicado para:</strong></h3>
+Esta Bermuda de Lycra pode ser utilizada em vários esportes como, corrida, academia, Crossfit, caminhadas, ou até em seu uso diário. Ela é perfeita para corridas por seu sistema de compressão que ajuda a comprimir os músculos da perna assim gerando menos dor.
+
+<strong>Você pode saber mais sobre em <a href=""http://blog.unlimit.fit"">blog.unlimit.fit</a>.</strong>
+<h3><strong>Garantia e Trocas Unlimit:</strong></h3>
+<em>Garantia contra defeitos de fabricação de 30 dias.
+Primeira troca grátis.
+Não gostou do produto? Devolvemos em até 30 dias.</em>
+
+Bermuda Feminina Lycra Unlimit - Preta<em> </em><em>
+</em>",,,taxable,,1,,0,0,350,26,16,7,1,,,,"Feminino > Bermuda Feminina > Bermuda Fitness, Feminino > Bermuda Feminina > Bermuda para Academia, Moda Fitness, Roupas Fitness, Feminino, Feminino > Bermuda Feminina, sale","Corrida, CrossFit, Musculação",,"https://unlimit.fit/wp-content/uploads/2018/02/biker-short-preto-unlimit.jpg, https://unlimit.fit/wp-content/uploads/2018/02/biker-short-preto-unlimit-2.jpg",,,,,,,,,0,Tamanho,"P, M, G",1,0,P,Cores,Preto,1,0,Preto
+965,variation,38128546,"Bermuda Feminina Lycra Unlimit - Preta - P, Preto",1,0,visible,,,,,taxable,,1,1,0,0,,,,,0,,"49,90","59,9000000000",,,,,,,38128545,,,,,,0,Tamanho,P,,0,,Cores,Preto,,0,
+966,variation,38128547,"Bermuda Feminina Lycra Unlimit - Preta - M, Preto",1,0,visible,,,,,taxable,,1,2,0,0,,,,,0,,"49,90","59,9000000000",,,,,,,38128545,,,,,,0,Tamanho,M,,0,,Cores,Preto,,0,
+967,variation,38128548,"Bermuda Feminina Lycra Unlimit - Preta - G, Preto",1,0,visible,,,,,taxable,,backorder,0,0,0,,,,,0,,"49,90","59,9000000000",,,,,,,38128545,,,,,,0,Tamanho,G,,0,,Cores,Preto,,0,

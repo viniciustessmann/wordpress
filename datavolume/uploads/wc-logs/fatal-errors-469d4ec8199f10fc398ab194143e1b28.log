@@ -1,0 +1,50 @@
+2018-08-06T14:41:03+00:00 CRITICAL Uncaught Error: Cannot access protected property WC_Pac_Shipping_Method::$code in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/lib/main.php:118
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/lib/main.php(267): wp_melhor_envio_shipping_calculator->update_shipping_method()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wp_melhor_envio_shipping_calculator->ajax_calc_shipping('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_ajax_ca...')
+#5 {main}
+  thrown
+
+2018-08-06T14:57:17+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Pac_Shipping_Method::getCode() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/lib/main.php:119
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/lib/main.php(270): wp_melhor_envio_shipping_calculator->update_shipping_method()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wp_melhor_envio_shipping_calculator->ajax_calc_shipping('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_ajax_ca...')
+#5 {main}
+  thrown
+
+2018-08-06T14:57:27+00:00 CRITICAL Uncaught Error: Cannot access protected property WC_Pac_Shipping_Method::$code in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/lib/main.php:119
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/lib/main.php(270): wp_melhor_envio_shipping_calculator->update_shipping_method()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wp_melhor_envio_shipping_calculator->ajax_calc_shipping('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_ajax_ca...')
+#5 {main}
+  thrown
+
+2018-08-06T15:19:23+00:00 CRITICAL Uncaught Error: Cannot access protected property WC_Pac_Shipping_Method::$code in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/lib/main.php:120
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/lib/main.php(272): wp_melhor_envio_shipping_calculator->update_shipping_method()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wp_melhor_envio_shipping_calculator->ajax_calc_shipping('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_ajax_ca...')
+#5 {main}
+  thrown
+
+2018-08-06T15:30:23+00:00 CRITICAL Uncaught Error: Call to undefined function getMethodsUseds() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/lib/main.php:115
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/lib/main.php(274): wp_melhor_envio_shipping_calculator->update_shipping_method()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): wp_melhor_envio_shipping_calculator->ajax_calc_shipping('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(97): do_action('wp_ajax_ajax_ca...')
+#5 {main}
+  thrown
+

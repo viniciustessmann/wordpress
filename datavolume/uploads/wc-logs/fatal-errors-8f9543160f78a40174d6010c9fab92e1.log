@@ -1,0 +1,33 @@
+2018-05-16T13:14:45+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order::get_order_id() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php:340
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(286): sv_wc_my_orders_melhor_rastreio(Object(WC_Order))
+#1 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/templates/myaccount/orders.php(47): do_action('woocommerce_my_...', Object(WC_Order))
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(211): include('/var/www/html/w...')
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2523): wc_get_template('myaccount/order...', Array)
+#6 /var/www/html/wp-includes/class-wp-hook.php(286): woocommerce_account_orders(1)
+#7 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#8 /var/www/html/wp-include
+
+2018-05-16T13:53:03+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/ME/orders.php:631
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/woocommerce-melhor-envio-integration.php(346): wpmelhorenvio_getTrackingApiMRClient(656, 'f0b9a574-0aa8-4...')
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): sv_wc_my_orders_melhor_rastreio(Object(WC_Order))
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-content/plugins/woocommerce/templates/myaccount/orders.php(47): do_action('woocommerce_my_...', Object(WC_Order))
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(211): include('/var/www/html/w...')
+#6 /var/www/html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2523): wc_get_template('myaccount/order...', Array)
+#7 /var/www/html/wp-includes/class-wp-hook.php(286): w
+
+2018-05-16T17:14:56+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Pac_Shipping_Method::get_shipping_classes_options() in /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/services/pac.php:146
+Stack trace:
+#0 /var/www/html/wp-content/plugins/melhor-envio-cotacao/classes/services/pac.php(28): WC_Pac_Shipping_Method->init_form_fields()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(179): WC_Pac_Shipping_Method->__construct()
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(157): WC_Shipping->register_shipping_method('WC_Pac_Shipping...')
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/gateways/cod/class-wc-gateway-cod.php(63): WC_Shipping->load_shipping_methods()
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/gateways/cod/class-wc-gateway-cod.php(28): WC_Gateway_COD->init_form_fields()
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-payment-gateways.php(105): WC_Gateway_COD->__construct()
+#6 /var/www/html/wp-content/plugins/
+

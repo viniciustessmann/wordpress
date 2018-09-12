@@ -1,0 +1,21 @@
+<h2>configurações</h2>
+<h3>Informações pessoais</h3>
+
+<div class="wrap"> 
+    <form method="post" action="{{ posturl }}">
+        <input type="hidden" name="action" value="savetoken" />
+        <div id="universal-message-container">
+            <h2>Universal Message</h2>
+ 
+            <div class="options">
+                <p>
+                    <label>What message would you like to display above each post?</label>
+                    <br />
+                    <input type="text" name="token" value="" />
+                </p>
+        </div><!-- #universal-message-container -->
+ 
+        <input type="submit" value="Salvar" />
+    </form>
+ 
+</div>

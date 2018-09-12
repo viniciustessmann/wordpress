@@ -1,0 +1,1774 @@
+2018-08-02 01:21:24 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-02 01:21:24 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-02 01:21:24 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-02 01:21:24 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-02 01:21:24 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-02 01:21:32 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-02 01:21:32 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-02 01:21:32 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-02 01:21:32 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-02 01:21:32 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-02 01:21:32 - COTACAO TELA DO PRODUTO: (Erro! CEP  invalido) 
+2018-08-02 01:26:00 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-02 01:26:00 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-02 01:26:00 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-02 01:26:00 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-02 01:26:00 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-02 01:26:21 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-02 01:26:21 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-02 01:26:21 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-02 01:26:21 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-02 01:26:21 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-02 01:26:40 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-02 01:26:40 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-02 01:26:40 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-02 01:26:40 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-02 01:26:40 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-02 01:26:48 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-02 01:26:48 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-02 01:26:48 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-02 01:26:48 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-02 01:26:48 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-02 02:09:28 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-02 02:09:28 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-02 02:09:28 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-02 02:09:28 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-02 02:09:28 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-02 02:32:55 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-02 02:32:55 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-02 02:32:55 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-02 02:32:55 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-02 02:32:55 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-02 02:32:55 - COTACAO TELA DO PRODUTO: (Erro! CEP 96554545 invalido) 
+2018-08-02 02:32:56 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-02 02:32:56 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-02 02:32:56 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-02 02:32:56 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-02 02:32:56 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-02 02:32:56 - COTACAO TELA DO PRODUTO: (Erro! CEP 9655454 invalido) 
+2018-08-02 02:44:27 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-02 02:44:27 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-02 02:44:27 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-02 02:44:27 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-02 02:44:27 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-02 02:44:28 - COTACAO TELA DO PRODUTO: (Erro! CEP 96545465 invalido) 
+2018-08-02 04:26:48 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-02 04:26:48 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-02 04:26:48 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-02 04:26:48 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-02 04:26:48 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-02 04:26:55 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-02 04:26:55 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-02 04:26:55 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-02 04:26:55 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-02 04:26:55 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-02 04:26:56 - COTACAO TELA DO PRODUTO: (Erro! CEP  invalido) 
+2018-08-02 04:48:42 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-02 04:48:42 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-02 04:48:42 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-02 04:48:42 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-02 04:48:42 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-02 04:49:12 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-02 04:49:12 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-02 04:49:12 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-02 04:49:12 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-02 04:49:12 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-02 04:49:18 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-02 04:49:18 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-02 04:49:18 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-02 04:49:18 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-02 04:49:18 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-02 04:49:48 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-02 04:49:48 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-02 04:49:48 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-02 04:49:48 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-02 04:49:48 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-02 04:49:53 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-02 04:49:53 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-02 04:49:53 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-02 04:49:53 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-02 04:49:53 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-02 04:50:22 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-02 04:50:22 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-02 04:50:22 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-02 04:50:22 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-02 04:50:22 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-02 04:50:25 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-02 04:50:25 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-02 04:50:25 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-02 04:50:25 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-02 04:50:25 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-02 04:50:49 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-02 04:50:49 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-02 04:50:49 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-02 04:50:49 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-02 04:50:49 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-02 04:51:07 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-02 04:51:07 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-02 04:51:07 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-02 04:51:07 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-02 04:51:07 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-02 04:51:15 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-02 04:51:15 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-02 04:51:15 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-02 04:51:15 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-02 04:51:15 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-02 04:51:36 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-02 04:51:36 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-02 04:51:36 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-02 04:51:36 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-02 04:51:36 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-02 04:51:36 - COTACAO TELA DO PRODUTO: (Erro! CEP yryttry invalido) 
+2018-08-02 04:59:55 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-02 04:59:55 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-02 04:59:55 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-02 04:59:55 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-02 04:59:55 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-02 05:00:15 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-02 05:00:15 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-02 05:00:15 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-02 05:00:15 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-02 05:00:15 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-02 05:00:21 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-02 05:00:21 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-02 05:00:21 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-02 05:00:21 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-02 05:00:21 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-03 04:53:05 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-03 04:53:05 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-03 04:53:05 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-03 04:53:05 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-03 04:53:05 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-03 05:18:48 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-03 05:18:48 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-03 05:18:48 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-03 05:18:48 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-03 05:18:48 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-03 06:16:25 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 06:16:26 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 06:17:25 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 06:19:27 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 06:20:56 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 06:22:08 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 06:24:09 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 06:26:10 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 06:28:11 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 06:30:11 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 06:32:12 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 06:34:12 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 06:36:12 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 06:38:13 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 06:40:00 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 06:42:01 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 06:44:02 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 06:46:02 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 06:48:03 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 06:50:04 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 06:51:44 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 06:53:44 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 06:54:24 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 06:54:26 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 06:54:29 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 06:55:34 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 06:55:52 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 06:55:55 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 06:57:17 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 06:57:20 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 06:58:26 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 07:00:27 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 07:02:29 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 07:04:28 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 07:05:35 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 07:07:36 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 07:07:39 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 07:08:47 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 07:10:49 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 07:12:50 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 07:13:19 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 07:13:22 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 07:13:31 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 07:13:34 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 07:15:03 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 07:16:04 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 07:17:51 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 07:25:30 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 07:27:30 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 07:29:32 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 07:31:31 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 07:33:32 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 07:35:33 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 07:37:33 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 07:39:35 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 07:41:01 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 07:43:14 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 07:43:17 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 07:43:20 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 07:43:23 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 07:44:20 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 07:44:50 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 07:45:00 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 07:45:48 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 07:46:57 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 07:49:05 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 07:52:42 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 07:54:43 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 07:56:34 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 07:57:34 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 07:58:34 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 08:00:52 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 08:02:52 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 08:04:36 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 08:05:41 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 08:05:58 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 08:06:47 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 08:07:53 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 08:08:53 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 08:13:57 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 08:15:03 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 08:16:52 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 08:18:00 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 08:19:54 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 08:20:03 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 08:21:10 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 08:22:10 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 08:36:11 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-03 08:39:40 - Error: (7)  Jamef. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 12:23:17 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 12:23:17 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 12:23:17 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 12:23:17 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 12:23:17 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 12:23:24 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 12:23:24 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 12:23:24 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 12:23:24 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 12:23:24 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 12:27:34 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 12:27:34 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 12:27:34 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 12:27:34 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 12:27:34 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 12:27:44 - COTACAO TELA DO PRODUTO: (cURL error 28: Operation timed out after 10000 milliseconds with 0 out of 0 bytes received) 
+2018-08-06 12:28:00 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 12:28:00 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 12:28:00 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 12:28:00 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 12:28:00 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 12:33:32 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 12:33:32 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 12:33:32 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 12:33:32 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 12:33:32 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 12:33:44 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 12:33:44 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 12:33:44 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 12:33:44 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 12:33:44 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 12:44:03 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 12:44:03 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 12:44:03 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 12:44:03 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 12:44:03 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 12:44:11 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 12:44:11 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 12:44:11 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 12:44:11 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 12:44:11 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 12:44:20 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 12:44:20 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 12:44:20 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 12:44:20 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 12:44:20 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 12:44:42 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 12:44:42 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 12:44:42 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 12:44:42 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 12:44:42 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 12:44:48 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 12:44:48 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 12:44:48 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 12:44:48 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 12:44:48 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 02:38:31 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 02:39:11 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 02:40:11 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 02:41:11 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 02:41:27 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 02:41:30 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 02:41:34 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 02:42:10 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 02:42:12 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 02:42:13 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 02:42:53 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 02:42:55 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 02:42:55 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 02:42:55 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 02:42:55 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 02:42:55 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 02:44:13 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 02:46:13 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 02:48:14 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 02:50:14 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 04:17:23 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 04:19:24 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 04:21:24 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 04:23:25 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 04:25:27 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 04:27:27 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 04:32:42 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 04:33:42 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 04:35:43 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 04:37:46 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 04:39:45 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 04:40:52 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 04:42:53 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 04:44:53 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 04:46:54 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 04:48:55 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 04:50:11 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 04:52:11 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 04:54:12 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 04:55:15 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 04:56:14 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 04:57:50 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 04:57:55 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 04:57:58 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 04:58:02 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 04:58:06 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 04:58:09 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 04:58:25 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 04:58:28 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 04:58:28 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 04:58:28 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 04:58:28 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 04:58:28 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 05:00:01 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:02:02 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:02:44 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:02:48 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:02:52 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:03:03 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:03:40 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:03:43 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:03:55 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:03:57 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 05:03:57 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 05:03:57 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 05:03:57 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 05:03:57 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 05:04:06 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:05:04 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:05:53 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:06:04 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:07:05 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:07:26 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:07:26 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:07:32 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:07:32 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 05:07:32 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 05:07:32 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 05:07:32 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 05:07:32 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 05:07:36 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:07:36 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:07:48 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:07:48 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 05:07:48 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 05:07:48 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 05:07:48 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 05:07:48 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 05:08:05 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:08:54 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:08:54 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:08:58 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:08:58 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 05:08:58 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 05:08:58 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 05:08:58 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 05:08:58 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 05:09:13 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:09:14 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:09:16 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:09:22 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:09:23 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:09:27 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:09:27 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 05:09:27 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 05:09:27 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 05:09:27 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 05:09:27 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 05:09:47 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:09:47 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:09:48 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:09:48 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:09:54 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:09:54 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:10:02 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:10:02 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:10:03 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:10:03 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:10:13 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:10:30 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:26:24 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 05:26:24 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 05:26:24 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 05:26:24 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 05:26:24 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 05:27:51 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:29:52 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:31:53 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:33:54 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:35:51 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:35:51 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:35:55 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:36:18 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:36:18 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 05:36:18 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 05:36:18 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 05:36:18 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 05:36:18 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 05:36:55 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:36:56 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:37:05 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:37:58 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:38:05 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:38:10 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:38:46 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:38:46 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 05:38:46 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 05:38:46 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 05:38:46 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 05:38:46 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 05:39:11 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:41:03 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:41:03 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 05:41:03 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 05:41:03 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 05:41:03 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 05:41:03 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 05:41:12 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:43:14 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:45:14 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:47:16 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:47:41 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:47:41 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 05:47:41 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 05:47:41 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 05:47:41 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 05:47:41 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 05:47:53 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:47:53 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 05:47:53 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 05:47:53 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 05:47:53 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 05:47:53 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 05:48:09 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:48:09 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 05:48:09 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 05:48:09 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 05:48:09 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 05:48:09 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 05:48:33 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:48:33 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 05:48:33 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 05:48:33 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 05:48:33 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 05:48:33 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 05:56:32 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:57:17 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:57:17 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 05:57:17 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 05:57:17 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 05:57:17 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 05:57:17 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 05:57:27 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:57:27 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 05:57:27 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 05:57:27 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 05:57:27 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 05:57:27 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 05:57:32 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:57:36 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 05:57:36 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 05:57:36 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 05:57:36 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 05:57:36 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 05:57:36 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 05:59:14 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 06:03:31 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 06:03:31 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 06:03:31 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 06:03:31 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 06:03:31 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 06:03:31 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 06:03:35 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 06:03:35 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 06:03:35 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 06:03:35 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 06:03:35 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 06:03:35 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 06:03:42 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 06:03:42 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 06:03:42 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 06:03:42 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 06:03:42 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 06:03:42 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 06:07:10 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 06:07:10 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 06:07:10 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 06:07:10 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 06:07:10 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 06:07:10 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 06:07:59 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 06:07:59 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 06:07:59 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 06:07:59 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 06:07:59 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 06:07:59 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 06:08:44 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 06:08:44 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 06:08:44 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 06:08:44 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 06:08:44 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 06:08:44 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 06:09:29 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 06:09:29 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 06:09:29 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 06:09:29 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 06:09:29 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 06:09:29 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 06:16:10 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 06:16:10 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 06:16:10 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 06:16:10 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 06:16:10 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 06:16:10 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 06:17:05 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 06:17:05 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 06:17:05 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 06:17:05 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 06:17:05 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 06:17:05 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 06:19:12 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 06:19:12 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 06:19:12 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 06:19:12 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 06:19:12 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 06:19:12 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 06:19:23 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 06:19:23 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 06:19:23 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 06:19:23 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 06:19:23 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 06:19:23 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 06:21:11 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 06:21:11 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 06:21:11 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 06:21:11 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 06:21:11 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 06:21:11 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 06:21:24 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 06:21:24 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 06:21:24 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 06:21:24 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 06:21:24 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 06:21:24 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 06:21:42 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 06:21:42 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 06:21:42 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 06:21:42 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 06:21:42 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 06:21:42 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 06:22:33 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 06:22:33 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 06:22:33 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 06:22:33 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 06:22:33 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 06:22:33 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 06:24:27 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 06:24:27 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 06:24:27 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 06:24:27 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 06:24:27 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 06:24:27 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 06:27:44 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 06:27:44 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 06:27:44 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 06:27:44 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 06:27:44 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 06:27:44 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 06:28:02 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 06:28:02 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 06:28:02 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 06:28:02 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 06:28:02 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 06:28:02 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 06:28:59 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 06:28:59 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 06:28:59 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 06:28:59 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 06:28:59 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 06:28:59 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 06:29:16 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 06:29:16 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 06:29:16 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 06:29:16 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 06:29:16 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 06:29:16 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 06:30:23 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 06:30:23 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 06:30:23 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 06:30:23 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 06:30:23 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 06:30:23 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 06:30:48 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 06:30:48 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 06:30:48 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 06:30:48 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 06:30:48 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 06:30:48 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 06:32:54 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 06:32:54 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 06:32:54 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 06:32:54 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 06:32:54 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 06:32:54 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 06:33:53 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 06:33:53 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 06:33:53 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 06:33:53 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 06:33:53 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 06:33:53 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 06:34:30 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 06:34:30 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 06:34:30 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 06:34:30 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 06:34:30 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 06:34:30 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 06:34:45 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 06:34:45 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 06:34:45 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 06:34:45 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 06:34:45 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 06:34:45 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 06:34:54 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 06:34:54 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 06:34:54 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 06:34:54 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 06:34:54 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 06:34:54 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 06:34:59 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 06:35:00 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 06:35:21 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 06:35:21 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 06:35:21 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 06:35:21 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 06:35:21 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 06:35:21 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 06:37:46 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 06:37:46 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 06:37:46 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 06:37:46 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 06:37:46 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 06:37:47 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 06:37:52 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 06:39:53 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 06:41:20 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 06:42:22 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 06:43:44 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 06:44:40 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 06:44:40 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 06:44:40 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 06:44:40 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 06:44:40 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 06:44:40 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 06:44:44 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 06:45:19 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 06:45:19 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 06:45:19 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 06:45:19 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 06:45:19 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 06:45:19 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 06:45:34 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 06:45:34 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 06:45:34 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 06:45:34 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 06:45:34 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 06:45:34 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 06:45:44 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 06:45:44 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 06:45:44 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 06:45:44 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 06:45:44 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 06:45:44 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 06:46:07 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 06:46:07 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 06:46:07 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 06:46:07 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 06:46:07 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 06:46:07 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 06:46:14 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 06:46:14 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 06:46:14 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 06:46:14 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 06:46:14 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 06:46:14 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 06:46:45 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 06:48:47 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 06:50:47 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 06:52:48 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 06:56:10 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 06:56:15 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 06:56:15 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 06:56:15 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 06:56:15 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 06:56:15 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 06:56:15 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 06:56:27 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 06:56:27 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 06:56:27 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 06:56:27 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 06:56:27 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 06:56:27 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 06:56:40 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 06:56:40 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 06:56:40 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 06:56:40 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 06:56:40 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 06:56:40 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 06:58:13 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 07:00:11 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 07:01:06 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 07:01:06 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 07:01:06 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 07:01:06 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 07:01:06 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 07:01:06 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 07:02:02 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 07:02:02 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 07:02:02 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 07:02:02 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 07:02:02 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 07:02:02 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 07:02:11 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 07:02:23 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 07:02:23 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 07:02:23 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 07:02:23 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 07:02:23 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 07:02:23 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 07:04:12 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 07:06:14 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 07:06:50 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 07:06:50 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 07:06:50 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 07:06:50 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 07:06:50 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 07:06:50 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 07:07:07 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 07:07:07 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 07:07:07 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 07:07:07 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 07:07:07 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 07:07:07 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 07:07:12 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 07:07:12 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 07:07:12 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 07:07:12 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 07:07:12 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 07:07:12 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 07:09:54 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 07:09:54 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 07:09:55 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 07:09:55 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 07:09:55 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 07:09:55 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 07:10:22 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 07:10:22 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 07:10:22 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 07:10:22 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 07:10:22 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 07:10:22 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 07:10:59 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 07:10:59 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 07:10:59 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 07:10:59 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 07:10:59 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 07:11:00 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 07:14:12 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 07:14:12 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 07:14:12 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 07:14:12 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 07:14:12 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 07:14:12 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 07:14:12 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 07:16:08 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 07:18:09 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 07:20:10 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 07:22:12 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 07:24:12 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 07:24:47 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 07:24:47 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 07:24:58 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 07:24:58 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 07:24:58 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 07:24:58 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 07:24:58 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 07:24:58 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 07:25:21 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 07:25:22 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 07:25:28 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 07:25:28 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 07:25:28 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 07:25:28 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 07:25:28 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 07:25:28 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 07:25:51 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 07:26:32 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 07:26:33 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 07:27:08 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 07:28:14 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 07:28:15 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 07:28:24 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 07:28:24 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 07:28:24 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 07:28:24 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 07:28:24 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 07:28:24 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 07:29:14 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 07:31:10 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 07:33:11 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 07:35:11 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 07:37:12 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 07:39:13 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 07:41:14 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 07:41:28 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 07:41:29 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 07:41:37 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 07:41:37 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 07:41:37 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 07:41:37 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 07:41:37 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 07:41:37 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 07:42:15 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 07:42:15 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 07:42:16 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 07:42:23 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 07:42:23 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-06 07:42:23 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-06 07:42:23 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-06 07:42:23 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-06 07:42:23 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-06 07:44:15 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 07:46:15 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 07:47:26 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 07:48:30 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 07:50:31 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-06 07:52:32 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-07 12:16:46 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-07 12:16:46 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-07 12:17:02 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-07 12:17:02 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-07 12:17:02 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-07 12:17:02 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-07 12:17:02 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-07 12:17:02 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-07 12:17:03 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-07 12:17:06 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-07 12:17:58 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-07 12:17:59 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-07 12:18:05 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-07 12:18:06 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-07 12:18:07 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-07 12:18:10 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-07 12:18:11 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-07 12:18:17 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-07 12:18:18 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-07 12:18:18 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-07 12:18:19 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-07 12:18:22 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-07 12:18:22 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-07 12:18:31 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-07 12:18:31 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-07 12:18:32 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-07 12:18:33 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-07 12:18:33 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-07 12:19:07 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-07 04:37:01 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-07 04:37:01 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-07 04:37:01 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-07 04:37:01 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-07 04:37:01 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-07 05:14:27 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-07 05:14:27 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-07 05:14:27 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-07 05:14:27 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-07 05:14:27 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-07 05:14:55 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-07 05:14:55 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-07 05:14:55 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-07 05:14:55 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-07 05:14:55 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-07 05:16:12 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-07 05:16:12 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-07 05:16:12 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-07 05:16:12 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-07 05:16:12 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-07 05:27:41 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-07 05:27:41 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-07 05:27:41 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-07 05:27:41 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-07 05:27:41 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-07 05:29:11 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-07 05:29:11 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-07 05:29:11 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-07 05:29:11 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-07 05:29:11 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-07 05:29:24 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-07 05:29:24 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-07 05:29:24 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-07 05:29:24 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-07 05:29:24 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-07 05:29:36 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-07 05:29:36 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-07 05:29:36 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-07 05:29:36 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-07 05:29:36 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-07 05:31:22 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-07 05:31:22 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-07 05:31:22 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-07 05:31:22 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-07 05:31:22 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-07 05:32:40 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-07 05:32:40 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-07 05:32:40 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-07 05:32:40 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-07 05:32:40 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-07 05:35:24 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-07 05:35:24 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-07 05:35:24 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-07 05:35:24 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-07 05:35:24 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-07 05:36:14 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-07 05:36:14 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-07 05:36:14 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-07 05:36:14 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-07 05:36:14 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-07 05:37:35 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-07 05:37:35 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-07 05:37:35 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-07 05:37:35 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-07 05:37:35 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-07 05:44:14 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-07 05:44:14 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-07 05:44:14 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-07 05:44:14 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-07 05:44:14 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-07 07:13:48 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-07 07:13:48 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-07 07:13:48 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-07 07:13:48 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-07 07:13:48 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-08 05:02:19 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-08 05:02:19 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-08 05:02:19 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-08 05:02:19 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-08 05:02:19 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-08 05:02:19 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"960203360"},"package":{"weight":"0.3","width":"20","height":"30","length":"16"},"services":"1,9"}) 
+2018-08-08 05:02:24 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-08 05:02:24 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-08 05:02:24 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-08 05:02:24 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-08 05:02:24 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-08 05:02:24 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020356"},"package":{"weight":"0.3","width":"20","height":"30","length":"16"},"services":"1,9"}) 
+2018-08-08 05:42:31 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-08 05:42:31 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-08 05:42:31 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-08 05:42:31 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-08 05:42:31 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-08 05:42:31 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":"0.3","width":"20","height":"30","length":"16"},"services":"1,9"}) 
+2018-08-13 06:35:45 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-13 06:35:45 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-13 06:35:45 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-13 06:35:45 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-13 06:35:45 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-13 06:35:45 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":"0.3","width":"20","height":"30","length":"16"},"services":"1,2,9"}) 
+2018-08-13 06:47:10 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-13 06:47:10 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-13 06:47:10 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-13 06:47:10 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-13 06:47:10 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-13 06:47:10 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":"0.3","width":"20","height":"30","length":"16"},"services":"1,2,9"}) 
+2018-08-13 06:47:56 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-13 06:47:56 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-13 06:47:56 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-13 06:47:56 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-13 06:47:56 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-13 06:47:56 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":"0.3","width":"20","height":"30","length":"16"},"services":"1,2,9"}) 
+2018-08-13 06:48:05 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-13 06:48:05 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-13 06:48:05 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-13 06:48:05 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-13 06:48:05 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-13 06:48:05 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96065710"},"package":{"weight":"0.3","width":"20","height":"30","length":"16"},"services":"1,2,9"}) 
+2018-08-13 06:48:36 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-13 06:48:36 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-13 06:48:36 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-13 06:48:36 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-13 06:48:36 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-13 06:48:36 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":"0.3","width":"20","height":"30","length":"16"},"services":"1,2,9"}) 
+2018-08-13 06:52:44 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-13 06:52:44 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-13 06:52:44 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-13 06:52:44 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-13 06:52:44 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-13 06:52:44 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":"0.3","width":"20","height":"30","length":"16"},"services":"1,2,9"}) 
+2018-08-13 06:58:41 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-13 06:58:41 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-13 06:58:41 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-13 06:58:41 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-13 06:58:41 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-13 06:58:41 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":"0.3","width":"20","height":"30","length":"16"},"services":"1,2,9"}) 
+2018-08-13 06:59:19 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-13 06:59:20 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-13 06:59:20 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-13 06:59:20 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-13 06:59:20 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-13 06:59:20 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":"0.3","width":"20","height":"30","length":"16"},"services":"1,2,9"}) 
+2018-08-13 06:59:29 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-13 06:59:29 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-13 06:59:29 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-13 06:59:29 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-13 06:59:29 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-13 06:59:29 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":"0.3","width":"20","height":"30","length":"16"},"services":"1,2,9"}) 
+2018-08-13 07:01:42 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-13 07:01:42 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-13 07:01:42 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-13 07:01:42 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-13 07:01:42 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-13 07:01:42 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":"0.3","width":"20","height":"30","length":"16"},"services":"1,2,9"}) 
+2018-08-13 07:02:01 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-13 07:02:01 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-13 07:02:01 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-13 07:02:01 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-13 07:02:01 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-13 07:02:01 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":"0.3","width":"20","height":"30","length":"16"},"services":"1,2,9"}) 
+2018-08-13 07:02:29 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-13 07:02:29 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-13 07:02:29 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-13 07:02:29 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-13 07:02:29 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-13 07:02:29 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":"0.3","width":"20","height":"30","length":"16"},"services":"1,2,9"}) 
+2018-08-13 07:06:47 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-13 07:06:47 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-13 07:06:47 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-13 07:06:47 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-13 07:06:47 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-13 07:06:47 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":"0.3","width":"20","height":"30","length":"16"},"services":"1,2,9,4"}) 
+2018-08-13 07:30:09 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-13 07:30:09 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-13 07:30:09 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-13 07:30:09 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-13 07:30:09 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-13 07:30:09 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":"0.3","width":"20","height":"30","length":"16"},"services":"1,2,9,4"}) 
+2018-08-13 07:31:56 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-13 07:31:56 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-13 07:31:56 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-13 07:31:56 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-13 07:31:56 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-13 07:31:56 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":"0.3","width":"20","height":"30","length":"16"},"services":"1,2,9,4"}) 
+2018-08-13 07:35:56 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-13 07:35:56 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-13 07:35:56 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-13 07:35:56 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-13 07:35:56 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-13 07:35:56 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":"0.3","width":"20","height":"30","length":"16"},"services":"1,2,9,4"}) 
+2018-08-13 07:37:27 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-13 07:37:27 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-13 07:37:27 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-13 07:37:27 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-13 07:37:27 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-13 07:37:27 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":"0.3","width":"20","height":"30","length":"16"},"services":"1,2,9,4"}) 
+2018-08-14 05:18:14 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-14 05:18:14 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-14 05:18:14 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-14 05:18:14 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-14 05:18:14 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-14 05:18:14 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":"0.3","width":"20","height":"30","length":"16"},"services":"1,2,9,4"}) 
+2018-08-14 05:26:27 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-14 05:26:27 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-14 05:26:27 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-14 05:26:27 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-14 05:26:27 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-14 05:26:27 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":"0.3","width":"20","height":"30","length":"16"},"services":"1,2,9,4"}) 
+2018-08-14 05:27:13 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-14 05:27:13 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-14 05:27:13 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-14 05:27:13 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-14 05:27:13 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-14 05:27:13 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":"0.3","width":"20","height":"30","length":"16"},"services":"1,2,9,4"}) 
+2018-08-14 06:49:03 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-14 06:49:03 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-14 06:49:03 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-14 06:49:03 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-14 06:49:03 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-14 06:49:03 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":"0.3","width":"20","height":"30","length":"16"},"services":"1,2,9,4"}) 
+2018-08-15 05:33:53 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-15 05:33:53 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-15 05:33:53 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-15 05:33:53 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-15 05:33:54 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-15 05:33:54 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":"0.3","width":"20","height":"30","length":"16"},"services":"1,2,9,4"}) 
+2018-08-22 07:09:51 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-22 07:09:51 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-22 07:09:51 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-22 07:09:51 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-22 07:09:51 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-22 07:09:51 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96065710"},"package":{"weight":"0.3","width":"20","height":"30","length":"16"},"services":""}) 
+2018-08-22 08:01:59 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-22 08:01:59 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-22 08:01:59 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-22 08:01:59 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-22 08:01:59 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-22 08:01:59 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96065710"},"package":{"weight":"0.3","width":"20","height":"30","length":"16"},"services":""}) 
+2018-08-24 07:26:11 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-08-24 09:33:39 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 28: Resolving timed out after 10518 milliseconds"]}) 
+2018-08-24 09:33:50 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 28: Resolving timed out after 10514 milliseconds"]}) 
+2018-08-24 09:34:00 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 28: Resolving timed out after 10516 milliseconds"]}) 
+2018-08-24 09:34:11 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 28: Resolving timed out after 10518 milliseconds"]}) 
+2018-08-24 09:34:21 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 28: Resolving timed out after 10516 milliseconds"]}) 
+2018-08-24 09:34:32 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 28: Resolving timed out after 10516 milliseconds"]}) 
+2018-08-24 09:34:42 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 28: Resolving timed out after 10517 milliseconds"]}) 
+2018-08-24 09:34:53 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 28: Resolving timed out after 10517 milliseconds"]}) 
+2018-08-24 09:35:03 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 28: Resolving timed out after 10516 milliseconds"]}) 
+2018-08-24 09:35:14 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 28: Resolving timed out after 10518 milliseconds"]}) 
+2018-08-24 09:35:24 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 28: Resolving timed out after 10521 milliseconds"]}) 
+2018-08-24 09:35:30 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:30 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:30 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:30 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:30 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:30 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:30 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:30 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:30 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:30 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:30 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:30 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:30 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:30 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:30 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:30 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:30 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:30 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:30 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:30 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:30 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:30 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:30 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:30 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:30 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:30 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:31 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:31 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:31 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:31 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:31 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:31 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:31 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:31 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:31 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:31 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:31 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:31 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:31 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:31 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:31 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:31 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:31 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:31 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:31 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:31 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:31 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:31 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:31 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:31 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:31 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:31 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:31 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:31 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:31 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:31 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:31 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:31 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:31 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:31 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:31 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:31 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:35:31 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:10 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:10 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:10 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:10 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:10 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:10 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:10 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:10 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:10 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:10 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:10 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:10 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:10 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:10 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:10 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:10 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:10 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:10 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:10 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:10 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:10 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:10 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:10 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:10 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:10 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:10 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:10 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:10 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:10 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:10 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:10 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:10 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:10 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:10 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:10 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:11 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:11 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:11 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:11 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:11 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:11 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:11 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:11 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:11 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:11 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:11 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:11 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:11 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:11 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:11 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:11 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:11 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:11 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:11 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:11 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:11 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:11 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:11 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:11 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:11 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:11 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:11 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:11 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:11 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:11 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:11 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:11 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:11 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:11 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:11 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:11 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:11 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:11 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:11 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:32 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:32 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:32 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:32 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:32 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:32 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:32 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:32 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:32 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:32 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:32 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:32 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:32 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:32 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:32 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:32 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:32 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:32 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:32 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:32 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:32 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:32 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:32 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:32 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:32 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:32 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:32 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:32 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:32 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:32 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:32 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:32 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:32 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:32 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:32 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:32 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:32 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:32 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:32 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:32 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:32 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:32 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:33 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:33 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:33 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:33 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:33 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:33 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:33 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:33 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:33 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:33 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:33 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:33 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:33 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:33 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:33 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:33 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:33 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:33 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:33 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:33 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:33 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:33 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:33 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:33 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:33 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:33 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:33 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:33 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:33 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:33 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:33 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:36:33 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 6: Could not resolve host: www.melhorenvio.com.br"]}) 
+2018-08-24 09:38:13 - COTACAO TELA DO PRODUTO: ({"http_request_failed":["cURL error 7: Failed to connect to www.melhorenvio.com.br port 443: Connection timed out"]}) 
+2018-08-24 11:17:45 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-24 11:17:45 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-24 11:17:45 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-24 11:17:45 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-24 11:17:45 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-24 11:17:45 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":"0.3","width":"20","height":"30","length":"16"},"services":"1,2,9,4"}) 
+2018-08-27 12:46:33 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-27 12:46:33 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-27 12:46:33 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-27 12:46:33 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-27 12:46:33 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-27 12:46:33 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":"0.3","width":"20","height":"30","length":"16"},"services":"1,2,9,4"}) 
+2018-08-27 01:01:01 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-27 01:01:01 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-27 01:01:01 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-27 01:01:01 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-27 01:01:47 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-27 01:01:47 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-27 01:01:47 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-27 01:01:47 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-27 01:01:47 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-27 01:01:47 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":"0.3","width":"20","height":"30","length":"16"},"services":"1,2,9,4"}) 
+2018-08-27 01:07:14 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-27 01:07:14 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-27 01:07:14 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-27 01:07:14 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-27 01:07:14 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-27 01:07:14 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":"0.3","width":"20","height":"30","length":"16"},"services":"1,2,9,4"}) 
+2018-08-27 01:07:37 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-27 01:07:37 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-27 01:07:37 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-27 01:07:37 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-27 01:07:37 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-27 01:07:37 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":"0.3","width":"20","height":"30","length":"16"},"services":"1,2,9,4"}) 
+2018-08-27 01:09:13 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-27 01:09:13 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-27 01:09:13 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-27 01:09:13 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-27 01:09:13 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-27 01:09:13 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":"0.3","width":"20","height":"30","length":"16"},"services":"1,2,9,4"}) 
+2018-08-27 01:09:15 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-27 01:09:15 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-27 01:09:15 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-27 01:09:15 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-27 01:09:15 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-27 01:09:15 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":"0.3","width":"20","height":"30","length":"16"},"services":"1,2,9,4"}) 
+2018-08-27 01:11:57 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-27 01:11:57 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-27 01:11:57 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-27 01:11:57 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-27 01:11:57 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-27 01:11:57 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":"0.3","width":"20","height":"30","length":"16"},"services":"1,2,9,4"}) 
+2018-08-27 01:12:41 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-27 01:12:41 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-27 01:12:41 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-27 01:12:41 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-27 01:12:41 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-27 01:12:41 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":"0.3","width":"20","height":"30","length":"16"},"services":"1,2,9,4"}) 
+2018-08-27 01:13:30 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-27 01:13:30 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-27 01:13:30 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-27 01:13:30 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-27 01:13:30 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-27 01:13:30 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":"0.3","width":"20","height":"30","length":"16"},"services":"1,2,9,4"}) 
+2018-08-27 01:21:07 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-27 01:21:07 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-27 01:21:07 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-27 01:21:07 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-27 01:21:07 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-27 01:21:07 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":"0.3","width":"20","height":"30","length":"16"},"services":"1,2,9,4"}) 
+2018-08-27 01:28:14 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-27 01:28:14 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-27 01:28:14 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-27 01:28:14 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-27 01:28:14 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-27 01:28:14 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":"0.3","width":"20","height":"30","length":"16"},"services":"1,2,9,4"}) 
+2018-08-27 01:30:47 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-27 01:30:47 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-27 01:30:47 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-27 01:30:47 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-27 01:30:47 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-27 01:30:47 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":"0.3","width":"20","height":"30","length":"16"},"services":"1,2,9,4"}) 
+2018-08-27 01:34:45 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-27 01:34:45 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-27 01:34:45 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-27 01:34:45 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-27 01:34:45 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-27 01:34:45 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":"0.3","width":"20","height":"30","length":"16"},"services":"1,2,9,4"}) 
+2018-08-27 01:37:27 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-27 01:37:27 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-27 01:37:27 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-27 01:37:27 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-27 01:37:27 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-27 01:37:27 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":"0.3","width":"20","height":"30","length":"16"},"services":"1,2,9,4"}) 
+2018-08-27 01:38:38 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-27 01:38:38 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-27 01:38:38 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-27 01:38:38 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-27 01:38:38 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-27 01:54:39 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-27 01:54:39 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-27 01:54:39 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-27 01:54:39 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-27 01:54:39 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-27 01:54:39 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":"0.3","width":"20","height":"30","length":"16"},"services":"1,2,9,4"}) 
+2018-08-27 02:00:13 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-27 02:00:13 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-27 02:00:13 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-27 02:00:13 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-27 02:00:13 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-27 02:00:13 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":"0.3","width":"20","height":"30","length":"16"},"services":"1,2,9,4"}) 
+2018-08-27 06:23:48 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-27 06:23:48 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-27 06:23:48 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-27 06:23:48 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-27 06:23:48 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-27 06:23:48 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":"1472","width":"20","height":"30","length":"16"},"services":"1,2,9,4"}) 
+2018-08-27 06:30:32 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-27 06:30:32 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-27 06:30:32 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-27 06:30:32 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-27 06:30:32 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-27 06:32:47 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-27 06:32:47 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-27 06:32:47 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-27 06:32:47 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-27 06:32:47 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-27 06:35:02 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-27 06:35:02 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-27 06:35:02 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-27 06:35:02 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-27 06:35:02 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-27 06:35:14 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-27 06:35:14 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-27 06:35:14 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-27 06:35:14 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-27 06:35:14 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-27 06:36:29 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-27 06:36:29 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-27 06:36:29 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-27 06:36:29 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-27 06:36:29 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-27 06:37:01 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-27 06:37:01 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-27 06:37:01 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-27 06:37:01 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-27 06:37:01 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-27 06:37:01 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":1.472,"width":"20","height":"30","length":"16"},"services":"1,2,9,4"}) 
+2018-08-27 06:50:26 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-27 06:50:26 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-27 06:50:26 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-27 06:50:26 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-27 06:50:26 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-27 06:50:26 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":1.472,"width":"20","height":"30","length":"16"},"services":"1,2,9,4"}) 
+2018-08-27 06:55:12 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-27 06:55:12 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-27 06:55:12 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-27 06:55:12 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-27 06:55:12 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-27 06:55:12 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":1.472,"width":"20","height":"30","length":"16"},"services":"1,2,9,4"}) 
+2018-08-27 07:04:03 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-27 07:04:03 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-27 07:04:03 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-27 07:04:03 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-27 07:04:03 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-27 07:04:03 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":1.472,"width":"20","height":"30","length":"16"},"services":"1,2,9,4"}) 
+2018-08-27 07:04:17 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-27 07:04:17 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-27 07:04:17 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-27 07:04:17 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-27 07:04:17 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-27 07:04:17 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":1.472,"width":"20","height":"30","length":"16"},"services":"1,2,9,4"}) 
+2018-08-27 07:04:43 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-27 07:04:43 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-27 07:04:43 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-27 07:04:43 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-27 07:04:43 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-27 07:04:43 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":1.472,"width":"20","height":"30","length":"16"},"services":"1,2,9,4"}) 
+2018-08-27 07:06:08 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-27 07:06:08 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-27 07:06:08 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-27 07:06:08 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-27 07:06:08 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-27 07:06:08 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":1.472,"width":"20","height":"30","length":"16"},"services":"1,2,9,4"}) 
+2018-08-27 07:06:47 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-27 07:06:47 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-27 07:06:47 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-27 07:06:47 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-27 07:06:47 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-27 07:06:47 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":1.472,"width":"20","height":"30","length":"16"},"services":"1,2,9,4"}) 
+2018-08-27 07:07:14 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-27 07:07:14 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-27 07:07:14 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-27 07:07:14 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-27 07:07:14 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-27 07:07:14 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":1.472,"width":"20","height":"30","length":"16"},"services":"1,2,9,4"}) 
+2018-08-27 07:08:32 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-27 07:08:32 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-27 07:08:32 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-27 07:08:32 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-27 07:08:32 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-27 07:08:32 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":1.472,"width":"20","height":"30","length":"16"},"services":"1,2,9,4"}) 
+2018-08-27 07:09:00 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-27 07:09:00 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-27 07:09:00 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-27 07:09:00 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-27 07:09:00 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-27 07:09:00 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":1.472,"width":"20","height":"30","length":"16"},"services":"1,2,9,4"}) 
+2018-08-27 07:09:07 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-27 07:09:07 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-27 07:09:07 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-27 07:09:07 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-27 07:09:07 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-27 07:09:07 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":1.472,"width":"20","height":"30","length":"16"},"services":"1,2,9,4"}) 
+2018-08-27 07:14:49 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-27 07:14:49 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-27 07:14:49 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-27 07:14:49 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-27 07:14:49 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-27 07:14:49 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":1.472,"width":"20","height":"30","length":"16"},"services":"1,2,9,4"}) 
+2018-08-27 07:21:10 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-27 07:21:10 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-27 07:21:10 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-27 07:21:10 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-27 07:21:10 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-27 07:21:10 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":"0.3","width":"20","height":"30","length":"16"},"services":"1,2,9,4"}) 
+2018-08-27 07:42:28 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-27 07:42:28 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-27 07:42:28 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-27 07:42:28 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-27 07:42:28 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-27 07:42:28 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":"0.3","width":"20","height":"30","length":"16"},"services":"1,2,9,4"}) 
+2018-08-28 06:08:14 - COTACAO TELA DO PRODUTO: (The to.postal code field is required.) 
+2018-08-28 06:08:15 - COTACAO TELA DO PRODUTO: (The to.postal code field is required.) 
+2018-08-28 06:08:15 - COTACAO TELA DO PRODUTO: (The to.postal code field is required.) 
+2018-08-31 12:40:02 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-31 12:40:02 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-31 12:40:02 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-31 12:40:02 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-31 12:40:02 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-31 12:40:02 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":"0.3","width":"20","height":"30","length":"16"},"services":"1,2,9,4"}) 
+2018-08-31 12:41:22 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-31 12:41:22 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-31 12:41:22 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-31 12:41:22 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-31 12:41:22 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-31 12:41:22 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":"0.3","width":"20","height":"30","length":"16"},"services":"1,2,9,4"}) 
+2018-08-31 12:44:23 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-31 12:44:23 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-31 12:44:23 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-31 12:44:23 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-31 12:44:23 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-31 12:46:18 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-31 12:46:18 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-31 12:46:18 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-31 12:46:18 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-31 12:46:18 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-31 12:46:18 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":"0.3","width":"20","height":"30","length":"16"},"services":"1,2,9,4"}) 
+2018-08-31 12:46:42 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-31 12:46:42 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-31 12:46:42 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-31 12:46:42 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-31 12:46:42 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-31 12:46:42 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":"0.3","width":"20","height":"30","length":"16"},"services":"1,2,9,4"}) 
+2018-08-31 12:51:01 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-31 12:51:01 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-31 12:51:01 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-31 12:51:01 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-31 12:51:01 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-31 12:51:01 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":"0.3","width":"20","height":"30","length":"16"},"services":"1,2,9,4"}) 
+2018-08-31 12:56:23 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-31 12:56:23 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-31 12:56:23 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-31 12:56:23 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-31 12:56:23 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-31 12:56:23 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":"0.3","width":"20","height":"30","length":"16"},"services":"1,2,9,4","options":{"receipt":false,"own_hand":false,"collect":false,"insurance_value":99.9}}) 
+2018-08-31 01:00:24 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-31 01:00:24 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-31 01:00:24 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-31 01:00:24 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-31 01:00:24 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-31 01:01:10 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-31 01:01:10 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-31 01:01:10 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-31 01:01:10 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-31 01:01:10 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-31 01:01:40 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-31 01:01:40 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-31 01:01:40 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-31 01:01:40 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-31 01:01:40 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-31 01:01:40 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":"0.3","width":"20","height":"30","length":"16"},"services":"1,2,9,4","options":{"receipt":false,"own_hand":false,"collect":false,"insurance_value":99.9}}) 
+2018-08-31 01:16:18 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-31 01:16:18 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-31 01:16:18 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-31 01:16:18 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-31 01:16:18 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-31 01:16:18 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":"0.3","width":"20","height":"30","length":"16"},"services":"1,2,9,4","options":{"receipt":false,"own_hand":false,"collect":false,"insurance_value":99.9}}) 
+2018-08-31 01:54:28 - COTACAO TELA DO PRODUTO: (#######################################################) 
+2018-08-31 01:54:28 - COTACAO TELA DO PRODUTO: (Entrou na funcao de calculo de frete na tela do produto) 
+2018-08-31 01:54:28 - COTACAO TELA DO PRODUTO: (PHP: 7.2.2) 
+2018-08-31 01:54:28 - COTACAO TELA DO PRODUTO: (#29 Quantidade: 1) 
+2018-08-31 01:54:29 - COTACAO TELA DO PRODUTO: (Chegamos ate aqui, amigos.) 
+2018-08-31 01:54:29 - COTACAO TELA DO PRODUTO: ({"from":{"postal_code":"1018020"},"to":{"postal_code":"96020360"},"package":{"weight":"0.3","width":"20","height":"30","length":"16"},"services":"1,2,9,4","options":{"receipt":false,"own_hand":false,"collect":false,"insurance_value":99.9}}) 
+2018-08-31 02:37:32 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-31 02:37:35 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-08-31 02:37:36 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-31 02:37:37 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-08-31 02:37:38 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-31 02:37:38 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-08-31 02:37:39 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-31 02:37:39 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-08-31 02:37:39 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-31 02:37:42 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-08-31 02:37:42 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-31 02:37:43 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-08-31 02:37:44 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-31 02:37:55 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-08-31 02:37:56 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-31 02:37:57 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-08-31 02:37:58 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-31 02:38:00 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-08-31 02:38:00 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-31 02:38:01 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-08-31 02:38:02 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-31 02:38:03 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-08-31 02:38:04 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-31 02:38:04 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-08-31 02:38:05 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-31 02:38:11 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-08-31 02:38:12 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-31 02:38:12 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-08-31 02:38:13 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-31 05:08:03 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-31 05:08:44 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-08-31 05:08:45 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-31 05:08:46 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-08-31 05:08:46 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-31 05:08:47 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-08-31 05:08:48 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-31 05:08:49 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-08-31 05:08:50 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-31 05:08:51 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-08-31 05:08:51 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-08-31 05:08:51 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-31 05:08:52 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-31 05:08:55 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-08-31 05:08:55 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-31 05:10:52 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-08-31 05:10:52 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-31 05:10:56 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-08-31 05:10:56 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-31 05:11:56 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-08-31 05:11:57 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-31 05:12:52 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-08-31 05:12:53 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-31 05:12:56 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-08-31 05:12:57 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-31 05:13:53 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-08-31 05:13:54 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-31 05:14:58 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-08-31 05:14:59 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-31 05:15:54 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-08-31 05:15:55 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-31 05:16:59 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-08-31 05:17:00 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-31 05:17:42 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-08-31 05:17:42 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-31 06:59:40 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-08-31 06:59:41 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-31 06:59:41 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-31 07:00:59 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-08-31 07:01:00 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-31 07:01:59 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-08-31 07:02:01 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-31 07:02:56 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-08-31 07:03:00 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-31 07:03:57 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-08-31 07:04:02 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-31 07:05:57 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-08-31 07:05:58 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-31 07:07:02 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-08-31 07:07:07 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-31 07:08:11 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-08-31 07:08:12 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-31 07:09:11 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-08-31 07:09:12 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-31 07:11:12 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-08-31 07:11:16 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-31 07:13:12 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-08-31 07:13:13 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-31 07:15:12 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-08-31 07:15:13 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-31 07:16:14 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-08-31 07:16:15 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-31 07:18:13 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-08-31 07:18:14 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-31 07:20:13 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-08-31 07:20:14 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-31 07:22:14 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-08-31 07:22:15 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-31 07:24:15 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-08-31 07:24:16 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-31 07:26:15 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-08-31 07:26:17 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-31 07:45:40 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-08-31 07:45:40 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-31 07:47:40 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-08-31 07:47:41 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-31 07:49:41 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-08-31 07:49:42 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-31 07:51:41 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-08-31 07:51:42 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-31 07:53:42 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-08-31 07:53:43 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.
+2018-08-31 07:55:43 - Error: (1)  Correios. Motivo: Serviço economico indisponivel para o trecho.
+2018-08-31 07:55:44 - Error: (9)  Via Brasil. Motivo: Serviço indisponivel para o trecho.

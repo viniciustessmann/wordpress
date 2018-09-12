@@ -48,7 +48,17 @@ class woocommercemelhorenviointegration
         // Get orders
         add_action( 'wp_ajax_wpmelhorenvio_get_orders', function() {
             $order = new ordersController();
-            echo $order->getAll();
+            echo wp_send_json([
+                'success' => true,
+                'data' => $order->getAll()
+            ]); 
+            die();
+        });
+
+        // Send to cart
+        add_action( 'wp_ajax_wpmelhorenvio_send_order', function() {
+            $order = new ordersController();
+            echo $order->send();
             die();
         });
 
@@ -69,7 +79,6 @@ class woocommercemelhorenviointegration
                 'success' => true,
                 'token' => $token
             ]);
-            
         });
     }
 }

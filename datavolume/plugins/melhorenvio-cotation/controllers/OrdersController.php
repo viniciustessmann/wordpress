@@ -9,18 +9,18 @@ class OrdersController {
     }
 
     public function getAll() {
-
         $orders =  wc_get_orders([]);
-
         $response = [];
         foreach ($orders as $item) {
-
             $response[] = (object) [
                 'id'   => $item->get_id()
             ];
         }
+        return $response;
+    }
 
-        return json_encode($response);
+    public function send($order) {
+
     }
 }
 

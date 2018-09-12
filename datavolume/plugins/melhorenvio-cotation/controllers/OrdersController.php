@@ -1,25 +1,19 @@
 <?php
 
 namespace Controllers;
-use Models\User;
+use Models\Order;
 
 class OrdersController {
 
-    public function __construct(){
-
-    }
-
-    public function getAll() {
-
-        $user = new User();
-
-        print_r($user);
-        die;
+    public function index() {
 
         $orders =  wc_get_orders([]);
         $response = [];
 
         foreach ($orders as $item) {
+
+            $order = new Order($item);
+
             $response[] = (object) [
                 'id'   => $item->get_id(),
                 'status' => null,
@@ -51,19 +45,9 @@ class OrdersController {
                 ]
             ];
         }
+
+        print_r($response);
         return $response;
-    }
-
-    private function getStatus() {
-
-    }
-
-    private function getOrdersMelhorEnvio() {
-
-    }
-
-    public function send($order) {
-
     }
 }
 

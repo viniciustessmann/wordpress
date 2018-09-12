@@ -15,7 +15,7 @@ Domain Path:  /languages
 CONST VERSION_PLUGIN_MELHOR_ENVIO = '2.0.0';
 
 require __DIR__ . '/vendor/autoload.php';
-include_once WC_ABSPATH.'/includes/wc-order-functions.php';
+//include_once WC_ABSPATH.'/includes/wc-order-functions.php';
 
 use Controllers\OrdersController;
 use Controllers\ConfigurationController;
@@ -30,11 +30,13 @@ class woocommercemelhorenviointegration
 
         //Create side menu
         add_action("admin_menu", function() {
+
+            $order = new OrdersController();
+
             add_menu_page("Melhor Envios",  "Melhor Envio", "administrator", "wpmelhorenvio-melhor-envio", null, null, null);
-            add_submenu_page("wpmelhorenvio-melhor-envio", "Pedidos", "Pedidos", "administrator", "wpmelhorenvio-melhor-envio-pedidos", function() {
-                echo 'Pedidos';
-                die;
-            });
+            add_submenu_page("wpmelhorenvio-melhor-envio", "Pedidos", "Pedidos", "administrator", "wpmelhorenvio-melhor-envio-pedidos", [$order, 'index']);
+
+            
             add_submenu_page("wpmelhorenvio-melhor-envio", "Meus dados", "Meus dados", "administrator", "wpmelhorenvio-melhor-envio-dados", function() {
                 echo 'Meus dados';
                 die;

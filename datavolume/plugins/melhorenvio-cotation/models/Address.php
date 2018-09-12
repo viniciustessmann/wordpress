@@ -5,9 +5,13 @@ namespace Models;
 class Address {
 
     private $name;
-    private $phone;
+    private $number;
 
     public function __construct() {
         
+    }
+
+    public function setAttribute($attribute, $value) {
+        $this->{$attribute} = $value;
     }
 }

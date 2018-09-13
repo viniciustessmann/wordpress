@@ -2,7 +2,7 @@
 
 namespace Models;
 
-class Order {
+class Order  {
 
     private $id;
     private $status;

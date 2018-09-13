@@ -16,7 +16,9 @@
     "autoload": {
         "psr-4": {
             "Controllers\\": "controllers/",
-            "Models\\": "models/"
+            "Models\\": "models/",
+            "Interfaces\\": "core/interfaces/",
+            "Bases\\": "core/bases/"
         }
     }
 }

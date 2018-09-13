@@ -11,9 +11,17 @@ class ComposerStaticInita77888e6c70ac88ad4d30b0fdc5b004d
         array (
             'Models\\' => 7,
         ),
+        'I' => 
+        array (
+            'Interfaces\\' => 11,
+        ),
         'C' => 
         array (
             'Controllers\\' => 12,
+        ),
+        'B' => 
+        array (
+            'Bases\\' => 6,
         ),
     );
 
@@ -22,9 +30,17 @@ class ComposerStaticInita77888e6c70ac88ad4d30b0fdc5b004d
         array (
             0 => __DIR__ . '/../..' . '/models',
         ),
+        'Interfaces\\' => 
+        array (
+            0 => '/core/interfaces',
+        ),
         'Controllers\\' => 
         array (
             0 => __DIR__ . '/../..' . '/controllers',
+        ),
+        'Bases\\' => 
+        array (
+            0 => '/core/bases',
         ),
     );
 

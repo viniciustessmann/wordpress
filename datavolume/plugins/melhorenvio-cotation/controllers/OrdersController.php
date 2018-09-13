@@ -8,7 +8,9 @@ class OrdersController {
 
     public function index() {
         //  Retrieve orders and load view.
-        print_r((new Order)->retrieveOne(749));
+
+        echo '<pre>';
+        print_r((new Order(749)));
         die;
     }
 }

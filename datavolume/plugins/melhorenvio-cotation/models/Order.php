@@ -16,19 +16,19 @@ class Order extends bOrders {
      * @param [Int] $id
      * @return object
      */
-    public function retrieveOne($id) : object
-    {
-        $post = get_post($id);
+    // public function retrieveOne($id) : object
+    // {
+    //     $post = get_post($id);
 
-        $order = [
-            'ID' => $post->ID,
-        ];
+    //     $order = [
+    //         'ID' => $post->ID,
+    //     ];
 
-        return (object) [
-            'message' => 'Testing OOP WP',
-            'method' => 'OrdersModel@retrieveOne',
-            'data' => $post
-        ];
-    }
+    //     return (object) [
+    //         'message' => 'Testing OOP WP',
+    //         'method' => 'OrdersModel@retrieveOne',
+    //         'data' => $post
+    //     ];
+    // }
 
 }

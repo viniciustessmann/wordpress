@@ -7,33 +7,34 @@ use Interfaces\iOrders;
 class bOrders implements iOrders {
 
     private $id;
+
     private $status;
+    
     private $from;
+    
     private $to;
+    
     private $products;
+    
     private $package;
+    
     private $options;
 
     /**
-     * Set class attributes from an Array.
-     *
-     * @param [Array] $attributes
+     * @param Array $attributes
      * @return void
      */
-    public function setAttributes($attributes) : void
+    public function setAttributes(Array $attributes) : void
     {
         //  code
     }
 
     /**
-     * Retrieve One Order by its ID.
-     *
-     * @param [Int] $id
      * @return object
      */
-    public function retrieveOne($id) : object
+    public function retrieveOne() : object
     {
-        $post = get_post($id);
+        $post = get_post(['post_id' => $id, 'post_type' => 'shop_order']);
         
         return (object) [
             'message' => 'Testing OOP WP',
@@ -43,28 +44,25 @@ class bOrders implements iOrders {
     }
 
     /**
-     * Return Many orders.
-     *
-     * @param [type] $orders
-     * @param [type] $filters
-     * @return object
+     * @param Array $filters
+     * @return Array
      */
-    public function retrieveMany($orders, $filters = NULL) : object
+    public static function retrieveMany(Array $filters = NULL) : Array
     {
-        return (object) [
-            'message' => 'Testing OOP WP',
-            'method' => 'OrdersModel@retrieveMany'
-        ];
+        $defaults = array(
+            'numberposts' => 5,
+            'post_type' => 'shop_order'
+        );
+
+        return get_posts($defaults);
     }
 
+
     /**
-     * Update a specific order by its ID.
-     *
-     * @param [type] $order
-     * @param [type] $data
+     * @param Array $data
      * @return object
      */
-    public function update($order, $data) : object
+    public function update(Array $data) : object
     {
         return (object) [
             'message' => 'Testing OOP WP',
@@ -73,9 +71,6 @@ class bOrders implements iOrders {
     }
 
     /**
-     * Delete specific order by its ID.
-     *
-     * @param [type] $order
      * @return void
      */
     public function delete($order) : void

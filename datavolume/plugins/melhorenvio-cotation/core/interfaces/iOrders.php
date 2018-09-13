@@ -5,44 +5,31 @@ namespace Interfaces;
 interface iOrders
 {
     /**
-     * Set class attributes from an Array.
-     *
-     * @param [Array] $attributes
+     * @param Array $attributes
      * @return void
      */
-    public function setAttributes($attributes) : void;
+    public function setAttributes(Array $attributes) : void;
+
 
     /**
-     * Retrieve One Order by its ID.
-     *
-     * @param [Int] $order
      * @return object
      */
-    public function retrieveOne($order) : object;
+    public function retrieveOne() : object;
 
     /**
-     * Return Many orders.
-     *
-     * @param [type] $orders
-     * @param [type] $filters
+     * @param Array $filters
+     * @return Array
+     */
+    public static function retrieveMany(Array $filters = NULL) : Array;
+
+    /**
+     * @param Array $data
      * @return object
      */
-    public function retrieveMany($orders, $filters = NULL) : object;
+    public function update(Array $data) : object;
 
     /**
-     * Update a specific order by its ID.
-     *
-     * @param [type] $order
-     * @param [type] $data
-     * @return object
-     */
-    public function update($order, $data) : object;
-
-    /**
-     * Delete specific order by its ID.
-     *
-     * @param [type] $order
      * @return void
      */
-    public function delete($order) : void;
+    public function delete() : void;
 }

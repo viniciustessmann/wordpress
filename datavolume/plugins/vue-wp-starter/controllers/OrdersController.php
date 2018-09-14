@@ -7,11 +7,17 @@ use Models\Order;
 class OrdersController {
 
     public function index() {
-        echo 'test';
+        echo 'Teste arrombado funciona.';
+        die;
+    }
 
-        echo wp_json_send([
-            'test' => 'This is an ajax test'
-        ]);
+    public function getOrders() {
+        
+        $orders = Order::retrieveMany();
+
+        echo '<pre>';
+        var_dump($orders);
+        die;
     }
 }
 

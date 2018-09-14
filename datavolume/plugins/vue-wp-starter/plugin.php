@@ -44,11 +44,10 @@ if ( !defined( 'ABSPATH' ) ) exit;
 /**
  * Usages
  */
+require __DIR__ . '/vendor/autoload.php';
+
 use Controllers\OrdersController;
 use Controllers\ConfigurationController;
-
-
-require __DIR__ . '/vendor/autoload.php';
 
 /**
  * Base_Plugin class
@@ -210,8 +209,7 @@ final class Base_Plugin {
      * @return void
      */
     public function init_hooks() {
-
-        $order = new OrdersController();
+        $orders = new OrdersController();
         
         add_action( 'init', array( $this, 'init_classes' ) );
 

@@ -219,7 +219,7 @@ final class Base_Plugin {
         /**
          * MELHOR ENVIO ACTIONS
          */
-        add_action( 'wp_ajax_test', [$orders, 'index']);
+        add_action( 'wp_ajax_test', [$orders, 'getorders']);
 
         // Send to cart
         // add_action( 'wp_ajax_wpmelhorenvio_send_order', function() {

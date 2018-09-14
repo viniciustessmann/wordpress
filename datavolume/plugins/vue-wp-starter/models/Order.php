@@ -52,6 +52,37 @@ class Order extends bOrders {
         ];
     }
 
+
+     /**
+     * @param Array $filters
+     * @return Array
+     */
+    public static function retrieveMany(Array $filters = NULL) : Array
+    {
+        $args = array(
+            'numberposts' => -1,
+            'post_status' => 'public',
+            'post_type' => 'shop_order'
+        );
+
+        $posts =  get_posts($args);
+
+        $data = [];
+        foreach ($posts as $post) {
+
+            $order = new Order($post->ID);
+            $data[] =  [
+                'id' => $order->id,
+                'products' => $order->getProducts(),
+                'cotation' => $order->getCotation(),
+                'address' => $order->address,
+                'to' => $order->to
+            ];
+        }
+
+        return $data;
+    }
+
     /**
      * Retrieve all products in Order.
      *

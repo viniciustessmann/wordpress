@@ -12,11 +12,8 @@ class OrdersController {
     }
 
     public function getOrders() {
-        
-        $orders = Order::retrieveMany();
-
-        echo '<pre>';
-        var_dump($orders);
+        $order = new Order(749)->retrieveOne();
+        echo json_encode($order);
         die;
     }
 }

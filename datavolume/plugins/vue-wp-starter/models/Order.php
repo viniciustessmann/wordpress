@@ -18,15 +18,23 @@ class Order extends bOrders {
     public function __construct($id = null) {
 
         $post = get_post($id);
+
         $orderWc = new \WC_Order( $id );
+        
         $data = $orderWc->get_data();
 
         $this->id = $id;
+        
         $this->address = $data['shipping'];
+        
         $this->products = $this->getProducts();
+        
         $this->total = $orderWc->total;
+        
         $this->shipping_total = $orderWc->shipping_total;
-        $this->to = (object) $data['billing'];
+        
+        $this->to = $data['billing'];
+        
         $this->cotation = $this->getCotation();
     }
 
@@ -36,9 +44,9 @@ class Order extends bOrders {
      * @param [Int] $id
      * @return object
      */
-    public function retrieveOne($id) : object
+    public function retrieveOne() : Array
     {
-        return (object) [
+        return [
             'method' => 'OrdersModel@retrieveOne',
             'data' => $this
         ];

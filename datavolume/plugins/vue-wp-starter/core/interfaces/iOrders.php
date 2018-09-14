@@ -14,7 +14,7 @@ interface iOrders
     /**
      * @return object
      */
-    public function retrieveOne() : object;
+    public function retrieveOne() : Array;
 
     /**
      * @param Array $filters

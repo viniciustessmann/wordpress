@@ -210,7 +210,7 @@ final class Base_Plugin {
      */
     public function init_hooks() {
         $orders = new OrdersController();
-        
+
         add_action( 'init', array( $this, 'init_classes' ) );
 
         // Localize our plugin
@@ -219,7 +219,7 @@ final class Base_Plugin {
         /**
          * MELHOR ENVIO ACTIONS
          */
-        add_action( 'wp_ajax_test', [$orders, 'index']);
+        add_action( 'wp_ajax_test', [$orders, 'getOrders']);
 
         // Send to cart
         // add_action( 'wp_ajax_wpmelhorenvio_send_order', function() {

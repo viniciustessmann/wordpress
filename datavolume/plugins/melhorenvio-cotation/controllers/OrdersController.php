@@ -7,9 +7,15 @@ use Models\Order;
 class OrdersController {
 
     public function index() {
-        //  Retrieve orders and load view.
+        $orders = Order::retrieveMany();
+    }
+
+    public function getOrders() {
+        
+        $orders = Order::retrieveMany();
+
         echo '<pre>';
-        print_r((new Order(749)));
+        var_dump($orders);
         die;
     }
 }

@@ -36,7 +36,7 @@ class Order extends bOrders {
      * @param [Int] $id
      * @return object
      */
-    public function retrieveOne($id) : object
+    public function retrieveOne() : object
     {
         return (object) [
             'method' => 'OrdersModel@retrieveOne',
@@ -93,9 +93,9 @@ class Order extends bOrders {
      */
     public function makeCotation() {
 
-        $package = get_post_meta($this->id, 'melhorenvio_package', true);
+        $cotation = get_post_meta($this->id, 'melhorenvio_cotation', true);
 
-        if(!$package) {
+        if(!$cotation) {
 
             $token = get_option('melhorenvio_token');
             $body = [
@@ -137,10 +137,10 @@ class Order extends bOrders {
             add_post_meta($this->id, 'melhorenvio_package', $package);
             add_post_meta($this->id, 'melhorenvio_cotation', $response);
 
-            return $package;
+            return $cotation;
         }
 
-        return $package;
+        return $cotation;
     }
 
     function normalizeToArray($data) {
@@ -192,9 +192,7 @@ class Order extends bOrders {
                     'id' => $item->company->id,
                     'name' => $item->company->name
                 ],
-                'selected' => $item->selected,
-                // 'postcode' => $postcode,
-                // 'postcode_client' => $postcodeClient
+                'selected' => $item->selected
             ];
         }
         return $result;

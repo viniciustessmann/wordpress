@@ -28,15 +28,13 @@ class woocommercemelhorenviointegration
 
     public function init() {
 
+        $order = new OrdersController();
+
         //Create side menu
         add_action("admin_menu", function() {
 
-            $order = new OrdersController();
-
             add_menu_page("Melhor Envios",  "Melhor Envio", "administrator", "wpmelhorenvio-melhor-envio", null, null, null);
             add_submenu_page("wpmelhorenvio-melhor-envio", "Pedidos", "Pedidos", "administrator", "wpmelhorenvio-melhor-envio-pedidos", [$order, 'index']);
-
-            
             add_submenu_page("wpmelhorenvio-melhor-envio", "Meus dados", "Meus dados", "administrator", "wpmelhorenvio-melhor-envio-dados", function() {
                 echo 'Meus dados';
                 die;
@@ -47,19 +45,13 @@ class woocommercemelhorenviointegration
             });
         });
 
-        // Get orders
-        add_action( 'wp_ajax_wpmelhorenvio_get_orders', function() {
-            $order = new ordersController();
-            echo wp_send_json([
-                'success' => true,
-                'data' => $order->getAll()
-            ]); 
-        });
-
-        // Send to cart
+        /**
+         * Route to get all orders
+         */
+        add_action( 'wp_ajax_wpmelhorenvio_get_orders', [$order, 'index']);
         add_action( 'wp_ajax_wpmelhorenvio_send_order', function() {
-            $order = new ordersController();
-            echo $order->send();
+            echo 'Sending order';
+            die();
         });
 
         //Save token

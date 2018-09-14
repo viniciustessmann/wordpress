@@ -27,9 +27,4 @@ interface iOrders
      * @return object
      */
     public function update(Array $data) : object;
-
-    /**
-     * @return void
-     */
-    public function delete() : void;
 }

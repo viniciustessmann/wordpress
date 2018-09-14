@@ -49,12 +49,9 @@ class bOrders implements iOrders {
      */
     public static function retrieveMany(Array $filters = NULL) : Array
     {
-        $defaults = array(
-            'numberposts' => 5,
-            'post_type' => 'shop_order'
-        );
+        $defaults = array();
 
-        return get_posts($defaults);
+        return get_posts([]);
     }
 
 
@@ -70,11 +67,4 @@ class bOrders implements iOrders {
         ];
     }
 
-    /**
-     * @return void
-     */
-    public function delete($order) : void
-    {
-        //  code
-    }
 }

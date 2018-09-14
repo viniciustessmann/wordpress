@@ -15,8 +15,8 @@ class Order extends bOrders {
     private $status;
     private $address;
 
-    public function __construct($id = null) {
-
+    public function __construct($id = null)
+    {
         $post = get_post($id);
 
         $orderWc = new \WC_Order( $id );

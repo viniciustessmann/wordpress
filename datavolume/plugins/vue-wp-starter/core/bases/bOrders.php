@@ -32,11 +32,11 @@ class bOrders implements iOrders {
     /**
      * @return object
      */
-    public function retrieveOne() : object
+    public function retrieveOne() : Array
     {
         $post = get_post(['post_id' => $id, 'post_type' => 'shop_order']);
         
-        return (object) [
+        return [
             'message' => 'Testing OOP WP',
             'method' => 'OrdersModel@retrieveOne',
             'data' => $post
@@ -62,19 +62,11 @@ class bOrders implements iOrders {
      * @param Array $data
      * @return object
      */
-    public function update(Array $data) : object
+    public function update(Array $data) : Array
     {
-        return (object) [
+        return [
             'message' => 'Testing OOP WP',
             'method' => 'OrdersModel@update'
         ];
-    }
-
-    /**
-     * @return void
-     */
-    public function delete() : void
-    {
-        //  code
     }
 }

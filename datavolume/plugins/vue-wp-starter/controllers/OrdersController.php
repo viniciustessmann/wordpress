@@ -7,13 +7,14 @@ use Models\Order;
 class OrdersController {
 
     public function index() {
-        echo 'Teste arrombado funciona.';
-        die;
+       $order = (new Order(749))->retrieveOne();
+       var_dump($order);
+       die;
     }
 
     public function getOrders() {
-        $order = new Order(749)->retrieveOne();
-        echo json_encode($order);
+        $order = new Order();
+        var_dump($order);
         die;
     }
 }

@@ -12,7 +12,7 @@ interface iOrders
 
 
     /**
-     * @return object
+     * @return Array
      */
     public function retrieveOne() : Array;
 
@@ -24,12 +24,7 @@ interface iOrders
 
     /**
      * @param Array $data
-     * @return object
+     * @return Array
      */
-    public function update(Array $data) : object;
-
-    /**
-     * @return void
-     */
-    public function delete() : void;
+    public function update(Array $data) : Array;
 }
